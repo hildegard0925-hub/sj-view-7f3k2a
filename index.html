@@ -147,7 +147,12 @@ function filterItems() {
     render(filtered);
 
 }
+// 페이지 열리면 자동으로 업무 로드
+window.onload = function() {
 
+    loadTasks();
+
+};
 // 30초마다 자동 새로고침
 setInterval(function() {
 
