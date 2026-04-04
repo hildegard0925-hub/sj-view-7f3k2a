@@ -54,7 +54,9 @@ input {
 let currentData = [];
 
 function loadTasks() {
-    fetch("tasks.json")
+    fetch("tasks.json?t=" + new Date().getTime(), {
+        cache: "no-store"
+    })
         .then(res => res.json())
         .then(data => {
             currentData = data;
@@ -63,7 +65,9 @@ function loadTasks() {
 }
 
 function loadFunds() {
-    fetch("funds.json")
+    fetch("funds.json?t=" + new Date().getTime(), {
+        cache: "no-store"
+    })
         .then(res => res.json())
         .then(data => {
             currentData = data;
@@ -72,7 +76,9 @@ function loadFunds() {
 }
 
 function loadEmployees() {
-    fetch("employees.json")
+    fetch("employees.json?t=" + new Date().getTime(), {
+        cache: "no-store"
+    })
         .then(res => res.json())
         .then(data => {
             currentData = data;
