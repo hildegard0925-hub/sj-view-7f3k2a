@@ -199,18 +199,18 @@ function render(data) {
         else if (item.name) {
 
             values = [
-                item.employee_id,
+                item.employee_no,
                 item.name,
-                item.ssn,
+                item.resident_no,
                 item.hire_date,
                 item.department,
                 item.position,
-                item.phone,
+                item.phone_mobile,
                 item.contract_type,
                 item.contract_end_date,
                 item.salary,
                 item.annual_salary,
-                item.resignation_date,
+                item.retire_date,
                 item.leave_status
             ];
 
@@ -236,34 +236,7 @@ function render(data) {
     list.appendChild(table);
 
 }
-    values.forEach((val, index) => {
-
-        const td = document.createElement("td");
-
-        if (typeof val === "number") {
-
-            td.innerText =
-                val.toLocaleString();
-
-            td.style.textAlign = "right";
-
-        }
-
-        else {
-
-            td.innerText = val ?? "";
-
-            td.style.textAlign = "left";
-
-        }
-
-        td.style.border = "1px solid #ddd";
-
-        td.style.padding = "6px";
-
-        row.appendChild(td);
-
-    });
+    
 function filterItems() {
 
     const keyword =
