@@ -9,12 +9,12 @@
 <style>
 
 table {
-    font-size: 13px;
+    width: 100%;
+    table-layout: auto;
 }
 
 th {
-    position: sticky;
-    top: 0;
+    white-space: nowrap;
 }
 body {
     font-family: sans-serif;
@@ -32,7 +32,7 @@ button {
 }
 
 input {
-    width: 400px;
+    width: 300px;
     padding: 10px;
     margin-bottom: 10px;
     font-size: 16px;
@@ -134,7 +134,21 @@ function render(data) {
     }
 
     else if (data[0].name) {
-        columns = ["이름", "부서", "직급", "입사일", "계약구분"];
+        columns = [
+            "사번",
+            "이름",
+            "주민번호",
+            "입사일",
+            "부서",
+            "직급",
+            "핸드폰",
+            "계약구분",
+            "계약종료일",
+            "급여",
+            "연봉",
+            "퇴사일",
+            "휴직상태"
+        ];
     }
 
     columns.forEach(col => {
@@ -183,13 +197,23 @@ function render(data) {
         }
 
         else if (item.name) {
+
             values = [
+                item.employee_id,
                 item.name,
+                item.ssn,
+                item.hire_date,
                 item.department,
                 item.position,
-                item.hire_date,
-                item.contract_type
+                item.phone,
+                item.contract_type,
+                item.contract_end_date,
+                item.salary,
+                item.annual_salary,
+                item.resignation_date,
+                item.leave_status
             ];
+
         }
 
         values.forEach(val => {
@@ -212,7 +236,34 @@ function render(data) {
     list.appendChild(table);
 
 }
+    values.forEach((val, index) => {
 
+        const td = document.createElement("td");
+
+        if (typeof val === "number") {
+
+            td.innerText =
+                val.toLocaleString();
+
+            td.style.textAlign = "right";
+
+        }
+
+        else {
+
+            td.innerText = val ?? "";
+
+            td.style.textAlign = "left";
+
+        }
+
+        td.style.border = "1px solid #ddd";
+
+        td.style.padding = "6px";
+
+        row.appendChild(td);
+
+    });
 function filterItems() {
 
     const keyword =
@@ -237,12 +288,6 @@ window.onload = function() {
     loadTasks();
 
 };
-// 30초마다 자동 새로고침
-setInterval(function() {
-
-    location.reload();
-
-}, 30000);
 
 </script>
 
