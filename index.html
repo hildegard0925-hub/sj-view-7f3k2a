@@ -220,10 +220,31 @@ function render(data) {
 
             const td = document.createElement("td");
 
-            td.innerText = val ?? "";
+            if (typeof val === "number") {
 
-            td.style.border = "1px solid #ddd";
-            td.style.padding = "6px";
+                td.innerText =
+                    val.toLocaleString();
+
+                td.style.textAlign =
+                    "right";
+
+            }
+
+            else {
+
+                td.innerText =
+                    val ?? "";
+
+                td.style.textAlign =
+                    "left";
+
+            }
+
+            td.style.border =
+                "1px solid #ddd";
+
+            td.style.padding =
+                "6px";
 
             row.appendChild(td);
 
