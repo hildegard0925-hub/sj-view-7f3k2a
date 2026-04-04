@@ -5234,12 +5234,5 @@
         "vendor": "환자",
         "amount": null,
         "company": "병원"
-    },
-    {
-        "id": 1588,
-        "pay_date": "2026-04-04",
-        "vendor": "ㅂㅂㅂ",
-        "amount": 1000,
-        "company": "병원"
     }
 ]
