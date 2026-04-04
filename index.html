@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>SweetJelly 조회</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+body {
+    font-family: sans-serif;
+    margin: 10px;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px;
+    margin: 5px;
+    font-size: 16px;
+}
+
+input {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.item {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+}
+</style>
+
+</head>
+
+<body>
+
+<h2>SweetJelly 조회</h2>
+
+<button onclick="loadTasks()">업무</button>
+<button onclick="loadFunds()">지출</button>
+<button onclick="loadEmployees()">직원</button>
+
+<input type="text" id="search" placeholder="검색" onkeyup="filterItems()">
+
+<div id="list"></div>
+
+<script>
+
+let currentData = [];
+
+function loadTasks() {
+    fetch("tasks.json")
+        .then(res => res.json())
+        .then(data => {
+            currentData = data;
+            render(data);
+        });
+}
+
+function loadFunds() {
+    fetch("funds.json")
+        .then(res => res.json())
+        .then(data => {
+            currentData = data;
+            render(data);
+        });
+}
+
+function loadEmployees() {
+    fetch("employees.json")
+        .then(res => res.json())
+        .then(data => {
+            currentData = data;
+            render(data);
+        });
+}
+
+function render(data) {
+
+    const list = document.getElementById("list");
+
+    list.innerHTML = "";
+
+    data.forEach(item => {
+
+        let text = "";
+
+        if (item.title) {
+            text =
+                item.title + " / " +
+                item.date + " / " +
+                item.status;
+        }
+
+        else if (item.vendor) {
+            text =
+                item.vendor + " / " +
+                item.pay_date + " / " +
+                item.amount;
+        }
+
+        else if (item.name) {
+            text =
+                item.name + " / " +
+                item.department + " / " +
+                item.position;
+        }
+
+        const div = document.createElement("div");
+
+        div.className = "item";
+
+        div.innerText = text;
+
+        list.appendChild(div);
+
+    });
+
+}
+
+function filterItems() {
+
+    const keyword =
+        document
+        .getElementById("search")
+        .value
+        .toLowerCase();
+
+    const filtered =
+        currentData.filter(item =>
+            JSON.stringify(item)
+                .toLowerCase()
+                .includes(keyword)
+        );
+
+    render(filtered);
+
+}
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,5238 @@
+[
+    {
+        "id": 698,
+        "pay_date": "2025-01-03",
+        "vendor": "진료부",
+        "amount": 9441916,
+        "company": "병원"
+    },
+    {
+        "id": 699,
+        "pay_date": "2025-01-03",
+        "vendor": "직원",
+        "amount": 66664162,
+        "company": "병원"
+    },
+    {
+        "id": 700,
+        "pay_date": "2025-01-03",
+        "vendor": "당직의",
+        "amount": 6600000,
+        "company": "병원"
+    },
+    {
+        "id": 701,
+        "pay_date": "2025-01-03",
+        "vendor": "직원",
+        "amount": 869965339,
+        "company": "병원"
+    },
+    {
+        "id": 702,
+        "pay_date": "2025-01-03",
+        "vendor": "직원",
+        "amount": 14686270,
+        "company": "피에스"
+    },
+    {
+        "id": 703,
+        "pay_date": "2025-01-07",
+        "vendor": "하나은행",
+        "amount": 300000,
+        "company": "병원"
+    },
+    {
+        "id": 704,
+        "pay_date": "2025-01-09",
+        "vendor": "박개희",
+        "amount": 600000,
+        "company": "병원"
+    },
+    {
+        "id": 705,
+        "pay_date": "2025-01-10",
+        "vendor": "입원환자",
+        "amount": 25690220,
+        "company": "병원"
+    },
+    {
+        "id": 706,
+        "pay_date": "2025-01-10",
+        "vendor": "사내 동호회",
+        "amount": 699300,
+        "company": "병원"
+    },
+    {
+        "id": 707,
+        "pay_date": "2025-01-10",
+        "vendor": "한국전력공사",
+        "amount": 17456040,
+        "company": "병원"
+    },
+    {
+        "id": 708,
+        "pay_date": "2025-01-10",
+        "vendor": "이대홍(더퍼스트원)",
+        "amount": 540000,
+        "company": "병원"
+    },
+    {
+        "id": 709,
+        "pay_date": "2025-01-10",
+        "vendor": "건강보험공단외",
+        "amount": 266549550,
+        "company": "병원"
+    },
+    {
+        "id": 710,
+        "pay_date": "2025-01-10",
+        "vendor": "늘푸른간병사회",
+        "amount": 166718723,
+        "company": "병원"
+    },
+    {
+        "id": 711,
+        "pay_date": "2025-01-11",
+        "vendor": "최혜인",
+        "amount": 400000,
+        "company": "병원"
+    },
+    {
+        "id": 712,
+        "pay_date": "2025-01-13",
+        "vendor": "현대카드",
+        "amount": 11790043,
+        "company": "병원"
+    },
+    {
+        "id": 713,
+        "pay_date": "2025-01-13",
+        "vendor": "노란우산",
+        "amount": 250000,
+        "company": "병원"
+    },
+    {
+        "id": 714,
+        "pay_date": "2025-01-14",
+        "vendor": "롯데카드",
+        "amount": 56873731,
+        "company": "병원"
+    },
+    {
+        "id": 715,
+        "pay_date": "2025-01-15",
+        "vendor": "LG유플러스",
+        "amount": 5500,
+        "company": "병원"
+    },
+    {
+        "id": 716,
+        "pay_date": "2025-01-15",
+        "vendor": "백양새마을금고",
+        "amount": 2200000,
+        "company": "병원"
+    },
+    {
+        "id": 717,
+        "pay_date": "2025-01-20",
+        "vendor": "테크하임(주)",
+        "amount": 220000,
+        "company": "병원"
+    },
+    {
+        "id": 718,
+        "pay_date": "2025-01-20",
+        "vendor": "위소프트",
+        "amount": 660000,
+        "company": "병원"
+    },
+    {
+        "id": 719,
+        "pay_date": "2025-01-20",
+        "vendor": "비트컴퓨터",
+        "amount": 935000,
+        "company": "병원"
+    },
+    {
+        "id": 720,
+        "pay_date": "2025-01-21",
+        "vendor": "케이티",
+        "amount": 21480,
+        "company": "병원"
+    },
+    {
+        "id": 721,
+        "pay_date": "2025-01-22",
+        "vendor": "국민은행",
+        "amount": 10207249,
+        "company": "피에스"
+    },
+    {
+        "id": 722,
+        "pay_date": "2025-01-22",
+        "vendor": "국민은행",
+        "amount": 10065822,
+        "company": "피에스"
+    },
+    {
+        "id": 723,
+        "pay_date": "2025-01-31",
+        "vendor": "윌로펌프서비스",
+        "amount": 495000,
+        "company": "피에스"
+    },
+    {
+        "id": 724,
+        "pay_date": "2025-01-31",
+        "vendor": "미가에듀",
+        "amount": 9000,
+        "company": "피에스"
+    },
+    {
+        "id": 725,
+        "pay_date": "2025-01-31",
+        "vendor": "국세청",
+        "amount": 44283080,
+        "company": "피에스"
+    },
+    {
+        "id": 726,
+        "pay_date": "2025-01-31",
+        "vendor": "광명토탈엔지니어링",
+        "amount": 770000,
+        "company": "피에스"
+    },
+    {
+        "id": 727,
+        "pay_date": "2025-01-31",
+        "vendor": "중소벤처기업진흥공단",
+        "amount": 8200000,
+        "company": "병원"
+    },
+    {
+        "id": 728,
+        "pay_date": "2025-01-31",
+        "vendor": "박찬수",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 729,
+        "pay_date": "2025-01-31",
+        "vendor": "거래처",
+        "amount": 338798997,
+        "company": "병원"
+    },
+    {
+        "id": 730,
+        "pay_date": "2025-01-31",
+        "vendor": "서갑병",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 731,
+        "pay_date": "2025-01-31",
+        "vendor": "사상스마트병원",
+        "amount": 1132403,
+        "company": "피에스"
+    },
+    {
+        "id": 732,
+        "pay_date": "2025-01-31",
+        "vendor": "에스원",
+        "amount": 177000,
+        "company": "병원"
+    },
+    {
+        "id": 733,
+        "pay_date": "2025-01-31",
+        "vendor": "황문희",
+        "amount": 450000,
+        "company": "병원"
+    },
+    {
+        "id": 734,
+        "pay_date": "2025-01-31",
+        "vendor": "국민은행",
+        "amount": 48888150,
+        "company": "피에스"
+    },
+    {
+        "id": 735,
+        "pay_date": "2025-01-31",
+        "vendor": "파트너스세무회계법인",
+        "amount": 165000,
+        "company": "피에스"
+    },
+    {
+        "id": 736,
+        "pay_date": "2025-01-31",
+        "vendor": "현대엘리베이터 서비스",
+        "amount": 495000,
+        "company": "피에스"
+    },
+    {
+        "id": 737,
+        "pay_date": "2025-01-31",
+        "vendor": "현대엘리베이터",
+        "amount": 880000,
+        "company": "피에스"
+    },
+    {
+        "id": 738,
+        "pay_date": "2025-01-31",
+        "vendor": "급식대가",
+        "amount": 11000000,
+        "company": "병원"
+    },
+    {
+        "id": 739,
+        "pay_date": "2025-01-31",
+        "vendor": "국세청",
+        "amount": 186000,
+        "company": "병원"
+    },
+    {
+        "id": 740,
+        "pay_date": "2025-02-05",
+        "vendor": "직원",
+        "amount": 913181797,
+        "company": "병원"
+    },
+    {
+        "id": 741,
+        "pay_date": "2025-02-05",
+        "vendor": "직원",
+        "amount": 9512750,
+        "company": "병원"
+    },
+    {
+        "id": 742,
+        "pay_date": "2025-02-05",
+        "vendor": "당직의",
+        "amount": 8500000,
+        "company": "병원"
+    },
+    {
+        "id": 743,
+        "pay_date": "2025-02-05",
+        "vendor": "진료부",
+        "amount": 84203555,
+        "company": "병원"
+    },
+    {
+        "id": 744,
+        "pay_date": "2025-02-05",
+        "vendor": "직원",
+        "amount": 13159276,
+        "company": "피에스"
+    },
+    {
+        "id": 745,
+        "pay_date": "2025-02-07",
+        "vendor": "하나은행",
+        "amount": 300000,
+        "company": "병원"
+    },
+    {
+        "id": 746,
+        "pay_date": "2025-02-10",
+        "vendor": "박개희",
+        "amount": 600000,
+        "company": "병원"
+    },
+    {
+        "id": 747,
+        "pay_date": "2025-02-10",
+        "vendor": "한국전력공사",
+        "amount": 22030970,
+        "company": "병원"
+    },
+    {
+        "id": 748,
+        "pay_date": "2025-02-10",
+        "vendor": "건강보험공단외",
+        "amount": 277429960,
+        "company": "병원"
+    },
+    {
+        "id": 749,
+        "pay_date": "2025-02-10",
+        "vendor": "이대홍(더퍼스트원)",
+        "amount": 540000,
+        "company": "병원"
+    },
+    {
+        "id": 750,
+        "pay_date": "2025-02-10",
+        "vendor": "늘푸른간병사회",
+        "amount": 169988265,
+        "company": "병원"
+    },
+    {
+        "id": 751,
+        "pay_date": "2025-02-10",
+        "vendor": "사내 동호회",
+        "amount": 250000,
+        "company": "병원"
+    },
+    {
+        "id": 752,
+        "pay_date": "2025-02-11",
+        "vendor": "최혜인",
+        "amount": 400000,
+        "company": "병원"
+    },
+    {
+        "id": 753,
+        "pay_date": "2025-02-12",
+        "vendor": "입원환자",
+        "amount": 26859890,
+        "company": "병원"
+    },
+    {
+        "id": 754,
+        "pay_date": "2025-02-12",
+        "vendor": "현대카드",
+        "amount": 25535710,
+        "company": "병원"
+    },
+    {
+        "id": 755,
+        "pay_date": "2025-02-13",
+        "vendor": "노란우산",
+        "amount": 250000,
+        "company": "병원"
+    },
+    {
+        "id": 756,
+        "pay_date": "2025-02-14",
+        "vendor": "강선주, 박상례",
+        "amount": 400000,
+        "company": "병원"
+    },
+    {
+        "id": 757,
+        "pay_date": "2025-02-14",
+        "vendor": "롯데카드",
+        "amount": 62222051,
+        "company": "병원"
+    },
+    {
+        "id": 758,
+        "pay_date": "2025-02-17",
+        "vendor": "LG유플러스",
+        "amount": 5500,
+        "company": "병원"
+    },
+    {
+        "id": 759,
+        "pay_date": "2025-02-17",
+        "vendor": "백양새마을금고",
+        "amount": 2200000,
+        "company": "병원"
+    },
+    {
+        "id": 760,
+        "pay_date": "2025-02-20",
+        "vendor": "비트컴퓨터",
+        "amount": 935000,
+        "company": "병원"
+    },
+    {
+        "id": 761,
+        "pay_date": "2025-02-20",
+        "vendor": "위소프트",
+        "amount": 660000,
+        "company": "병원"
+    },
+    {
+        "id": 762,
+        "pay_date": "2025-02-20",
+        "vendor": "테크하임(주)",
+        "amount": 220000,
+        "company": "병원"
+    },
+    {
+        "id": 763,
+        "pay_date": "2025-02-21",
+        "vendor": "케이티",
+        "amount": 21480,
+        "company": "병원"
+    },
+    {
+        "id": 764,
+        "pay_date": "2025-02-24",
+        "vendor": "국민은행",
+        "amount": 10171392,
+        "company": "피에스"
+    },
+    {
+        "id": 765,
+        "pay_date": "2025-02-24",
+        "vendor": "국민은행",
+        "amount": 10032670,
+        "company": "피에스"
+    },
+    {
+        "id": 766,
+        "pay_date": "2025-02-24",
+        "vendor": "하나카드",
+        "amount": 16457118,
+        "company": "병원"
+    },
+    {
+        "id": 767,
+        "pay_date": "2025-02-25",
+        "vendor": "거래처",
+        "amount": 149424890,
+        "company": "병원"
+    },
+    {
+        "id": 768,
+        "pay_date": "2025-02-25",
+        "vendor": "에스원",
+        "amount": 77400,
+        "company": "병원"
+    },
+    {
+        "id": 769,
+        "pay_date": "2025-02-25",
+        "vendor": "중소벤처기업진흥공단",
+        "amount": 8200000,
+        "company": "병원"
+    },
+    {
+        "id": 770,
+        "pay_date": "2025-02-25",
+        "vendor": "사상스마트병원",
+        "amount": 1133000,
+        "company": "피에스"
+    },
+    {
+        "id": 771,
+        "pay_date": "2025-02-25",
+        "vendor": "광명토탈엔지니어링",
+        "amount": 770000,
+        "company": "피에스"
+    },
+    {
+        "id": 772,
+        "pay_date": "2025-02-27",
+        "vendor": "황문희",
+        "amount": 450000,
+        "company": "병원"
+    },
+    {
+        "id": 773,
+        "pay_date": "2025-02-28",
+        "vendor": "대농구조안전연구소",
+        "amount": 1000000,
+        "company": "피에스"
+    },
+    {
+        "id": 774,
+        "pay_date": "2025-02-28",
+        "vendor": "송림",
+        "amount": 800000,
+        "company": "피에스"
+    },
+    {
+        "id": 775,
+        "pay_date": "2025-02-28",
+        "vendor": "국민은행",
+        "amount": 47323627,
+        "company": "피에스"
+    },
+    {
+        "id": 776,
+        "pay_date": "2025-02-28",
+        "vendor": "서갑병",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 777,
+        "pay_date": "2025-02-28",
+        "vendor": "박찬수",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 778,
+        "pay_date": "2025-02-28",
+        "vendor": "파트너스세무회계법인",
+        "amount": 165000,
+        "company": "피에스"
+    },
+    {
+        "id": 779,
+        "pay_date": "2025-02-28",
+        "vendor": "현대엘리베이터",
+        "amount": 880000,
+        "company": "피에스"
+    },
+    {
+        "id": 780,
+        "pay_date": "2025-02-28",
+        "vendor": "현대엘리베이터 서비스",
+        "amount": 495000,
+        "company": "피에스"
+    },
+    {
+        "id": 781,
+        "pay_date": "2025-03-05",
+        "vendor": "진료부",
+        "amount": 9512750,
+        "company": "병원"
+    },
+    {
+        "id": 782,
+        "pay_date": "2025-03-05",
+        "vendor": "직원",
+        "amount": 93469869,
+        "company": "병원"
+    },
+    {
+        "id": 783,
+        "pay_date": "2025-03-05",
+        "vendor": "직원",
+        "amount": 1066476720,
+        "company": "병원"
+    },
+    {
+        "id": 784,
+        "pay_date": "2025-03-05",
+        "vendor": "당직의",
+        "amount": 8800000,
+        "company": "병원"
+    },
+    {
+        "id": 785,
+        "pay_date": "2025-03-05",
+        "vendor": "직원",
+        "amount": 10816104,
+        "company": "피에스"
+    },
+    {
+        "id": 786,
+        "pay_date": "2025-03-06",
+        "vendor": "대한적십자사",
+        "amount": 63990,
+        "company": "병원"
+    },
+    {
+        "id": 787,
+        "pay_date": "2025-03-07",
+        "vendor": "하나은행",
+        "amount": 300000,
+        "company": "병원"
+    },
+    {
+        "id": 788,
+        "pay_date": "2025-03-10",
+        "vendor": "입원환자",
+        "amount": 37157330,
+        "company": "병원"
+    },
+    {
+        "id": 789,
+        "pay_date": "2025-03-10",
+        "vendor": "박개희",
+        "amount": 600000,
+        "company": "병원"
+    },
+    {
+        "id": 790,
+        "pay_date": "2025-03-10",
+        "vendor": "사내 동호회",
+        "amount": 330000,
+        "company": "병원"
+    },
+    {
+        "id": 791,
+        "pay_date": "2025-03-10",
+        "vendor": "한국전력공사",
+        "amount": 21751710,
+        "company": "병원"
+    },
+    {
+        "id": 792,
+        "pay_date": "2025-03-10",
+        "vendor": "이대홍(더퍼스트원)",
+        "amount": 540000,
+        "company": "병원"
+    },
+    {
+        "id": 793,
+        "pay_date": "2025-03-10",
+        "vendor": "늘푸른간병사회",
+        "amount": 170188265,
+        "company": "병원"
+    },
+    {
+        "id": 794,
+        "pay_date": "2025-03-10",
+        "vendor": "건강보험공단외",
+        "amount": 191684620,
+        "company": "병원"
+    },
+    {
+        "id": 795,
+        "pay_date": "2025-03-11",
+        "vendor": "최혜인",
+        "amount": 400000,
+        "company": "병원"
+    },
+    {
+        "id": 796,
+        "pay_date": "2025-03-13",
+        "vendor": "노란우산",
+        "amount": 250000,
+        "company": "병원"
+    },
+    {
+        "id": 797,
+        "pay_date": "2025-03-17",
+        "vendor": "백양새마을금고",
+        "amount": 2200000,
+        "company": "병원"
+    },
+    {
+        "id": 798,
+        "pay_date": "2025-03-17",
+        "vendor": "LG유플러스",
+        "amount": 5500,
+        "company": "병원"
+    },
+    {
+        "id": 799,
+        "pay_date": "2025-03-20",
+        "vendor": "위소프트",
+        "amount": 660000,
+        "company": "병원"
+    },
+    {
+        "id": 800,
+        "pay_date": "2025-03-20",
+        "vendor": "비트컴퓨터",
+        "amount": 935000,
+        "company": "병원"
+    },
+    {
+        "id": 801,
+        "pay_date": "2025-03-20",
+        "vendor": "테크하임(주)",
+        "amount": 220000,
+        "company": "병원"
+    },
+    {
+        "id": 802,
+        "pay_date": "2025-03-21",
+        "vendor": "케이티",
+        "amount": 21480,
+        "company": "병원"
+    },
+    {
+        "id": 803,
+        "pay_date": "2025-03-24",
+        "vendor": "국민은행",
+        "amount": 9585278,
+        "company": "피에스"
+    },
+    {
+        "id": 804,
+        "pay_date": "2025-03-24",
+        "vendor": "국민은행",
+        "amount": 9708017,
+        "company": "피에스"
+    },
+    {
+        "id": 805,
+        "pay_date": "2025-03-24",
+        "vendor": "하나카드",
+        "amount": 9641677,
+        "company": "병원"
+    },
+    {
+        "id": 806,
+        "pay_date": "2025-03-25",
+        "vendor": "한국주차안전기술원",
+        "amount": 924000,
+        "company": "피에스"
+    },
+    {
+        "id": 807,
+        "pay_date": "2025-03-25",
+        "vendor": "중소벤처기업진흥공단",
+        "amount": 8200000,
+        "company": "병원"
+    },
+    {
+        "id": 808,
+        "pay_date": "2025-03-25",
+        "vendor": "거래처",
+        "amount": 149720846,
+        "company": "병원"
+    },
+    {
+        "id": 809,
+        "pay_date": "2025-03-25",
+        "vendor": "광명토탈엔지니어링",
+        "amount": 770000,
+        "company": "피에스"
+    },
+    {
+        "id": 810,
+        "pay_date": "2025-03-25",
+        "vendor": "에스원",
+        "amount": 77000,
+        "company": "병원"
+    },
+    {
+        "id": 811,
+        "pay_date": "2025-03-25",
+        "vendor": "사상스마트병원",
+        "amount": 1023357,
+        "company": "피에스"
+    },
+    {
+        "id": 812,
+        "pay_date": "2025-03-28",
+        "vendor": "황문희",
+        "amount": 450000,
+        "company": "병원"
+    },
+    {
+        "id": 813,
+        "pay_date": "2025-03-31",
+        "vendor": "현대엘리베이터 서비스",
+        "amount": 691900,
+        "company": "피에스"
+    },
+    {
+        "id": 814,
+        "pay_date": "2025-03-31",
+        "vendor": "국세청",
+        "amount": 27832170,
+        "company": "피에스"
+    },
+    {
+        "id": 815,
+        "pay_date": "2025-03-31",
+        "vendor": "인비젼",
+        "amount": 39600,
+        "company": "피에스"
+    },
+    {
+        "id": 816,
+        "pay_date": "2025-03-31",
+        "vendor": "국민은행",
+        "amount": 45746173,
+        "company": "피에스"
+    },
+    {
+        "id": 817,
+        "pay_date": "2025-03-31",
+        "vendor": "현대엘리베이터",
+        "amount": 880000,
+        "company": "피에스"
+    },
+    {
+        "id": 818,
+        "pay_date": "2025-03-31",
+        "vendor": "현대엘리베이터 서비스",
+        "amount": 495000,
+        "company": "피에스"
+    },
+    {
+        "id": 819,
+        "pay_date": "2025-03-31",
+        "vendor": "백양새마을금고",
+        "amount": 342370,
+        "company": "병원"
+    },
+    {
+        "id": 820,
+        "pay_date": "2025-03-31",
+        "vendor": "파트너스세무회계법인",
+        "amount": 165000,
+        "company": "피에스"
+    },
+    {
+        "id": 821,
+        "pay_date": "2025-04-04",
+        "vendor": "하나은행",
+        "amount": 1540821,
+        "company": "병원"
+    },
+    {
+        "id": 822,
+        "pay_date": "2025-04-04",
+        "vendor": "직원",
+        "amount": 897595133,
+        "company": "병원"
+    },
+    {
+        "id": 823,
+        "pay_date": "2025-04-04",
+        "vendor": "진료부",
+        "amount": 9512750,
+        "company": "병원"
+    },
+    {
+        "id": 824,
+        "pay_date": "2025-04-04",
+        "vendor": "직원",
+        "amount": 77002266,
+        "company": "병원"
+    },
+    {
+        "id": 825,
+        "pay_date": "2025-04-04",
+        "vendor": "당직의",
+        "amount": 10300000,
+        "company": "병원"
+    },
+    {
+        "id": 826,
+        "pay_date": "2025-04-04",
+        "vendor": "직원",
+        "amount": 13056249,
+        "company": "피에스"
+    },
+    {
+        "id": 827,
+        "pay_date": "2025-04-07",
+        "vendor": "하나은행",
+        "amount": 300000,
+        "company": "병원"
+    },
+    {
+        "id": 828,
+        "pay_date": "2025-04-09",
+        "vendor": "박개희",
+        "amount": 600000,
+        "company": "병원"
+    },
+    {
+        "id": 829,
+        "pay_date": "2025-04-10",
+        "vendor": "이대홍(더퍼스트원)",
+        "amount": 540000,
+        "company": "병원"
+    },
+    {
+        "id": 830,
+        "pay_date": "2025-04-10",
+        "vendor": "사내 동호회",
+        "amount": 976500,
+        "company": "병원"
+    },
+    {
+        "id": 831,
+        "pay_date": "2025-04-10",
+        "vendor": "한국전력공사",
+        "amount": 16641300,
+        "company": "병원"
+    },
+    {
+        "id": 832,
+        "pay_date": "2025-04-10",
+        "vendor": "늘푸른간병사회",
+        "amount": 170188265,
+        "company": "병원"
+    },
+    {
+        "id": 833,
+        "pay_date": "2025-04-10",
+        "vendor": "건강보험공단외",
+        "amount": 190321220,
+        "company": "병원"
+    },
+    {
+        "id": 834,
+        "pay_date": "2025-04-10",
+        "vendor": "정가은",
+        "amount": 138400,
+        "company": "병원"
+    },
+    {
+        "id": 835,
+        "pay_date": "2025-04-14",
+        "vendor": "현대카드",
+        "amount": 9774922,
+        "company": "병원"
+    },
+    {
+        "id": 836,
+        "pay_date": "2025-04-14",
+        "vendor": "현대카드",
+        "amount": 36866066,
+        "company": "병원"
+    },
+    {
+        "id": 837,
+        "pay_date": "2025-04-14",
+        "vendor": "노란우산",
+        "amount": 250000,
+        "company": "병원"
+    },
+    {
+        "id": 838,
+        "pay_date": "2025-04-14",
+        "vendor": "롯데카드",
+        "amount": 28044980,
+        "company": "병원"
+    },
+    {
+        "id": 839,
+        "pay_date": "2025-04-15",
+        "vendor": "입원환자",
+        "amount": 30741440,
+        "company": "병원"
+    },
+    {
+        "id": 840,
+        "pay_date": "2025-04-15",
+        "vendor": "LG유플러스",
+        "amount": 5500,
+        "company": "병원"
+    },
+    {
+        "id": 841,
+        "pay_date": "2025-04-15",
+        "vendor": "백양새마을금고",
+        "amount": 2200000,
+        "company": "병원"
+    },
+    {
+        "id": 842,
+        "pay_date": "2025-04-21",
+        "vendor": "위소프트",
+        "amount": 660000,
+        "company": "병원"
+    },
+    {
+        "id": 843,
+        "pay_date": "2025-04-21",
+        "vendor": "테크하임(주)",
+        "amount": 220000,
+        "company": "병원"
+    },
+    {
+        "id": 844,
+        "pay_date": "2025-04-21",
+        "vendor": "비트컴퓨터",
+        "amount": 935000,
+        "company": "병원"
+    },
+    {
+        "id": 845,
+        "pay_date": "2025-04-21",
+        "vendor": "케이티",
+        "amount": 21480,
+        "company": "병원"
+    },
+    {
+        "id": 846,
+        "pay_date": "2025-04-22",
+        "vendor": "국민은행",
+        "amount": 9690538,
+        "company": "피에스"
+    },
+    {
+        "id": 847,
+        "pay_date": "2025-04-22",
+        "vendor": "국민은행",
+        "amount": 9823597,
+        "company": "피에스"
+    },
+    {
+        "id": 848,
+        "pay_date": "2025-04-23",
+        "vendor": "하나카드",
+        "amount": 15633343,
+        "company": "병원"
+    },
+    {
+        "id": 849,
+        "pay_date": "2025-04-25",
+        "vendor": "국세청",
+        "amount": 42726480,
+        "company": "피에스"
+    },
+    {
+        "id": 850,
+        "pay_date": "2025-04-25",
+        "vendor": "중소벤처기업진흥공단",
+        "amount": 8200000,
+        "company": "병원"
+    },
+    {
+        "id": 851,
+        "pay_date": "2025-04-25",
+        "vendor": "광명토탈엔지니어링",
+        "amount": 770000,
+        "company": "피에스"
+    },
+    {
+        "id": 852,
+        "pay_date": "2025-04-25",
+        "vendor": "에스원",
+        "amount": 77400,
+        "company": "병원"
+    },
+    {
+        "id": 853,
+        "pay_date": "2025-04-25",
+        "vendor": "거래처",
+        "amount": 171684168,
+        "company": "병원"
+    },
+    {
+        "id": 854,
+        "pay_date": "2025-04-25",
+        "vendor": "사상스마트병원",
+        "amount": 1133000,
+        "company": "피에스"
+    },
+    {
+        "id": 855,
+        "pay_date": "2025-04-28",
+        "vendor": "황문희",
+        "amount": 450000,
+        "company": "병원"
+    },
+    {
+        "id": 856,
+        "pay_date": "2025-04-29",
+        "vendor": "국민은행",
+        "amount": 48901081,
+        "company": "피에스"
+    },
+    {
+        "id": 857,
+        "pay_date": "2025-04-29",
+        "vendor": "피에스메디커뮤니티",
+        "amount": 138187500,
+        "company": "병원"
+    },
+    {
+        "id": 858,
+        "pay_date": "2025-04-30",
+        "vendor": "남경회계법인",
+        "amount": 2200000,
+        "company": "피에스"
+    },
+    {
+        "id": 859,
+        "pay_date": "2025-04-30",
+        "vendor": "파트너스세무",
+        "amount": 3388000,
+        "company": "피에스"
+    },
+    {
+        "id": 860,
+        "pay_date": "2025-04-30",
+        "vendor": "사상구청",
+        "amount": 1923680,
+        "company": "피에스"
+    },
+    {
+        "id": 861,
+        "pay_date": "2025-04-30",
+        "vendor": "사상구청",
+        "amount": 2854380,
+        "company": "피에스"
+    },
+    {
+        "id": 862,
+        "pay_date": "2025-04-30",
+        "vendor": "서갑병",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 863,
+        "pay_date": "2025-04-30",
+        "vendor": "박찬수",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 864,
+        "pay_date": "2025-04-30",
+        "vendor": "현대엘리베이터",
+        "amount": 880000,
+        "company": "피에스"
+    },
+    {
+        "id": 865,
+        "pay_date": "2025-04-30",
+        "vendor": "파트너스세무회계법인",
+        "amount": 165000,
+        "company": "피에스"
+    },
+    {
+        "id": 866,
+        "pay_date": "2025-04-30",
+        "vendor": "현대엘리베이터 서비스",
+        "amount": 464200,
+        "company": "피에스"
+    },
+    {
+        "id": 867,
+        "pay_date": "2025-04-30",
+        "vendor": "백양새마을금고",
+        "amount": 318860,
+        "company": "병원"
+    },
+    {
+        "id": 868,
+        "pay_date": "2025-04-30",
+        "vendor": "현대엘리베이터 서비스",
+        "amount": 495000,
+        "company": "피에스"
+    },
+    {
+        "id": 869,
+        "pay_date": "2025-05-02",
+        "vendor": "직원",
+        "amount": 880708699,
+        "company": "병원"
+    },
+    {
+        "id": 870,
+        "pay_date": "2025-05-02",
+        "vendor": "진료부",
+        "amount": 9662583,
+        "company": "병원"
+    },
+    {
+        "id": 871,
+        "pay_date": "2025-05-02",
+        "vendor": "직원",
+        "amount": 67917550,
+        "company": "병원"
+    },
+    {
+        "id": 872,
+        "pay_date": "2025-05-02",
+        "vendor": "당직의",
+        "amount": 9300000,
+        "company": "병원"
+    },
+    {
+        "id": 873,
+        "pay_date": "2025-05-02",
+        "vendor": "직원",
+        "amount": 12871804,
+        "company": "피에스"
+    },
+    {
+        "id": 874,
+        "pay_date": "2025-05-07",
+        "vendor": "하나은행",
+        "amount": 1492671,
+        "company": "병원"
+    },
+    {
+        "id": 875,
+        "pay_date": "2025-05-07",
+        "vendor": "하나은행",
+        "amount": 300000,
+        "company": "병원"
+    },
+    {
+        "id": 876,
+        "pay_date": "2025-05-09",
+        "vendor": "박개희",
+        "amount": 600000,
+        "company": "병원"
+    },
+    {
+        "id": 877,
+        "pay_date": "2025-05-12",
+        "vendor": "사내 동호회",
+        "amount": 700100,
+        "company": "병원"
+    },
+    {
+        "id": 878,
+        "pay_date": "2025-05-12",
+        "vendor": "늘푸른간병사회",
+        "amount": 170089113,
+        "company": "병원"
+    },
+    {
+        "id": 879,
+        "pay_date": "2025-05-12",
+        "vendor": "건강보험공단외",
+        "amount": 276403150,
+        "company": "병원"
+    },
+    {
+        "id": 880,
+        "pay_date": "2025-05-12",
+        "vendor": "한국전력공사",
+        "amount": 13278790,
+        "company": "병원"
+    },
+    {
+        "id": 881,
+        "pay_date": "2025-05-12",
+        "vendor": "한국승강기안전공단",
+        "amount": 523490,
+        "company": "피에스"
+    },
+    {
+        "id": 882,
+        "pay_date": "2025-05-12",
+        "vendor": "건강보험공단외",
+        "amount": 3661380,
+        "company": "피에스"
+    },
+    {
+        "id": 883,
+        "pay_date": "2025-05-12",
+        "vendor": "현대카드",
+        "amount": 11235619,
+        "company": "병원"
+    },
+    {
+        "id": 884,
+        "pay_date": "2025-05-13",
+        "vendor": "노란우산",
+        "amount": 250000,
+        "company": "병원"
+    },
+    {
+        "id": 885,
+        "pay_date": "2025-05-13",
+        "vendor": "하나카드",
+        "amount": 48532892,
+        "company": "병원"
+    },
+    {
+        "id": 886,
+        "pay_date": "2025-05-14",
+        "vendor": "롯데카드",
+        "amount": 24695070,
+        "company": "병원"
+    },
+    {
+        "id": 887,
+        "pay_date": "2025-05-15",
+        "vendor": "LG유플러스",
+        "amount": 5500,
+        "company": "병원"
+    },
+    {
+        "id": 888,
+        "pay_date": "2025-05-15",
+        "vendor": "백양새마을금고",
+        "amount": 2200000,
+        "company": "병원"
+    },
+    {
+        "id": 889,
+        "pay_date": "2025-05-16",
+        "vendor": "입원환자",
+        "amount": 30320110,
+        "company": "병원"
+    },
+    {
+        "id": 890,
+        "pay_date": "2025-05-20",
+        "vendor": "위소프트",
+        "amount": 660000,
+        "company": "병원"
+    },
+    {
+        "id": 891,
+        "pay_date": "2025-05-20",
+        "vendor": "테크하임(주)",
+        "amount": 220000,
+        "company": "병원"
+    },
+    {
+        "id": 892,
+        "pay_date": "2025-05-20",
+        "vendor": "비트컴퓨터",
+        "amount": 935000,
+        "company": "병원"
+    },
+    {
+        "id": 893,
+        "pay_date": "2025-05-21",
+        "vendor": "케이티",
+        "amount": 21480,
+        "company": "병원"
+    },
+    {
+        "id": 894,
+        "pay_date": "2025-05-22",
+        "vendor": "국민은행",
+        "amount": 9618812,
+        "company": "피에스"
+    },
+    {
+        "id": 895,
+        "pay_date": "2025-05-22",
+        "vendor": "국민은행",
+        "amount": 9744839,
+        "company": "피에스"
+    },
+    {
+        "id": 896,
+        "pay_date": "2025-05-23",
+        "vendor": "하나카드",
+        "amount": 10841686,
+        "company": "병원"
+    },
+    {
+        "id": 897,
+        "pay_date": "2025-05-26",
+        "vendor": "광명토탈엔지니어링",
+        "amount": 770000,
+        "company": "피에스"
+    },
+    {
+        "id": 898,
+        "pay_date": "2025-05-26",
+        "vendor": "에스원",
+        "amount": 77000,
+        "company": "병원"
+    },
+    {
+        "id": 899,
+        "pay_date": "2025-05-26",
+        "vendor": "사상스마트병원",
+        "amount": 1096449,
+        "company": "피에스"
+    },
+    {
+        "id": 900,
+        "pay_date": "2025-05-26",
+        "vendor": "거래처",
+        "amount": 164580712,
+        "company": "병원"
+    },
+    {
+        "id": 901,
+        "pay_date": "2025-05-26",
+        "vendor": "중소벤처기업진흥공단",
+        "amount": 7800000,
+        "company": "병원"
+    },
+    {
+        "id": 902,
+        "pay_date": "2025-05-27",
+        "vendor": "황문희",
+        "amount": 450000,
+        "company": "병원"
+    },
+    {
+        "id": 903,
+        "pay_date": "2025-05-29",
+        "vendor": "국민은행",
+        "amount": 47323627,
+        "company": "피에스"
+    },
+    {
+        "id": 904,
+        "pay_date": "2025-05-30",
+        "vendor": "남경회계법인",
+        "amount": 3300000,
+        "company": "피에스"
+    },
+    {
+        "id": 905,
+        "pay_date": "2025-05-30",
+        "vendor": "에코맨즈",
+        "amount": 667700,
+        "company": "피에스"
+    },
+    {
+        "id": 906,
+        "pay_date": "2025-05-30",
+        "vendor": "박찬수",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 907,
+        "pay_date": "2025-05-30",
+        "vendor": "파트너스세무회계법인",
+        "amount": 165000,
+        "company": "피에스"
+    },
+    {
+        "id": 908,
+        "pay_date": "2025-05-30",
+        "vendor": "현대엘리베이터 서비스",
+        "amount": 495000,
+        "company": "피에스"
+    },
+    {
+        "id": 909,
+        "pay_date": "2025-05-30",
+        "vendor": "서갑병",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 910,
+        "pay_date": "2025-05-30",
+        "vendor": "현대엘리베이터",
+        "amount": 880000,
+        "company": "피에스"
+    },
+    {
+        "id": 911,
+        "pay_date": "2025-06-02",
+        "vendor": "국세청",
+        "amount": 27832170,
+        "company": "피에스"
+    },
+    {
+        "id": 912,
+        "pay_date": "2025-06-02",
+        "vendor": "백양새마을금고",
+        "amount": 198610,
+        "company": "병원"
+    },
+    {
+        "id": 913,
+        "pay_date": "2025-06-04",
+        "vendor": "하나은행",
+        "amount": 1492671,
+        "company": "병원"
+    },
+    {
+        "id": 914,
+        "pay_date": "2025-06-04",
+        "vendor": "KB손해보험",
+        "amount": 1806800,
+        "company": "피에스"
+    },
+    {
+        "id": 915,
+        "pay_date": "2025-06-05",
+        "vendor": "당직의",
+        "amount": 10500000,
+        "company": "병원"
+    },
+    {
+        "id": 916,
+        "pay_date": "2025-06-05",
+        "vendor": "직원",
+        "amount": 242182839,
+        "company": "병원"
+    },
+    {
+        "id": 917,
+        "pay_date": "2025-06-05",
+        "vendor": "진료부",
+        "amount": 38650336,
+        "company": "병원"
+    },
+    {
+        "id": 918,
+        "pay_date": "2025-06-05",
+        "vendor": "직원",
+        "amount": 904793443,
+        "company": "병원"
+    },
+    {
+        "id": 919,
+        "pay_date": "2025-06-05",
+        "vendor": "직원",
+        "amount": 13090227,
+        "company": "피에스"
+    },
+    {
+        "id": 920,
+        "pay_date": "2025-06-09",
+        "vendor": "하나은행",
+        "amount": 300000,
+        "company": "병원"
+    },
+    {
+        "id": 921,
+        "pay_date": "2025-06-09",
+        "vendor": "박개희",
+        "amount": 600000,
+        "company": "병원"
+    },
+    {
+        "id": 922,
+        "pay_date": "2025-06-10",
+        "vendor": "사내 동호회",
+        "amount": 445000,
+        "company": "병원"
+    },
+    {
+        "id": 923,
+        "pay_date": "2025-06-10",
+        "vendor": "한국전력공사",
+        "amount": 11621030,
+        "company": "병원"
+    },
+    {
+        "id": 924,
+        "pay_date": "2025-06-10",
+        "vendor": "늘푸른간병사회",
+        "amount": 170089113,
+        "company": "병원"
+    },
+    {
+        "id": 925,
+        "pay_date": "2025-06-10",
+        "vendor": "건강보험공단외",
+        "amount": 297542740,
+        "company": "병원"
+    },
+    {
+        "id": 926,
+        "pay_date": "2025-06-10",
+        "vendor": "건강보험공단외",
+        "amount": 3232360,
+        "company": "피에스"
+    },
+    {
+        "id": 927,
+        "pay_date": "2025-06-11",
+        "vendor": "김분선환자",
+        "amount": 1265850,
+        "company": "병원"
+    },
+    {
+        "id": 928,
+        "pay_date": "2025-06-12",
+        "vendor": "현대카드",
+        "amount": 10839012,
+        "company": "병원"
+    },
+    {
+        "id": 929,
+        "pay_date": "2025-06-13",
+        "vendor": "하나카드",
+        "amount": 37097197,
+        "company": "병원"
+    },
+    {
+        "id": 930,
+        "pay_date": "2025-06-13",
+        "vendor": "노란우산",
+        "amount": 250000,
+        "company": "병원"
+    },
+    {
+        "id": 931,
+        "pay_date": "2025-06-16",
+        "vendor": "입원환자",
+        "amount": 27213680,
+        "company": "병원"
+    },
+    {
+        "id": 932,
+        "pay_date": "2025-06-16",
+        "vendor": "롯데카드",
+        "amount": 22641140,
+        "company": "병원"
+    },
+    {
+        "id": 933,
+        "pay_date": "2025-06-16",
+        "vendor": "LG유플러스",
+        "amount": 5500,
+        "company": "병원"
+    },
+    {
+        "id": 934,
+        "pay_date": "2025-06-16",
+        "vendor": "백양새마을금고",
+        "amount": 2200000,
+        "company": "병원"
+    },
+    {
+        "id": 935,
+        "pay_date": "2025-06-20",
+        "vendor": "테크하임(주)",
+        "amount": 220000,
+        "company": "병원"
+    },
+    {
+        "id": 936,
+        "pay_date": "2025-06-20",
+        "vendor": "위소프트",
+        "amount": 660000,
+        "company": "병원"
+    },
+    {
+        "id": 937,
+        "pay_date": "2025-06-20",
+        "vendor": "비트컴퓨터",
+        "amount": 935000,
+        "company": "병원"
+    },
+    {
+        "id": 938,
+        "pay_date": "2025-06-23",
+        "vendor": "케이티",
+        "amount": 21480,
+        "company": "병원"
+    },
+    {
+        "id": 939,
+        "pay_date": "2025-06-23",
+        "vendor": "하나카드",
+        "amount": 12803045,
+        "company": "병원"
+    },
+    {
+        "id": 940,
+        "pay_date": "2025-06-23",
+        "vendor": "국민은행",
+        "amount": 9632785,
+        "company": "피에스"
+    },
+    {
+        "id": 941,
+        "pay_date": "2025-06-23",
+        "vendor": "국민은행",
+        "amount": 9760182,
+        "company": "피에스"
+    },
+    {
+        "id": 942,
+        "pay_date": "2025-06-25",
+        "vendor": "중소벤처기업진흥공단",
+        "amount": 7800000,
+        "company": "병원"
+    },
+    {
+        "id": 943,
+        "pay_date": "2025-06-25",
+        "vendor": "에스원",
+        "amount": 77000,
+        "company": "병원"
+    },
+    {
+        "id": 944,
+        "pay_date": "2025-06-25",
+        "vendor": "거래처",
+        "amount": 158229334,
+        "company": "병원"
+    },
+    {
+        "id": 945,
+        "pay_date": "2025-06-25",
+        "vendor": "사상스마트병원",
+        "amount": 1133000,
+        "company": "피에스"
+    },
+    {
+        "id": 946,
+        "pay_date": "2025-06-25",
+        "vendor": "광명토탈엔지니어링",
+        "amount": 770000,
+        "company": "피에스"
+    },
+    {
+        "id": 947,
+        "pay_date": "2025-06-27",
+        "vendor": "황문희",
+        "amount": 450000,
+        "company": "병원"
+    },
+    {
+        "id": 948,
+        "pay_date": "2025-06-30",
+        "vendor": "사상구청",
+        "amount": 2854370,
+        "company": "피에스"
+    },
+    {
+        "id": 949,
+        "pay_date": "2025-06-30",
+        "vendor": "피에스메디커뮤니티",
+        "amount": 138187500,
+        "company": "병원"
+    },
+    {
+        "id": 950,
+        "pay_date": "2025-06-30",
+        "vendor": "백양새마을금고",
+        "amount": 255400,
+        "company": "병원"
+    },
+    {
+        "id": 951,
+        "pay_date": "2025-06-30",
+        "vendor": "사상구청",
+        "amount": 62860,
+        "company": "병원"
+    },
+    {
+        "id": 952,
+        "pay_date": "2025-06-30",
+        "vendor": "피에스메디커뮤니티",
+        "amount": 5500000,
+        "company": "병원"
+    },
+    {
+        "id": 953,
+        "pay_date": "2025-06-30",
+        "vendor": "서갑병",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 954,
+        "pay_date": "2025-06-30",
+        "vendor": "국민은행",
+        "amount": 3549272,
+        "company": "피에스"
+    },
+    {
+        "id": 955,
+        "pay_date": "2025-06-30",
+        "vendor": "현대엘리베이터",
+        "amount": 880000,
+        "company": "피에스"
+    },
+    {
+        "id": 956,
+        "pay_date": "2025-06-30",
+        "vendor": "파트너스세무회계법인",
+        "amount": 165000,
+        "company": "피에스"
+    },
+    {
+        "id": 957,
+        "pay_date": "2025-06-30",
+        "vendor": "현대엘리베이터 서비스",
+        "amount": 495000,
+        "company": "피에스"
+    },
+    {
+        "id": 958,
+        "pay_date": "2025-06-30",
+        "vendor": "박찬수",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 959,
+        "pay_date": "2025-07-01",
+        "vendor": "이상훈",
+        "amount": 25930950,
+        "company": "병원"
+    },
+    {
+        "id": 960,
+        "pay_date": "2025-07-04",
+        "vendor": "직원",
+        "amount": 881534081,
+        "company": "병원"
+    },
+    {
+        "id": 961,
+        "pay_date": "2025-07-04",
+        "vendor": "하나은행",
+        "amount": 1444520,
+        "company": "병원"
+    },
+    {
+        "id": 962,
+        "pay_date": "2025-07-04",
+        "vendor": "당직의",
+        "amount": 10050000,
+        "company": "병원"
+    },
+    {
+        "id": 963,
+        "pay_date": "2025-07-04",
+        "vendor": "직원",
+        "amount": 6871041,
+        "company": "병원"
+    },
+    {
+        "id": 964,
+        "pay_date": "2025-07-04",
+        "vendor": "직원",
+        "amount": 13003788,
+        "company": "피에스"
+    },
+    {
+        "id": 965,
+        "pay_date": "2025-07-07",
+        "vendor": "하나은행",
+        "amount": 300000,
+        "company": "병원"
+    },
+    {
+        "id": 966,
+        "pay_date": "2025-07-09",
+        "vendor": "박개희",
+        "amount": 600000,
+        "company": "병원"
+    },
+    {
+        "id": 967,
+        "pay_date": "2025-07-10",
+        "vendor": "건강보험공단외",
+        "amount": 278116640,
+        "company": "병원"
+    },
+    {
+        "id": 968,
+        "pay_date": "2025-07-10",
+        "vendor": "사내 동호회",
+        "amount": 625000,
+        "company": "병원"
+    },
+    {
+        "id": 969,
+        "pay_date": "2025-07-10",
+        "vendor": "상록수사회적협동",
+        "amount": 170188265,
+        "company": "병원"
+    },
+    {
+        "id": 970,
+        "pay_date": "2025-07-10",
+        "vendor": "한국전력공사",
+        "amount": 15174730,
+        "company": "병원"
+    },
+    {
+        "id": 971,
+        "pay_date": "2025-07-10",
+        "vendor": "건강보험공단외",
+        "amount": 3258820,
+        "company": "피에스"
+    },
+    {
+        "id": 972,
+        "pay_date": "2025-07-10",
+        "vendor": "사상구청",
+        "amount": 2640000,
+        "company": "피에스"
+    },
+    {
+        "id": 973,
+        "pay_date": "2025-07-14",
+        "vendor": "노란우산",
+        "amount": 250000,
+        "company": "병원"
+    },
+    {
+        "id": 974,
+        "pay_date": "2025-07-14",
+        "vendor": "롯데카드",
+        "amount": 21990940,
+        "company": "병원"
+    },
+    {
+        "id": 975,
+        "pay_date": "2025-07-14",
+        "vendor": "하나카드",
+        "amount": 36561092,
+        "company": "병원"
+    },
+    {
+        "id": 976,
+        "pay_date": "2025-07-14",
+        "vendor": "현대카드",
+        "amount": 10385644,
+        "company": "병원"
+    },
+    {
+        "id": 977,
+        "pay_date": "2025-07-15",
+        "vendor": "입원환자",
+        "amount": 28119900,
+        "company": "병원"
+    },
+    {
+        "id": 978,
+        "pay_date": "2025-07-15",
+        "vendor": "LG유플러스",
+        "amount": 5500,
+        "company": "병원"
+    },
+    {
+        "id": 979,
+        "pay_date": "2025-07-15",
+        "vendor": "백양새마을금고",
+        "amount": 2200000,
+        "company": "병원"
+    },
+    {
+        "id": 980,
+        "pay_date": "2025-07-21",
+        "vendor": "케이티",
+        "amount": 20340,
+        "company": "병원"
+    },
+    {
+        "id": 981,
+        "pay_date": "2025-07-21",
+        "vendor": "테크하임(주)",
+        "amount": 220000,
+        "company": "병원"
+    },
+    {
+        "id": 982,
+        "pay_date": "2025-07-21",
+        "vendor": "위소프트",
+        "amount": 660000,
+        "company": "병원"
+    },
+    {
+        "id": 983,
+        "pay_date": "2025-07-21",
+        "vendor": "비트컴퓨터",
+        "amount": 935000,
+        "company": "병원"
+    },
+    {
+        "id": 984,
+        "pay_date": "2025-07-21",
+        "vendor": "한국환경공단",
+        "amount": 150310,
+        "company": "병원"
+    },
+    {
+        "id": 985,
+        "pay_date": "2025-07-22",
+        "vendor": "국민은행",
+        "amount": 9562922,
+        "company": "피에스"
+    },
+    {
+        "id": 986,
+        "pay_date": "2025-07-22",
+        "vendor": "국민은행",
+        "amount": 9683470,
+        "company": "피에스"
+    },
+    {
+        "id": 987,
+        "pay_date": "2025-07-23",
+        "vendor": "하나카드",
+        "amount": 11824040,
+        "company": "병원"
+    },
+    {
+        "id": 988,
+        "pay_date": "2025-07-25",
+        "vendor": "에스원",
+        "amount": 77000,
+        "company": "병원"
+    },
+    {
+        "id": 989,
+        "pay_date": "2025-07-25",
+        "vendor": "거래처",
+        "amount": 210433039,
+        "company": "병원"
+    },
+    {
+        "id": 990,
+        "pay_date": "2025-07-25",
+        "vendor": "중소벤처기업진흥공단",
+        "amount": 7600000,
+        "company": "병원"
+    },
+    {
+        "id": 991,
+        "pay_date": "2025-07-25",
+        "vendor": "국세청",
+        "amount": 42902330,
+        "company": "피에스"
+    },
+    {
+        "id": 992,
+        "pay_date": "2025-07-25",
+        "vendor": "광명토탈엔지니어링",
+        "amount": 770000,
+        "company": "피에스"
+    },
+    {
+        "id": 993,
+        "pay_date": "2025-07-25",
+        "vendor": "사상스마트병원",
+        "amount": 1096449,
+        "company": "피에스"
+    },
+    {
+        "id": 994,
+        "pay_date": "2025-07-28",
+        "vendor": "황문희",
+        "amount": 450000,
+        "company": "병원"
+    },
+    {
+        "id": 995,
+        "pay_date": "2025-07-31",
+        "vendor": "백양새마을금고",
+        "amount": 333570,
+        "company": "병원"
+    },
+    {
+        "id": 996,
+        "pay_date": "2025-07-31",
+        "vendor": "피에스메디커뮤니티",
+        "amount": 5500000,
+        "company": "병원"
+    },
+    {
+        "id": 997,
+        "pay_date": "2025-07-31",
+        "vendor": "피에스메디커뮤니티",
+        "amount": 118187500,
+        "company": "병원"
+    },
+    {
+        "id": 998,
+        "pay_date": "2025-07-31",
+        "vendor": "배홍기(이와원격)",
+        "amount": 9000,
+        "company": "피에스"
+    },
+    {
+        "id": 999,
+        "pay_date": "2025-07-31",
+        "vendor": "현대엘리베이터 서비스",
+        "amount": 495000,
+        "company": "피에스"
+    },
+    {
+        "id": 1000,
+        "pay_date": "2025-07-31",
+        "vendor": "국민은행",
+        "amount": 36675811,
+        "company": "피에스"
+    },
+    {
+        "id": 1001,
+        "pay_date": "2025-07-31",
+        "vendor": "현대엘리베이터",
+        "amount": 880000,
+        "company": "피에스"
+    },
+    {
+        "id": 1002,
+        "pay_date": "2025-07-31",
+        "vendor": "파트너스세무회계법인",
+        "amount": 165000,
+        "company": "피에스"
+    },
+    {
+        "id": 1003,
+        "pay_date": "2025-07-31",
+        "vendor": "대농구조안전연구소",
+        "amount": 1000000,
+        "company": "피에스"
+    },
+    {
+        "id": 1004,
+        "pay_date": "2025-07-31",
+        "vendor": "사상구청",
+        "amount": 34836740,
+        "company": "피에스"
+    },
+    {
+        "id": 1005,
+        "pay_date": "2025-07-31",
+        "vendor": "서갑병",
+        "amount": 10000000,
+        "company": "피에스"
+    },
+    {
+        "id": 1006,
+        "pay_date": "2025-07-31",
+        "vendor": "박찬수",
+        "amount": 10000000,
+        "company": "피에스"
+    },
+    {
+        "id": 1007,
+        "pay_date": "2025-08-05",
+        "vendor": "당직의",
+        "amount": 9550000,
+        "company": "병원"
+    },
+    {
+        "id": 1008,
+        "pay_date": "2025-08-05",
+        "vendor": "직원",
+        "amount": 8784764,
+        "company": "병원"
+    },
+    {
+        "id": 1009,
+        "pay_date": "2025-08-05",
+        "vendor": "직원",
+        "amount": 873633206,
+        "company": "병원"
+    },
+    {
+        "id": 1010,
+        "pay_date": "2025-08-05",
+        "vendor": "직원",
+        "amount": 12974224,
+        "company": "피에스"
+    },
+    {
+        "id": 1011,
+        "pay_date": "2025-08-07",
+        "vendor": "하나은행",
+        "amount": 300000,
+        "company": "병원"
+    },
+    {
+        "id": 1012,
+        "pay_date": "2025-08-11",
+        "vendor": "한국전력공사",
+        "amount": 20999600,
+        "company": "병원"
+    },
+    {
+        "id": 1013,
+        "pay_date": "2025-08-11",
+        "vendor": "상록수사회적협동",
+        "amount": 170089113,
+        "company": "병원"
+    },
+    {
+        "id": 1014,
+        "pay_date": "2025-08-11",
+        "vendor": "사내 동호회",
+        "amount": 250000,
+        "company": "병원"
+    },
+    {
+        "id": 1015,
+        "pay_date": "2025-08-11",
+        "vendor": "건강보험공단외",
+        "amount": 281478180,
+        "company": "병원"
+    },
+    {
+        "id": 1016,
+        "pay_date": "2025-08-11",
+        "vendor": "박개희",
+        "amount": 600000,
+        "company": "병원"
+    },
+    {
+        "id": 1017,
+        "pay_date": "2025-08-11",
+        "vendor": "건강보험공단외",
+        "amount": 3264750,
+        "company": "피에스"
+    },
+    {
+        "id": 1018,
+        "pay_date": "2025-08-12",
+        "vendor": "현대카드",
+        "amount": 11381305,
+        "company": "병원"
+    },
+    {
+        "id": 1019,
+        "pay_date": "2025-08-13",
+        "vendor": "노란우산",
+        "amount": 250000,
+        "company": "병원"
+    },
+    {
+        "id": 1020,
+        "pay_date": "2025-08-13",
+        "vendor": "하나카드",
+        "amount": 56503324,
+        "company": "병원"
+    },
+    {
+        "id": 1021,
+        "pay_date": "2025-08-14",
+        "vendor": "롯데카드",
+        "amount": 20282880,
+        "company": "병원"
+    },
+    {
+        "id": 1022,
+        "pay_date": "2025-08-18",
+        "vendor": "입원환자",
+        "amount": 32304080,
+        "company": "병원"
+    },
+    {
+        "id": 1023,
+        "pay_date": "2025-08-18",
+        "vendor": "LG유플러스",
+        "amount": 5500,
+        "company": "병원"
+    },
+    {
+        "id": 1024,
+        "pay_date": "2025-08-18",
+        "vendor": "백양새마을금고",
+        "amount": 2200000,
+        "company": "병원"
+    },
+    {
+        "id": 1025,
+        "pay_date": "2025-08-20",
+        "vendor": "비트컴퓨터",
+        "amount": 935000,
+        "company": "병원"
+    },
+    {
+        "id": 1026,
+        "pay_date": "2025-08-20",
+        "vendor": "위소프트",
+        "amount": 660000,
+        "company": "병원"
+    },
+    {
+        "id": 1027,
+        "pay_date": "2025-08-20",
+        "vendor": "테크하임(주)",
+        "amount": 220000,
+        "company": "병원"
+    },
+    {
+        "id": 1028,
+        "pay_date": "2025-08-21",
+        "vendor": "케이티",
+        "amount": 14590,
+        "company": "병원"
+    },
+    {
+        "id": 1029,
+        "pay_date": "2025-08-22",
+        "vendor": "국민은행",
+        "amount": 9696766,
+        "company": "피에스"
+    },
+    {
+        "id": 1030,
+        "pay_date": "2025-08-22",
+        "vendor": "국민은행",
+        "amount": 9575031,
+        "company": "피에스"
+    },
+    {
+        "id": 1031,
+        "pay_date": "2025-08-25",
+        "vendor": "중소벤처기업진흥공단",
+        "amount": 7600000,
+        "company": "병원"
+    },
+    {
+        "id": 1032,
+        "pay_date": "2025-08-25",
+        "vendor": "하나카드",
+        "amount": 25548845,
+        "company": "병원"
+    },
+    {
+        "id": 1033,
+        "pay_date": "2025-08-25",
+        "vendor": "에스원",
+        "amount": 77000,
+        "company": "병원"
+    },
+    {
+        "id": 1034,
+        "pay_date": "2025-08-25",
+        "vendor": "거래처",
+        "amount": 154669478,
+        "company": "병원"
+    },
+    {
+        "id": 1035,
+        "pay_date": "2025-08-25",
+        "vendor": "사상스마트병원",
+        "amount": 1133000,
+        "company": "피에스"
+    },
+    {
+        "id": 1036,
+        "pay_date": "2025-08-25",
+        "vendor": "광명토탈엔지니어링",
+        "amount": 770000,
+        "company": "피에스"
+    },
+    {
+        "id": 1037,
+        "pay_date": "2025-08-27",
+        "vendor": "황문희",
+        "amount": 450000,
+        "company": "병원"
+    },
+    {
+        "id": 1038,
+        "pay_date": "2025-08-29",
+        "vendor": "국세청",
+        "amount": 14271855,
+        "company": "피에스"
+    },
+    {
+        "id": 1039,
+        "pay_date": "2025-08-29",
+        "vendor": "서갑병",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 1040,
+        "pay_date": "2025-08-29",
+        "vendor": "박찬수",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 1041,
+        "pay_date": "2025-08-29",
+        "vendor": "서갑병",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 1042,
+        "pay_date": "2025-08-29",
+        "vendor": "박찬수",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 1043,
+        "pay_date": "2025-08-29",
+        "vendor": "피에스메디커뮤니티",
+        "amount": 5500000,
+        "company": "병원"
+    },
+    {
+        "id": 1044,
+        "pay_date": "2025-08-29",
+        "vendor": "피에스메디커뮤니티",
+        "amount": 138187500,
+        "company": "병원"
+    },
+    {
+        "id": 1045,
+        "pay_date": "2025-09-01",
+        "vendor": "국민은행",
+        "amount": 36675811,
+        "company": "피에스"
+    },
+    {
+        "id": 1046,
+        "pay_date": "2025-09-01",
+        "vendor": "백양새마을금고",
+        "amount": 449320,
+        "company": "병원"
+    },
+    {
+        "id": 1047,
+        "pay_date": "2025-09-01",
+        "vendor": "사상구청",
+        "amount": 2073500,
+        "company": "병원"
+    },
+    {
+        "id": 1048,
+        "pay_date": "2025-09-05",
+        "vendor": "직원",
+        "amount": 30311568,
+        "company": "병원"
+    },
+    {
+        "id": 1049,
+        "pay_date": "2025-09-05",
+        "vendor": "직원",
+        "amount": 874671626,
+        "company": "병원"
+    },
+    {
+        "id": 1050,
+        "pay_date": "2025-09-05",
+        "vendor": "당직의",
+        "amount": 10250000,
+        "company": "병원"
+    },
+    {
+        "id": 1051,
+        "pay_date": "2025-09-05",
+        "vendor": "파트너스세무회계법인",
+        "amount": 165000,
+        "company": "피에스"
+    },
+    {
+        "id": 1052,
+        "pay_date": "2025-09-05",
+        "vendor": "현대엘리베이터",
+        "amount": 880000,
+        "company": "피에스"
+    },
+    {
+        "id": 1053,
+        "pay_date": "2025-09-05",
+        "vendor": "현대엘리베이터 서비스",
+        "amount": 495000,
+        "company": "피에스"
+    },
+    {
+        "id": 1054,
+        "pay_date": "2025-09-05",
+        "vendor": "직원",
+        "amount": 13032569,
+        "company": "피에스"
+    },
+    {
+        "id": 1055,
+        "pay_date": "2025-09-05",
+        "vendor": "최민준",
+        "amount": 10000000,
+        "company": "병원"
+    },
+    {
+        "id": 1056,
+        "pay_date": "2025-09-08",
+        "vendor": "하나은행",
+        "amount": 300000,
+        "company": "병원"
+    },
+    {
+        "id": 1057,
+        "pay_date": "2025-09-09",
+        "vendor": "박개희",
+        "amount": 600000,
+        "company": "병원"
+    },
+    {
+        "id": 1058,
+        "pay_date": "2025-09-09",
+        "vendor": "하나은행",
+        "amount": 12436140,
+        "company": "병원"
+    },
+    {
+        "id": 1059,
+        "pay_date": "2025-09-10",
+        "vendor": "건강보험공단외",
+        "amount": 274935870,
+        "company": "병원"
+    },
+    {
+        "id": 1060,
+        "pay_date": "2025-09-10",
+        "vendor": "한국전력공사",
+        "amount": 21958330,
+        "company": "병원"
+    },
+    {
+        "id": 1061,
+        "pay_date": "2025-09-10",
+        "vendor": "상록수사회적협동",
+        "amount": 170089113,
+        "company": "병원"
+    },
+    {
+        "id": 1062,
+        "pay_date": "2025-09-10",
+        "vendor": "건강보험공단외",
+        "amount": 3270620,
+        "company": "피에스"
+    },
+    {
+        "id": 1063,
+        "pay_date": "2025-09-10",
+        "vendor": "에듀빈",
+        "amount": 396000,
+        "company": "병원"
+    },
+    {
+        "id": 1064,
+        "pay_date": "2025-09-12",
+        "vendor": "현대카드",
+        "amount": 10525470,
+        "company": "병원"
+    },
+    {
+        "id": 1065,
+        "pay_date": "2025-09-12",
+        "vendor": "이경재",
+        "amount": 6059100,
+        "company": "병원"
+    },
+    {
+        "id": 1066,
+        "pay_date": "2025-09-15",
+        "vendor": "롯데카드",
+        "amount": 23262090,
+        "company": "병원"
+    },
+    {
+        "id": 1067,
+        "pay_date": "2025-09-15",
+        "vendor": "하나카드",
+        "amount": 59577032,
+        "company": "병원"
+    },
+    {
+        "id": 1068,
+        "pay_date": "2025-09-15",
+        "vendor": "노란우산",
+        "amount": 250000,
+        "company": "병원"
+    },
+    {
+        "id": 1069,
+        "pay_date": "2025-09-15",
+        "vendor": "입원환자",
+        "amount": 26716800,
+        "company": "병원"
+    },
+    {
+        "id": 1070,
+        "pay_date": "2025-09-15",
+        "vendor": "LG유플러스",
+        "amount": 5500,
+        "company": "병원"
+    },
+    {
+        "id": 1071,
+        "pay_date": "2025-09-15",
+        "vendor": "백양새마을금고",
+        "amount": 2200000,
+        "company": "병원"
+    },
+    {
+        "id": 1072,
+        "pay_date": "2025-09-15",
+        "vendor": "하나은행",
+        "amount": 10065479,
+        "company": "병원"
+    },
+    {
+        "id": 1073,
+        "pay_date": "2025-09-15",
+        "vendor": "마인드비전",
+        "amount": 1000000,
+        "company": "병원"
+    },
+    {
+        "id": 1074,
+        "pay_date": "2025-09-22",
+        "vendor": "테크하임(주)",
+        "amount": 220000,
+        "company": "병원"
+    },
+    {
+        "id": 1075,
+        "pay_date": "2025-09-22",
+        "vendor": "케이티",
+        "amount": 14590,
+        "company": "병원"
+    },
+    {
+        "id": 1076,
+        "pay_date": "2025-09-22",
+        "vendor": "비트컴퓨터",
+        "amount": 935000,
+        "company": "병원"
+    },
+    {
+        "id": 1077,
+        "pay_date": "2025-09-22",
+        "vendor": "위소프트",
+        "amount": 660000,
+        "company": "병원"
+    },
+    {
+        "id": 1078,
+        "pay_date": "2025-09-22",
+        "vendor": "국민은행",
+        "amount": 9546154,
+        "company": "피에스"
+    },
+    {
+        "id": 1079,
+        "pay_date": "2025-09-22",
+        "vendor": "국민은행",
+        "amount": 9665059,
+        "company": "피에스"
+    },
+    {
+        "id": 1080,
+        "pay_date": "2025-09-23",
+        "vendor": "하나카드",
+        "amount": 11509365,
+        "company": "병원"
+    },
+    {
+        "id": 1081,
+        "pay_date": "2025-09-23",
+        "vendor": "영진약품",
+        "amount": 11726440,
+        "company": "병원"
+    },
+    {
+        "id": 1082,
+        "pay_date": "2025-09-25",
+        "vendor": "에스원",
+        "amount": 77000,
+        "company": "병원"
+    },
+    {
+        "id": 1083,
+        "pay_date": "2025-09-25",
+        "vendor": "거래처",
+        "amount": 131505976,
+        "company": "병원"
+    },
+    {
+        "id": 1084,
+        "pay_date": "2025-09-25",
+        "vendor": "중소벤처기업진흥공단",
+        "amount": 7756100,
+        "company": "병원"
+    },
+    {
+        "id": 1085,
+        "pay_date": "2025-09-25",
+        "vendor": "윌로펌프",
+        "amount": 1463000,
+        "company": "피에스"
+    },
+    {
+        "id": 1086,
+        "pay_date": "2025-09-25",
+        "vendor": "사상스마트병원",
+        "amount": 1133000,
+        "company": "피에스"
+    },
+    {
+        "id": 1087,
+        "pay_date": "2025-09-25",
+        "vendor": "광명토탈엔지니어링",
+        "amount": 770000,
+        "company": "피에스"
+    },
+    {
+        "id": 1088,
+        "pay_date": "2025-09-29",
+        "vendor": "황문희",
+        "amount": 450000,
+        "company": "병원"
+    },
+    {
+        "id": 1089,
+        "pay_date": "2025-09-29",
+        "vendor": "하나은행",
+        "amount": 12549642,
+        "company": "피에스"
+    },
+    {
+        "id": 1090,
+        "pay_date": "2025-09-30",
+        "vendor": "백양새마을금고",
+        "amount": 338590,
+        "company": "병원"
+    },
+    {
+        "id": 1091,
+        "pay_date": "2025-09-30",
+        "vendor": "피에스메디커뮤니티",
+        "amount": 138187500,
+        "company": "병원"
+    },
+    {
+        "id": 1092,
+        "pay_date": "2025-09-30",
+        "vendor": "피에스메디커뮤니티",
+        "amount": 5500000,
+        "company": "병원"
+    },
+    {
+        "id": 1093,
+        "pay_date": "2025-09-30",
+        "vendor": "현대엘리베이터",
+        "amount": 4647500,
+        "company": "피에스"
+    },
+    {
+        "id": 1094,
+        "pay_date": "2025-09-30",
+        "vendor": "사상구청",
+        "amount": 22642990,
+        "company": "피에스"
+    },
+    {
+        "id": 1095,
+        "pay_date": "2025-09-30",
+        "vendor": "현대엘리베이터",
+        "amount": 880000,
+        "company": "피에스"
+    },
+    {
+        "id": 1096,
+        "pay_date": "2025-09-30",
+        "vendor": "국민은행",
+        "amount": 35492720,
+        "company": "피에스"
+    },
+    {
+        "id": 1097,
+        "pay_date": "2025-09-30",
+        "vendor": "파트너스세무회계법인",
+        "amount": 165000,
+        "company": "피에스"
+    },
+    {
+        "id": 1098,
+        "pay_date": "2025-09-30",
+        "vendor": "박찬수",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 1099,
+        "pay_date": "2025-09-30",
+        "vendor": "현대엘리베이터 서비스",
+        "amount": 495000,
+        "company": "피에스"
+    },
+    {
+        "id": 1100,
+        "pay_date": "2025-09-30",
+        "vendor": "서갑병",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 1101,
+        "pay_date": "2025-10-02",
+        "vendor": "진료부",
+        "amount": 9662583,
+        "company": "병원"
+    },
+    {
+        "id": 1102,
+        "pay_date": "2025-10-02",
+        "vendor": "당직의",
+        "amount": 9300000,
+        "company": "병원"
+    },
+    {
+        "id": 1103,
+        "pay_date": "2025-10-02",
+        "vendor": "직원",
+        "amount": 889390936,
+        "company": "병원"
+    },
+    {
+        "id": 1104,
+        "pay_date": "2025-10-02",
+        "vendor": "직원",
+        "amount": 76860484,
+        "company": "병원"
+    },
+    {
+        "id": 1105,
+        "pay_date": "2025-10-02",
+        "vendor": "그레이스K",
+        "amount": 2890000,
+        "company": "병원"
+    },
+    {
+        "id": 1106,
+        "pay_date": "2025-10-02",
+        "vendor": "직원",
+        "amount": 13280098,
+        "company": "피에스"
+    },
+    {
+        "id": 1107,
+        "pay_date": "2025-10-10",
+        "vendor": "한국전력공사",
+        "amount": 20715350,
+        "company": "병원"
+    },
+    {
+        "id": 1108,
+        "pay_date": "2025-10-10",
+        "vendor": "건강보험공단외",
+        "amount": 275916750,
+        "company": "병원"
+    },
+    {
+        "id": 1109,
+        "pay_date": "2025-10-10",
+        "vendor": "상록수사회적협동",
+        "amount": 169989961,
+        "company": "병원"
+    },
+    {
+        "id": 1110,
+        "pay_date": "2025-10-10",
+        "vendor": "사내 동호회",
+        "amount": 400000,
+        "company": "병원"
+    },
+    {
+        "id": 1111,
+        "pay_date": "2025-10-10",
+        "vendor": "박개희",
+        "amount": 600000,
+        "company": "병원"
+    },
+    {
+        "id": 1112,
+        "pay_date": "2025-10-10",
+        "vendor": "하나은행",
+        "amount": 300000,
+        "company": "병원"
+    },
+    {
+        "id": 1113,
+        "pay_date": "2025-10-10",
+        "vendor": "건강보험공단외",
+        "amount": 3298010,
+        "company": "피에스"
+    },
+    {
+        "id": 1114,
+        "pay_date": "2025-10-10",
+        "vendor": "에듀빈",
+        "amount": 594000,
+        "company": "병원"
+    },
+    {
+        "id": 1115,
+        "pay_date": "2025-10-10",
+        "vendor": "직원",
+        "amount": 400000,
+        "company": "병원"
+    },
+    {
+        "id": 1116,
+        "pay_date": "2025-10-13",
+        "vendor": "노란우산",
+        "amount": 250000,
+        "company": "병원"
+    },
+    {
+        "id": 1117,
+        "pay_date": "2025-10-13",
+        "vendor": "현대카드",
+        "amount": 23507662,
+        "company": "병원"
+    },
+    {
+        "id": 1118,
+        "pay_date": "2025-10-13",
+        "vendor": "하나카드",
+        "amount": 78037977,
+        "company": "병원"
+    },
+    {
+        "id": 1119,
+        "pay_date": "2025-10-14",
+        "vendor": "롯데카드",
+        "amount": 25616520,
+        "company": "병원"
+    },
+    {
+        "id": 1120,
+        "pay_date": "2025-10-15",
+        "vendor": "입원환자",
+        "amount": 26437720,
+        "company": "병원"
+    },
+    {
+        "id": 1121,
+        "pay_date": "2025-10-15",
+        "vendor": "백양새마을금고",
+        "amount": 2200000,
+        "company": "병원"
+    },
+    {
+        "id": 1122,
+        "pay_date": "2025-10-15",
+        "vendor": "LG유플러스",
+        "amount": 5500,
+        "company": "병원"
+    },
+    {
+        "id": 1123,
+        "pay_date": "2025-10-15",
+        "vendor": "변호사사무실",
+        "amount": 4500000,
+        "company": "병원"
+    },
+    {
+        "id": 1124,
+        "pay_date": "2025-10-20",
+        "vendor": "비트컴퓨터",
+        "amount": 935000,
+        "company": "병원"
+    },
+    {
+        "id": 1125,
+        "pay_date": "2025-10-20",
+        "vendor": "위소프트",
+        "amount": 660000,
+        "company": "병원"
+    },
+    {
+        "id": 1126,
+        "pay_date": "2025-10-20",
+        "vendor": "테크하임(주)",
+        "amount": 220000,
+        "company": "병원"
+    },
+    {
+        "id": 1127,
+        "pay_date": "2025-10-21",
+        "vendor": "케이티",
+        "amount": 14590,
+        "company": "병원"
+    },
+    {
+        "id": 1128,
+        "pay_date": "2025-10-22",
+        "vendor": "국민은행",
+        "amount": 9591415,
+        "company": "피에스"
+    },
+    {
+        "id": 1129,
+        "pay_date": "2025-10-22",
+        "vendor": "국민은행",
+        "amount": 9479086,
+        "company": "피에스"
+    },
+    {
+        "id": 1130,
+        "pay_date": "2025-10-23",
+        "vendor": "하나카드",
+        "amount": 19007266,
+        "company": "병원"
+    },
+    {
+        "id": 1131,
+        "pay_date": "2025-10-27",
+        "vendor": "황문희",
+        "amount": 450000,
+        "company": "병원"
+    },
+    {
+        "id": 1132,
+        "pay_date": "2025-10-27",
+        "vendor": "중소벤처기업진흥공단",
+        "amount": 7400000,
+        "company": "병원"
+    },
+    {
+        "id": 1133,
+        "pay_date": "2025-10-27",
+        "vendor": "에스원",
+        "amount": 77000,
+        "company": "병원"
+    },
+    {
+        "id": 1134,
+        "pay_date": "2025-10-27",
+        "vendor": "거래처",
+        "amount": 193537464,
+        "company": "병원"
+    },
+    {
+        "id": 1135,
+        "pay_date": "2025-10-27",
+        "vendor": "사상스마트병원",
+        "amount": 1096449,
+        "company": "피에스"
+    },
+    {
+        "id": 1136,
+        "pay_date": "2025-10-27",
+        "vendor": "광명토탈엔지니어링",
+        "amount": 770000,
+        "company": "피에스"
+    },
+    {
+        "id": 1137,
+        "pay_date": "2025-10-27",
+        "vendor": "오로라푸드트럭외",
+        "amount": 11898590,
+        "company": "병원"
+    },
+    {
+        "id": 1138,
+        "pay_date": "2025-10-27",
+        "vendor": "북부산세무서",
+        "amount": 42529090,
+        "company": "피에스"
+    },
+    {
+        "id": 1139,
+        "pay_date": "2025-10-29",
+        "vendor": "하나은행",
+        "amount": 12418048,
+        "company": "피에스"
+    },
+    {
+        "id": 1140,
+        "pay_date": "2025-10-31",
+        "vendor": "국세청",
+        "amount": 14271850,
+        "company": "피에스"
+    },
+    {
+        "id": 1141,
+        "pay_date": "2025-10-31",
+        "vendor": "백양새마을금고",
+        "amount": 273440,
+        "company": "병원"
+    },
+    {
+        "id": 1142,
+        "pay_date": "2025-10-31",
+        "vendor": "피에스메디커뮤니티",
+        "amount": 138187500,
+        "company": "병원"
+    },
+    {
+        "id": 1143,
+        "pay_date": "2025-10-31",
+        "vendor": "피에스메디커뮤니티",
+        "amount": 5500000,
+        "company": "병원"
+    },
+    {
+        "id": 1144,
+        "pay_date": "2025-10-31",
+        "vendor": "에코맨즈",
+        "amount": 330000,
+        "company": "피에스"
+    },
+    {
+        "id": 1145,
+        "pay_date": "2025-10-31",
+        "vendor": "현대엘리베이터",
+        "amount": 880000,
+        "company": "피에스"
+    },
+    {
+        "id": 1146,
+        "pay_date": "2025-10-31",
+        "vendor": "파트너스세무회계법인",
+        "amount": 165000,
+        "company": "피에스"
+    },
+    {
+        "id": 1147,
+        "pay_date": "2025-10-31",
+        "vendor": "국민은행",
+        "amount": 36675811,
+        "company": "피에스"
+    },
+    {
+        "id": 1148,
+        "pay_date": "2025-10-31",
+        "vendor": "현대엘리베이터 서비스",
+        "amount": 495000,
+        "company": "피에스"
+    },
+    {
+        "id": 1149,
+        "pay_date": "2025-10-31",
+        "vendor": "사상구청",
+        "amount": 10499150,
+        "company": "피에스"
+    },
+    {
+        "id": 1150,
+        "pay_date": "2025-11-05",
+        "vendor": "직원",
+        "amount": 902605124,
+        "company": "병원"
+    },
+    {
+        "id": 1151,
+        "pay_date": "2025-11-05",
+        "vendor": "진료부",
+        "amount": 9662583,
+        "company": "병원"
+    },
+    {
+        "id": 1152,
+        "pay_date": "2025-11-05",
+        "vendor": "직원",
+        "amount": 80465066,
+        "company": "병원"
+    },
+    {
+        "id": 1153,
+        "pay_date": "2025-11-05",
+        "vendor": "당직의",
+        "amount": 11050000,
+        "company": "병원"
+    },
+    {
+        "id": 1154,
+        "pay_date": "2025-11-05",
+        "vendor": "직원",
+        "amount": 14199673,
+        "company": "피에스"
+    },
+    {
+        "id": 1155,
+        "pay_date": "2025-11-05",
+        "vendor": "이아림",
+        "amount": 250000,
+        "company": "병원"
+    },
+    {
+        "id": 1156,
+        "pay_date": "2025-11-05",
+        "vendor": "다음환경연구소",
+        "amount": 400000,
+        "company": "병원"
+    },
+    {
+        "id": 1157,
+        "pay_date": "2025-11-07",
+        "vendor": "하나은행",
+        "amount": 300000,
+        "company": "병원"
+    },
+    {
+        "id": 1158,
+        "pay_date": "2025-11-10",
+        "vendor": "건강보험공단외",
+        "amount": 279258430,
+        "company": "병원"
+    },
+    {
+        "id": 1159,
+        "pay_date": "2025-11-10",
+        "vendor": "한국전력공사",
+        "amount": 14154280,
+        "company": "병원"
+    },
+    {
+        "id": 1160,
+        "pay_date": "2025-11-10",
+        "vendor": "사내 동호회",
+        "amount": 355000,
+        "company": "병원"
+    },
+    {
+        "id": 1161,
+        "pay_date": "2025-11-10",
+        "vendor": "상록수사회적협동",
+        "amount": 169890809,
+        "company": "병원"
+    },
+    {
+        "id": 1162,
+        "pay_date": "2025-11-10",
+        "vendor": "건강보험공단외",
+        "amount": 3255340,
+        "company": "피에스"
+    },
+    {
+        "id": 1163,
+        "pay_date": "2025-11-12",
+        "vendor": "현대카드",
+        "amount": 8842199,
+        "company": "병원"
+    },
+    {
+        "id": 1164,
+        "pay_date": "2025-11-12",
+        "vendor": "유진석",
+        "amount": 4201039,
+        "company": "병원"
+    },
+    {
+        "id": 1165,
+        "pay_date": "2025-11-13",
+        "vendor": "하나카드",
+        "amount": 70643779,
+        "company": "병원"
+    },
+    {
+        "id": 1166,
+        "pay_date": "2025-11-13",
+        "vendor": "노란우산",
+        "amount": 250000,
+        "company": "병원"
+    },
+    {
+        "id": 1167,
+        "pay_date": "2025-11-13",
+        "vendor": "대한병원협회",
+        "amount": 165000,
+        "company": "병원"
+    },
+    {
+        "id": 1168,
+        "pay_date": "2025-11-13",
+        "vendor": "택시공제조합",
+        "amount": 82530,
+        "company": "병원"
+    },
+    {
+        "id": 1169,
+        "pay_date": "2025-11-14",
+        "vendor": "롯데카드",
+        "amount": 22831150,
+        "company": "병원"
+    },
+    {
+        "id": 1170,
+        "pay_date": "2025-11-14",
+        "vendor": "안성호",
+        "amount": 2855501,
+        "company": "피에스"
+    },
+    {
+        "id": 1171,
+        "pay_date": "2025-11-17",
+        "vendor": "백양새마을금고",
+        "amount": 2200000,
+        "company": "병원"
+    },
+    {
+        "id": 1172,
+        "pay_date": "2025-11-17",
+        "vendor": "LG유플러스",
+        "amount": 5500,
+        "company": "병원"
+    },
+    {
+        "id": 1173,
+        "pay_date": "2025-11-17",
+        "vendor": "입원환자",
+        "amount": 29454720,
+        "company": "병원"
+    },
+    {
+        "id": 1174,
+        "pay_date": "2025-11-20",
+        "vendor": "비트컴퓨터",
+        "amount": 935000,
+        "company": "병원"
+    },
+    {
+        "id": 1175,
+        "pay_date": "2025-11-20",
+        "vendor": "위소프트",
+        "amount": 660000,
+        "company": "병원"
+    },
+    {
+        "id": 1176,
+        "pay_date": "2025-11-20",
+        "vendor": "테크하임(주)",
+        "amount": 220000,
+        "company": "병원"
+    },
+    {
+        "id": 1177,
+        "pay_date": "2025-11-21",
+        "vendor": "케이티",
+        "amount": 14590,
+        "company": "병원"
+    },
+    {
+        "id": 1178,
+        "pay_date": "2025-11-24",
+        "vendor": "하나카드",
+        "amount": 17403742,
+        "company": "병원"
+    },
+    {
+        "id": 1179,
+        "pay_date": "2025-11-24",
+        "vendor": "국민은행",
+        "amount": 9488401,
+        "company": "피에스"
+    },
+    {
+        "id": 1180,
+        "pay_date": "2025-11-24",
+        "vendor": "국민은행",
+        "amount": 9601643,
+        "company": "피에스"
+    },
+    {
+        "id": 1181,
+        "pay_date": "2025-11-25",
+        "vendor": "호승윈스피아",
+        "amount": 1430000,
+        "company": "피에스"
+    },
+    {
+        "id": 1182,
+        "pay_date": "2025-11-25",
+        "vendor": "에스원",
+        "amount": 77000,
+        "company": "병원"
+    },
+    {
+        "id": 1183,
+        "pay_date": "2025-11-25",
+        "vendor": "거래처",
+        "amount": 151021161,
+        "company": "병원"
+    },
+    {
+        "id": 1184,
+        "pay_date": "2025-11-25",
+        "vendor": "중소벤처기업진흥공단",
+        "amount": 7200000,
+        "company": "병원"
+    },
+    {
+        "id": 1185,
+        "pay_date": "2025-11-25",
+        "vendor": "광명토탈엔지니어링",
+        "amount": 770000,
+        "company": "피에스"
+    },
+    {
+        "id": 1186,
+        "pay_date": "2025-11-25",
+        "vendor": "사상스마트병원",
+        "amount": 1133000,
+        "company": "피에스"
+    },
+    {
+        "id": 1187,
+        "pay_date": "2025-11-25",
+        "vendor": "박지우",
+        "amount": 100000,
+        "company": "병원"
+    },
+    {
+        "id": 1188,
+        "pay_date": "2025-11-27",
+        "vendor": "황문희",
+        "amount": 225000,
+        "company": "병원"
+    },
+    {
+        "id": 1189,
+        "pay_date": "2025-11-28",
+        "vendor": "피에스메디커뮤니티",
+        "amount": 5500000,
+        "company": "병원"
+    },
+    {
+        "id": 1190,
+        "pay_date": "2025-11-28",
+        "vendor": "피에스메디커뮤니티",
+        "amount": 138187500,
+        "company": "병원"
+    },
+    {
+        "id": 1191,
+        "pay_date": "2025-11-28",
+        "vendor": "서갑병",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 1192,
+        "pay_date": "2025-11-28",
+        "vendor": "박찬수",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 1193,
+        "pay_date": "2025-12-01",
+        "vendor": "국민은행",
+        "amount": 35492720,
+        "company": "피에스"
+    },
+    {
+        "id": 1194,
+        "pay_date": "2025-12-01",
+        "vendor": "하나은행",
+        "amount": 12447657,
+        "company": "피에스"
+    },
+    {
+        "id": 1195,
+        "pay_date": "2025-12-01",
+        "vendor": "현대엘리베이터 서비스",
+        "amount": 495000,
+        "company": "피에스"
+    },
+    {
+        "id": 1196,
+        "pay_date": "2025-12-01",
+        "vendor": "현대엘리베이터",
+        "amount": 880000,
+        "company": "피에스"
+    },
+    {
+        "id": 1197,
+        "pay_date": "2025-12-01",
+        "vendor": "파트너스세무회계법인",
+        "amount": 165000,
+        "company": "피에스"
+    },
+    {
+        "id": 1198,
+        "pay_date": "2025-12-01",
+        "vendor": "백양새마을금고",
+        "amount": 203130,
+        "company": "병원"
+    },
+    {
+        "id": 1199,
+        "pay_date": "2025-12-05",
+        "vendor": "직원",
+        "amount": 76169467,
+        "company": "병원"
+    },
+    {
+        "id": 1200,
+        "pay_date": "2025-12-05",
+        "vendor": "진료부",
+        "amount": 9662583,
+        "company": "병원"
+    },
+    {
+        "id": 1201,
+        "pay_date": "2025-12-05",
+        "vendor": "직원",
+        "amount": 877928704,
+        "company": "병원"
+    },
+    {
+        "id": 1202,
+        "pay_date": "2025-12-05",
+        "vendor": "당직의",
+        "amount": 9750000,
+        "company": "병원"
+    },
+    {
+        "id": 1203,
+        "pay_date": "2025-12-05",
+        "vendor": "직원",
+        "amount": 13143958,
+        "company": "피에스"
+    },
+    {
+        "id": 1204,
+        "pay_date": "2025-12-05",
+        "vendor": "현대해상",
+        "amount": 891270,
+        "company": "병원"
+    },
+    {
+        "id": 1205,
+        "pay_date": "2025-12-08",
+        "vendor": "하나은행",
+        "amount": 300000,
+        "company": "병원"
+    },
+    {
+        "id": 1206,
+        "pay_date": "2025-12-10",
+        "vendor": "상록수사회적협동",
+        "amount": 169989961,
+        "company": "병원"
+    },
+    {
+        "id": 1207,
+        "pay_date": "2025-12-10",
+        "vendor": "사내 동호회",
+        "amount": 774640,
+        "company": "병원"
+    },
+    {
+        "id": 1208,
+        "pay_date": "2025-12-10",
+        "vendor": "한국전력공사",
+        "amount": 13528600,
+        "company": "병원"
+    },
+    {
+        "id": 1209,
+        "pay_date": "2025-12-10",
+        "vendor": "건강보험공단외",
+        "amount": 280741840,
+        "company": "병원"
+    },
+    {
+        "id": 1210,
+        "pay_date": "2025-12-10",
+        "vendor": "건강보험공단외",
+        "amount": 3325710,
+        "company": "피에스"
+    },
+    {
+        "id": 1211,
+        "pay_date": "2025-12-12",
+        "vendor": "현대카드",
+        "amount": 9717073,
+        "company": "병원"
+    },
+    {
+        "id": 1212,
+        "pay_date": "2025-12-15",
+        "vendor": "롯데카드",
+        "amount": 24077800,
+        "company": "병원"
+    },
+    {
+        "id": 1213,
+        "pay_date": "2025-12-15",
+        "vendor": "백양새마을금고",
+        "amount": 2200000,
+        "company": "병원"
+    },
+    {
+        "id": 1214,
+        "pay_date": "2025-12-15",
+        "vendor": "LG유플러스",
+        "amount": 5500,
+        "company": "병원"
+    },
+    {
+        "id": 1215,
+        "pay_date": "2025-12-15",
+        "vendor": "하나카드",
+        "amount": 73802488,
+        "company": "병원"
+    },
+    {
+        "id": 1216,
+        "pay_date": "2025-12-15",
+        "vendor": "노란우산",
+        "amount": 250000,
+        "company": "병원"
+    },
+    {
+        "id": 1217,
+        "pay_date": "2025-12-15",
+        "vendor": "입원환자",
+        "amount": 28526410,
+        "company": "병원"
+    },
+    {
+        "id": 1218,
+        "pay_date": "2025-12-15",
+        "vendor": "하나은행",
+        "amount": 11658080,
+        "company": "병원"
+    },
+    {
+        "id": 1219,
+        "pay_date": "2025-12-15",
+        "vendor": "부산항",
+        "amount": 4261580,
+        "company": "병원"
+    },
+    {
+        "id": 1220,
+        "pay_date": "2025-12-22",
+        "vendor": "테크하임(주)",
+        "amount": 220000,
+        "company": "병원"
+    },
+    {
+        "id": 1221,
+        "pay_date": "2025-12-22",
+        "vendor": "위소프트",
+        "amount": 660000,
+        "company": "병원"
+    },
+    {
+        "id": 1222,
+        "pay_date": "2025-12-22",
+        "vendor": "케이티",
+        "amount": 14590,
+        "company": "병원"
+    },
+    {
+        "id": 1223,
+        "pay_date": "2025-12-22",
+        "vendor": "비트컴퓨터",
+        "amount": 935000,
+        "company": "병원"
+    },
+    {
+        "id": 1224,
+        "pay_date": "2025-12-22",
+        "vendor": "국민은행",
+        "amount": 9423196,
+        "company": "피에스"
+    },
+    {
+        "id": 1225,
+        "pay_date": "2025-12-22",
+        "vendor": "국민은행",
+        "amount": 9530045,
+        "company": "피에스"
+    },
+    {
+        "id": 1226,
+        "pay_date": "2025-12-22",
+        "vendor": null,
+        "amount": 19700000,
+        "company": "병원"
+    },
+    {
+        "id": 1227,
+        "pay_date": "2025-12-23",
+        "vendor": "하나카드",
+        "amount": 18455662,
+        "company": "병원"
+    },
+    {
+        "id": 1228,
+        "pay_date": "2025-12-26",
+        "vendor": "거래처",
+        "amount": 136423450,
+        "company": "병원"
+    },
+    {
+        "id": 1229,
+        "pay_date": "2025-12-26",
+        "vendor": "에스원",
+        "amount": 77000,
+        "company": "병원"
+    },
+    {
+        "id": 1230,
+        "pay_date": "2025-12-26",
+        "vendor": "중소벤처기업진흥공단",
+        "amount": 7200000,
+        "company": "병원"
+    },
+    {
+        "id": 1231,
+        "pay_date": "2025-12-26",
+        "vendor": "광명토탈엔지니어링",
+        "amount": 770000,
+        "company": "피에스"
+    },
+    {
+        "id": 1232,
+        "pay_date": "2025-12-26",
+        "vendor": "사상스마트병원",
+        "amount": 1096449,
+        "company": "피에스"
+    },
+    {
+        "id": 1233,
+        "pay_date": "2025-12-26",
+        "vendor": "정현선",
+        "amount": 200000,
+        "company": "병원"
+    },
+    {
+        "id": 1234,
+        "pay_date": "2025-12-29",
+        "vendor": "하나은행",
+        "amount": 12322641,
+        "company": "피에스"
+    },
+    {
+        "id": 1235,
+        "pay_date": "2025-12-31",
+        "vendor": "백양새마을금고",
+        "amount": 395070,
+        "company": "병원"
+    },
+    {
+        "id": 1236,
+        "pay_date": "2025-12-31",
+        "vendor": "태진산업",
+        "amount": 800000,
+        "company": "피에스"
+    },
+    {
+        "id": 1237,
+        "pay_date": "2025-12-31",
+        "vendor": "피에스메디커뮤니티",
+        "amount": 5500000,
+        "company": "병원"
+    },
+    {
+        "id": 1238,
+        "pay_date": "2025-12-31",
+        "vendor": "피에스메디커뮤니티",
+        "amount": 138187500,
+        "company": "병원"
+    },
+    {
+        "id": 1239,
+        "pay_date": "2025-12-31",
+        "vendor": "박찬수",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 1240,
+        "pay_date": "2025-12-31",
+        "vendor": "국민은행",
+        "amount": 36675811,
+        "company": "피에스"
+    },
+    {
+        "id": 1241,
+        "pay_date": "2025-12-31",
+        "vendor": "파트너스세무회계법인",
+        "amount": 165000,
+        "company": "피에스"
+    },
+    {
+        "id": 1242,
+        "pay_date": "2025-12-31",
+        "vendor": "서갑병",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 1243,
+        "pay_date": "2025-12-31",
+        "vendor": "현대엘리베이터 서비스",
+        "amount": 495000,
+        "company": "피에스"
+    },
+    {
+        "id": 1244,
+        "pay_date": "2025-12-31",
+        "vendor": "현대엘리베이터",
+        "amount": 880000,
+        "company": "피에스"
+    },
+    {
+        "id": 1245,
+        "pay_date": "2026-01-05",
+        "vendor": "직원",
+        "amount": 69899432,
+        "company": "병원"
+    },
+    {
+        "id": 1246,
+        "pay_date": "2026-01-05",
+        "vendor": "진료부",
+        "amount": 9662583,
+        "company": "병원"
+    },
+    {
+        "id": 1247,
+        "pay_date": "2026-01-05",
+        "vendor": "마인드비전",
+        "amount": 1100000,
+        "company": "병원"
+    },
+    {
+        "id": 1248,
+        "pay_date": "2026-01-05",
+        "vendor": "직원",
+        "amount": 890373266,
+        "company": "병원"
+    },
+    {
+        "id": 1249,
+        "pay_date": "2026-01-05",
+        "vendor": "당직의",
+        "amount": 9000000,
+        "company": "병원"
+    },
+    {
+        "id": 1250,
+        "pay_date": "2026-01-05",
+        "vendor": "직원",
+        "amount": 13215815,
+        "company": "피에스"
+    },
+    {
+        "id": 1251,
+        "pay_date": "2026-01-07",
+        "vendor": "하나은행",
+        "amount": 300000,
+        "company": "병원"
+    },
+    {
+        "id": 1252,
+        "pay_date": "2026-01-12",
+        "vendor": "상록수사회적협동",
+        "amount": 169726736,
+        "company": "병원"
+    },
+    {
+        "id": 1253,
+        "pay_date": "2026-01-12",
+        "vendor": "사내 동호회",
+        "amount": 366000,
+        "company": "병원"
+    },
+    {
+        "id": 1254,
+        "pay_date": "2026-01-12",
+        "vendor": "한국전력공사",
+        "amount": 17563860,
+        "company": "병원"
+    },
+    {
+        "id": 1255,
+        "pay_date": "2026-01-12",
+        "vendor": "건강보험공단외",
+        "amount": 277534415,
+        "company": "병원"
+    },
+    {
+        "id": 1256,
+        "pay_date": "2026-01-12",
+        "vendor": "현대카드",
+        "amount": 6964383,
+        "company": "병원"
+    },
+    {
+        "id": 1257,
+        "pay_date": "2026-01-12",
+        "vendor": "건강보험공단외",
+        "amount": 3284510,
+        "company": "피에스"
+    },
+    {
+        "id": 1258,
+        "pay_date": "2026-01-13",
+        "vendor": "노란우산",
+        "amount": 250000,
+        "company": "병원"
+    },
+    {
+        "id": 1259,
+        "pay_date": "2026-01-13",
+        "vendor": "하나카드",
+        "amount": 72315437,
+        "company": "병원"
+    },
+    {
+        "id": 1260,
+        "pay_date": "2026-01-14",
+        "vendor": "롯데카드",
+        "amount": 24874660,
+        "company": "병원"
+    },
+    {
+        "id": 1261,
+        "pay_date": "2026-01-14",
+        "vendor": "김경훈2",
+        "amount": 4609638,
+        "company": "병원"
+    },
+    {
+        "id": 1262,
+        "pay_date": "2026-01-15",
+        "vendor": "LG유플러스",
+        "amount": 5500,
+        "company": "병원"
+    },
+    {
+        "id": 1263,
+        "pay_date": "2026-01-15",
+        "vendor": "백양새마을금고",
+        "amount": 2200000,
+        "company": "병원"
+    },
+    {
+        "id": 1264,
+        "pay_date": "2026-01-15",
+        "vendor": "입원환자",
+        "amount": 18767140,
+        "company": "병원"
+    },
+    {
+        "id": 1265,
+        "pay_date": "2026-01-15",
+        "vendor": null,
+        "amount": 264000,
+        "company": "병원"
+    },
+    {
+        "id": 1266,
+        "pay_date": "2026-01-15",
+        "vendor": null,
+        "amount": 105600,
+        "company": "병원"
+    },
+    {
+        "id": 1267,
+        "pay_date": "2026-01-20",
+        "vendor": "위소프트",
+        "amount": 660000,
+        "company": "병원"
+    },
+    {
+        "id": 1268,
+        "pay_date": "2026-01-20",
+        "vendor": "테크하임(주)",
+        "amount": 220000,
+        "company": "병원"
+    },
+    {
+        "id": 1269,
+        "pay_date": "2026-01-20",
+        "vendor": "비트컴퓨터",
+        "amount": 935000,
+        "company": "병원"
+    },
+    {
+        "id": 1270,
+        "pay_date": "2026-01-20",
+        "vendor": "영진약품",
+        "amount": 5000000,
+        "company": "병원"
+    },
+    {
+        "id": 1271,
+        "pay_date": "2026-01-21",
+        "vendor": "케이티",
+        "amount": 14590,
+        "company": "병원"
+    },
+    {
+        "id": 1272,
+        "pay_date": "2026-01-22",
+        "vendor": "국민은행",
+        "amount": 9538228,
+        "company": "피에스"
+    },
+    {
+        "id": 1273,
+        "pay_date": "2026-01-22",
+        "vendor": "국민은행",
+        "amount": 9430648,
+        "company": "피에스"
+    },
+    {
+        "id": 1274,
+        "pay_date": "2026-01-23",
+        "vendor": "하나카드",
+        "amount": 21798463,
+        "company": "병원"
+    },
+    {
+        "id": 1275,
+        "pay_date": "2026-01-26",
+        "vendor": "거래처",
+        "amount": 154984154,
+        "company": "병원"
+    },
+    {
+        "id": 1276,
+        "pay_date": "2026-01-26",
+        "vendor": "중소벤처기업진흥공단",
+        "amount": 7200000,
+        "company": "병원"
+    },
+    {
+        "id": 1277,
+        "pay_date": "2026-01-26",
+        "vendor": "에스원",
+        "amount": 77000,
+        "company": "병원"
+    },
+    {
+        "id": 1278,
+        "pay_date": "2026-01-26",
+        "vendor": "티엔에스아이티",
+        "amount": 3000,
+        "company": "피에스"
+    },
+    {
+        "id": 1279,
+        "pay_date": "2026-01-26",
+        "vendor": "남경회계법인",
+        "amount": 3300000,
+        "company": "피에스"
+    },
+    {
+        "id": 1280,
+        "pay_date": "2026-01-26",
+        "vendor": "국세청",
+        "amount": 45061070,
+        "company": "피에스"
+    },
+    {
+        "id": 1281,
+        "pay_date": "2026-01-26",
+        "vendor": "광명토탈엔지니어링",
+        "amount": 770000,
+        "company": "피에스"
+    },
+    {
+        "id": 1282,
+        "pay_date": "2026-01-26",
+        "vendor": "사상스마트병원",
+        "amount": 1133000,
+        "company": "피에스"
+    },
+    {
+        "id": 1283,
+        "pay_date": "2026-01-26",
+        "vendor": "스마트스토어",
+        "amount": 653500,
+        "company": "병원"
+    },
+    {
+        "id": 1284,
+        "pay_date": "2026-01-29",
+        "vendor": "하나은행",
+        "amount": 12345670,
+        "company": "피에스"
+    },
+    {
+        "id": 1285,
+        "pay_date": "2026-01-30",
+        "vendor": "피에스메디커뮤니티",
+        "amount": 5500000,
+        "company": "병원"
+    },
+    {
+        "id": 1286,
+        "pay_date": "2026-01-30",
+        "vendor": "피에스메디커뮤니티",
+        "amount": 138187500,
+        "company": "병원"
+    },
+    {
+        "id": 1287,
+        "pay_date": "2026-01-30",
+        "vendor": "서갑병",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 1288,
+        "pay_date": "2026-01-30",
+        "vendor": "파트너스세무회계법인",
+        "amount": 165000,
+        "company": "피에스"
+    },
+    {
+        "id": 1289,
+        "pay_date": "2026-01-30",
+        "vendor": "박찬수",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 1290,
+        "pay_date": "2026-01-30",
+        "vendor": "현대엘리베이터",
+        "amount": 880000,
+        "company": "피에스"
+    },
+    {
+        "id": 1291,
+        "pay_date": "2026-01-30",
+        "vendor": "현대엘리베이터 서비스",
+        "amount": 495000,
+        "company": "피에스"
+    },
+    {
+        "id": 1292,
+        "pay_date": "2026-01-30",
+        "vendor": "사상구청",
+        "amount": 186000,
+        "company": "병원"
+    },
+    {
+        "id": 1293,
+        "pay_date": "2026-01-30",
+        "vendor": "여준호",
+        "amount": 300000,
+        "company": "병원"
+    },
+    {
+        "id": 1294,
+        "pay_date": "2026-01-30",
+        "vendor": "이덕형",
+        "amount": 529690,
+        "company": "병원"
+    },
+    {
+        "id": 1295,
+        "pay_date": "2026-02-02",
+        "vendor": "백양새마을금고",
+        "amount": 321210,
+        "company": "병원"
+    },
+    {
+        "id": 1296,
+        "pay_date": "2026-02-02",
+        "vendor": "국민은행",
+        "amount": 36675811,
+        "company": "피에스"
+    },
+    {
+        "id": 1297,
+        "pay_date": "2026-02-03",
+        "vendor": "삼성화재",
+        "amount": 408000,
+        "company": "피에스"
+    },
+    {
+        "id": 1298,
+        "pay_date": "2026-02-04",
+        "vendor": "마인드비전",
+        "amount": 1100000,
+        "company": "병원"
+    },
+    {
+        "id": 1299,
+        "pay_date": "2026-02-05",
+        "vendor": "직원",
+        "amount": 894377535,
+        "company": "병원"
+    },
+    {
+        "id": 1300,
+        "pay_date": "2026-02-05",
+        "vendor": "진료부",
+        "amount": 12454224,
+        "company": "병원"
+    },
+    {
+        "id": 1301,
+        "pay_date": "2026-02-05",
+        "vendor": "직원",
+        "amount": 65317169,
+        "company": "병원"
+    },
+    {
+        "id": 1302,
+        "pay_date": "2026-02-05",
+        "vendor": "당직의",
+        "amount": 10630000,
+        "company": "병원"
+    },
+    {
+        "id": 1303,
+        "pay_date": "2026-02-05",
+        "vendor": "직원",
+        "amount": 13354388,
+        "company": "피에스"
+    },
+    {
+        "id": 1304,
+        "pay_date": "2026-02-05",
+        "vendor": "환자",
+        "amount": 3840180,
+        "company": "병원"
+    },
+    {
+        "id": 1305,
+        "pay_date": "2026-02-09",
+        "vendor": "하나은행",
+        "amount": 300000,
+        "company": "병원"
+    },
+    {
+        "id": 1306,
+        "pay_date": "2026-02-10",
+        "vendor": "사내 동호회",
+        "amount": 359000,
+        "company": "병원"
+    },
+    {
+        "id": 1307,
+        "pay_date": "2026-02-10",
+        "vendor": "한국전력공사",
+        "amount": 20752050,
+        "company": "병원"
+    },
+    {
+        "id": 1308,
+        "pay_date": "2026-02-10",
+        "vendor": "건강보험공단외",
+        "amount": 287334090,
+        "company": "병원"
+    },
+    {
+        "id": 1309,
+        "pay_date": "2026-02-10",
+        "vendor": "상록수사회적협동",
+        "amount": 176099307,
+        "company": "병원"
+    },
+    {
+        "id": 1310,
+        "pay_date": "2026-02-10",
+        "vendor": "건강보험공단외",
+        "amount": 3371310,
+        "company": "피에스"
+    },
+    {
+        "id": 1311,
+        "pay_date": "2026-02-10",
+        "vendor": "현금",
+        "amount": 7000000,
+        "company": "병원"
+    },
+    {
+        "id": 1312,
+        "pay_date": "2026-02-10",
+        "vendor": "스마트파일",
+        "amount": 20000,
+        "company": "병원"
+    },
+    {
+        "id": 1313,
+        "pay_date": "2026-02-12",
+        "vendor": "현대카드",
+        "amount": 11776846,
+        "company": "병원"
+    },
+    {
+        "id": 1314,
+        "pay_date": "2026-02-13",
+        "vendor": "노란우산",
+        "amount": 250000,
+        "company": "병원"
+    },
+    {
+        "id": 1315,
+        "pay_date": "2026-02-13",
+        "vendor": "하나카드",
+        "amount": 72203329,
+        "company": "병원"
+    },
+    {
+        "id": 1316,
+        "pay_date": "2026-02-13",
+        "vendor": "직원",
+        "amount": 26100000,
+        "company": "병원"
+    },
+    {
+        "id": 1317,
+        "pay_date": "2026-02-13",
+        "vendor": "직원",
+        "amount": 300000,
+        "company": "피에스"
+    },
+    {
+        "id": 1318,
+        "pay_date": "2026-02-19",
+        "vendor": "LG유플러스",
+        "amount": 5500,
+        "company": "병원"
+    },
+    {
+        "id": 1319,
+        "pay_date": "2026-02-19",
+        "vendor": "롯데카드",
+        "amount": 24109560,
+        "company": "병원"
+    },
+    {
+        "id": 1320,
+        "pay_date": "2026-02-19",
+        "vendor": "백양새마을금고",
+        "amount": 2200000,
+        "company": "병원"
+    },
+    {
+        "id": 1321,
+        "pay_date": "2026-02-19",
+        "vendor": "입원환자",
+        "amount": 23487250,
+        "company": "병원"
+    },
+    {
+        "id": 1322,
+        "pay_date": "2026-02-20",
+        "vendor": "테크하임(주)",
+        "amount": 220000,
+        "company": "병원"
+    },
+    {
+        "id": 1323,
+        "pay_date": "2026-02-20",
+        "vendor": "비트컴퓨터",
+        "amount": 935000,
+        "company": "병원"
+    },
+    {
+        "id": 1324,
+        "pay_date": "2026-02-23",
+        "vendor": "위소프트",
+        "amount": 660000,
+        "company": "병원"
+    },
+    {
+        "id": 1325,
+        "pay_date": "2026-02-23",
+        "vendor": "하나카드",
+        "amount": 20579117,
+        "company": "병원"
+    },
+    {
+        "id": 1326,
+        "pay_date": "2026-02-23",
+        "vendor": "케이티",
+        "amount": 14590,
+        "company": "병원"
+    },
+    {
+        "id": 1327,
+        "pay_date": "2026-02-23",
+        "vendor": "국민은행",
+        "amount": 9401771,
+        "company": "피에스"
+    },
+    {
+        "id": 1328,
+        "pay_date": "2026-02-23",
+        "vendor": "국민은행",
+        "amount": 9506520,
+        "company": "피에스"
+    },
+    {
+        "id": 1329,
+        "pay_date": "2026-02-24",
+        "vendor": "영진약품",
+        "amount": 4221703,
+        "company": "병원"
+    },
+    {
+        "id": 1330,
+        "pay_date": "2026-02-25",
+        "vendor": "에스원",
+        "amount": 383930,
+        "company": "병원"
+    },
+    {
+        "id": 1331,
+        "pay_date": "2026-02-25",
+        "vendor": "거래처",
+        "amount": 133960376,
+        "company": "병원"
+    },
+    {
+        "id": 1332,
+        "pay_date": "2026-02-25",
+        "vendor": "중소벤처기업진흥공단",
+        "amount": 7200000,
+        "company": "병원"
+    },
+    {
+        "id": 1333,
+        "pay_date": "2026-02-25",
+        "vendor": "광명토탈엔지니어링",
+        "amount": 770000,
+        "company": "피에스"
+    },
+    {
+        "id": 1334,
+        "pay_date": "2026-02-25",
+        "vendor": "사상스마트병원",
+        "amount": 1133000,
+        "company": "피에스"
+    },
+    {
+        "id": 1335,
+        "pay_date": "2026-02-27",
+        "vendor": "윌로펌프",
+        "amount": 825000,
+        "company": "피에스"
+    },
+    {
+        "id": 1336,
+        "pay_date": "2026-02-27",
+        "vendor": "피에스메디커뮤니티",
+        "amount": 138187500,
+        "company": "병원"
+    },
+    {
+        "id": 1337,
+        "pay_date": "2026-02-27",
+        "vendor": "피에스메디커뮤니티",
+        "amount": 5500000,
+        "company": "병원"
+    },
+    {
+        "id": 1338,
+        "pay_date": "2026-02-27",
+        "vendor": "백양새마을금고",
+        "amount": 477230,
+        "company": "병원"
+    },
+    {
+        "id": 1339,
+        "pay_date": "2026-02-27",
+        "vendor": "송림",
+        "amount": 600000,
+        "company": "피에스"
+    },
+    {
+        "id": 1340,
+        "pay_date": "2026-02-27",
+        "vendor": "서갑병",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 1341,
+        "pay_date": "2026-02-27",
+        "vendor": "박찬수",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 1342,
+        "pay_date": "2026-02-27",
+        "vendor": "파트너스세무회계법인",
+        "amount": 165000,
+        "company": "피에스"
+    },
+    {
+        "id": 1343,
+        "pay_date": "2026-02-27",
+        "vendor": "현대엘리베이터",
+        "amount": 880000,
+        "company": "피에스"
+    },
+    {
+        "id": 1344,
+        "pay_date": "2026-02-27",
+        "vendor": "현대엘리베이터 서비스",
+        "amount": 495000,
+        "company": "피에스"
+    },
+    {
+        "id": 1345,
+        "pay_date": "2026-03-03",
+        "vendor": "국민은행",
+        "amount": 33126539,
+        "company": "피에스"
+    },
+    {
+        "id": 1346,
+        "pay_date": "2026-03-04",
+        "vendor": "마인드비전",
+        "amount": 1100000,
+        "company": "병원"
+    },
+    {
+        "id": 1347,
+        "pay_date": "2026-03-04",
+        "vendor": "당직비",
+        "amount": 5000000,
+        "company": "병원"
+    },
+    {
+        "id": 1348,
+        "pay_date": "2026-03-05",
+        "vendor": "직원",
+        "amount": 81049093,
+        "company": "병원"
+    },
+    {
+        "id": 1349,
+        "pay_date": "2026-03-05",
+        "vendor": "진료부",
+        "amount": 12454226,
+        "company": "병원"
+    },
+    {
+        "id": 1350,
+        "pay_date": "2026-03-05",
+        "vendor": "직원",
+        "amount": 1082746442,
+        "company": "병원"
+    },
+    {
+        "id": 1351,
+        "pay_date": "2026-03-05",
+        "vendor": "당직의",
+        "amount": 3500000,
+        "company": "병원"
+    },
+    {
+        "id": 1352,
+        "pay_date": "2026-03-05",
+        "vendor": "직원",
+        "amount": 14056563,
+        "company": "피에스"
+    },
+    {
+        "id": 1353,
+        "pay_date": "2026-03-05",
+        "vendor": "윤아영",
+        "amount": 250000,
+        "company": "병원"
+    },
+    {
+        "id": 1354,
+        "pay_date": "2026-03-09",
+        "vendor": "하나은행",
+        "amount": 300000,
+        "company": "병원"
+    },
+    {
+        "id": 1355,
+        "pay_date": "2026-03-10",
+        "vendor": "사내 동호회",
+        "amount": 250000,
+        "company": "병원"
+    },
+    {
+        "id": 1356,
+        "pay_date": "2026-03-10",
+        "vendor": "한국전력공사",
+        "amount": 21617990,
+        "company": "병원"
+    },
+    {
+        "id": 1357,
+        "pay_date": "2026-03-10",
+        "vendor": "건강보험공단외",
+        "amount": 199627730,
+        "company": "병원"
+    },
+    {
+        "id": 1358,
+        "pay_date": "2026-03-10",
+        "vendor": "상록수사회적협동",
+        "amount": 174943643,
+        "company": "병원"
+    },
+    {
+        "id": 1359,
+        "pay_date": "2026-03-10",
+        "vendor": "건강보험공단외",
+        "amount": 2685990,
+        "company": "피에스"
+    },
+    {
+        "id": 1360,
+        "pay_date": "2026-03-12",
+        "vendor": "현대카드",
+        "amount": 22178411,
+        "company": "병원"
+    },
+    {
+        "id": 1361,
+        "pay_date": "2026-03-13",
+        "vendor": "하나카드",
+        "amount": 75000608,
+        "company": "병원"
+    },
+    {
+        "id": 1362,
+        "pay_date": "2026-03-13",
+        "vendor": "노란우산",
+        "amount": 250000,
+        "company": "병원"
+    },
+    {
+        "id": 1363,
+        "pay_date": "2026-03-16",
+        "vendor": "백양새마을금고",
+        "amount": 2200000,
+        "company": "병원"
+    },
+    {
+        "id": 1364,
+        "pay_date": "2026-03-16",
+        "vendor": "롯데카드",
+        "amount": 27501680,
+        "company": "병원"
+    },
+    {
+        "id": 1365,
+        "pay_date": "2026-03-16",
+        "vendor": "LG유플러스",
+        "amount": 5500,
+        "company": "병원"
+    },
+    {
+        "id": 1366,
+        "pay_date": "2026-03-16",
+        "vendor": "입원환자",
+        "amount": 24401970,
+        "company": "병원"
+    },
+    {
+        "id": 1367,
+        "pay_date": "2026-03-16",
+        "vendor": "하나은행",
+        "amount": 12149176,
+        "company": "병원"
+    },
+    {
+        "id": 1368,
+        "pay_date": "2026-03-16",
+        "vendor": "이화평",
+        "amount": 200000,
+        "company": "병원"
+    },
+    {
+        "id": 1369,
+        "pay_date": "2026-03-20",
+        "vendor": "비트컴퓨터",
+        "amount": 935000,
+        "company": "병원"
+    },
+    {
+        "id": 1370,
+        "pay_date": "2026-03-20",
+        "vendor": "위소프트",
+        "amount": 660000,
+        "company": "병원"
+    },
+    {
+        "id": 1371,
+        "pay_date": "2026-03-20",
+        "vendor": "테크하임(주)",
+        "amount": 220000,
+        "company": "병원"
+    },
+    {
+        "id": 1372,
+        "pay_date": "2026-03-23",
+        "vendor": "하나카드",
+        "amount": 22298685,
+        "company": "병원"
+    },
+    {
+        "id": 1373,
+        "pay_date": "2026-03-23",
+        "vendor": "케이티",
+        "amount": 14590,
+        "company": "병원"
+    },
+    {
+        "id": 1374,
+        "pay_date": "2026-03-23",
+        "vendor": "국민은행",
+        "amount": 9304511,
+        "company": "피에스"
+    },
+    {
+        "id": 1375,
+        "pay_date": "2026-03-23",
+        "vendor": "국민은행",
+        "amount": 9396565,
+        "company": "피에스"
+    },
+    {
+        "id": 1376,
+        "pay_date": "2026-03-25",
+        "vendor": "중소벤처기업진흥공단",
+        "amount": 7005500,
+        "company": "병원"
+    },
+    {
+        "id": 1377,
+        "pay_date": "2026-03-25",
+        "vendor": "거래처",
+        "amount": 147386501,
+        "company": "병원"
+    },
+    {
+        "id": 1378,
+        "pay_date": "2026-03-25",
+        "vendor": "에스원",
+        "amount": 83930,
+        "company": "병원"
+    },
+    {
+        "id": 1379,
+        "pay_date": "2026-03-25",
+        "vendor": "광명토탈엔지니어링",
+        "amount": 770000,
+        "company": "피에스"
+    },
+    {
+        "id": 1380,
+        "pay_date": "2026-03-25",
+        "vendor": "사상스마트병원",
+        "amount": 1023357,
+        "company": "피에스"
+    },
+    {
+        "id": 1383,
+        "pay_date": "2026-03-30",
+        "vendor": "하나은행",
+        "amount": 12103866,
+        "company": "피에스"
+    },
+    {
+        "id": 1384,
+        "pay_date": "2026-03-31",
+        "vendor": "피에스메디커뮤니티",
+        "amount": 5500000,
+        "company": "병원"
+    },
+    {
+        "id": 1385,
+        "pay_date": "2026-03-31",
+        "vendor": "피에스메디커뮤니티",
+        "amount": 138187500,
+        "company": "병원"
+    },
+    {
+        "id": 1388,
+        "pay_date": "2026-03-31",
+        "vendor": "현대엘리베이터",
+        "amount": 880000,
+        "company": "피에스"
+    },
+    {
+        "id": 1389,
+        "pay_date": "2026-03-31",
+        "vendor": "현대엘리베이터 서비스",
+        "amount": 495000,
+        "company": "피에스"
+    },
+    {
+        "id": 1390,
+        "pay_date": "2026-03-31",
+        "vendor": "대농구조엔지니어링",
+        "amount": 1000000,
+        "company": "피에스"
+    },
+    {
+        "id": 1391,
+        "pay_date": "2026-03-31",
+        "vendor": "파트너스세무회계법인",
+        "amount": 165000,
+        "company": "피에스"
+    },
+    {
+        "id": 1392,
+        "pay_date": "2026-03-31",
+        "vendor": "국세청",
+        "amount": 23681380,
+        "company": "피에스"
+    },
+    {
+        "id": 1394,
+        "pay_date": "2026-06-30",
+        "vendor": "사상구청",
+        "amount": 5278290,
+        "company": "피에스"
+    },
+    {
+        "id": 1395,
+        "pay_date": "2026-03-31",
+        "vendor": "새마을금고",
+        "amount": 262840,
+        "company": "병원"
+    },
+    {
+        "id": 1396,
+        "pay_date": "2026-03-31",
+        "vendor": "미래새한감정평가",
+        "amount": 15624400,
+        "company": "피에스"
+    },
+    {
+        "id": 1397,
+        "pay_date": "2026-03-31",
+        "vendor": "국민은행",
+        "amount": 36675811,
+        "company": "피에스"
+    },
+    {
+        "id": 1522,
+        "pay_date": "2026-04-06",
+        "vendor": "마인드비전",
+        "amount": 1100000,
+        "company": "병원"
+    },
+    {
+        "id": 1523,
+        "pay_date": "2026-04-03",
+        "vendor": "직원",
+        "amount": 918331857,
+        "company": "병원"
+    },
+    {
+        "id": 1524,
+        "pay_date": "2026-04-03",
+        "vendor": "직원",
+        "amount": 12454226,
+        "company": "병원"
+    },
+    {
+        "id": 1525,
+        "pay_date": "2026-04-03",
+        "vendor": "직원",
+        "amount": 78687397,
+        "company": "병원"
+    },
+    {
+        "id": 1526,
+        "pay_date": "2026-04-07",
+        "vendor": "하나은행",
+        "amount": 300000,
+        "company": "병원"
+    },
+    {
+        "id": 1527,
+        "pay_date": "2026-04-10",
+        "vendor": "건강보험공단",
+        "amount": 199901241,
+        "company": "병원"
+    },
+    {
+        "id": 1528,
+        "pay_date": "2026-04-10",
+        "vendor": "상록수간병사회",
+        "amount": 174943643,
+        "company": "병원"
+    },
+    {
+        "id": 1529,
+        "pay_date": "2026-04-10",
+        "vendor": "직원",
+        "amount": 250000,
+        "company": "병원"
+    },
+    {
+        "id": 1531,
+        "pay_date": "2026-04-13",
+        "vendor": "현대카드",
+        "amount": null,
+        "company": "병원"
+    },
+    {
+        "id": 1532,
+        "pay_date": "2026-04-13",
+        "vendor": "하나카드",
+        "amount": null,
+        "company": "병원"
+    },
+    {
+        "id": 1533,
+        "pay_date": "2026-04-13",
+        "vendor": "노란우산",
+        "amount": 250000,
+        "company": "병원"
+    },
+    {
+        "id": 1534,
+        "pay_date": "2026-04-14",
+        "vendor": "롯데카드",
+        "amount": null,
+        "company": "병원"
+    },
+    {
+        "id": 1536,
+        "pay_date": "2026-04-15",
+        "vendor": "엘지",
+        "amount": 5500,
+        "company": "병원"
+    },
+    {
+        "id": 1537,
+        "pay_date": "2026-04-15",
+        "vendor": "새마을금고",
+        "amount": 2200000,
+        "company": "병원"
+    },
+    {
+        "id": 1538,
+        "pay_date": "2026-04-20",
+        "vendor": "테크하임",
+        "amount": 220000,
+        "company": "병원"
+    },
+    {
+        "id": 1539,
+        "pay_date": "2026-04-20",
+        "vendor": "한비자",
+        "amount": 660000,
+        "company": "병원"
+    },
+    {
+        "id": 1540,
+        "pay_date": "2026-04-20",
+        "vendor": "비트컴퓨터",
+        "amount": 935000,
+        "company": "병원"
+    },
+    {
+        "id": 1541,
+        "pay_date": "2026-04-21",
+        "vendor": "케이티",
+        "amount": 14590,
+        "company": "병원"
+    },
+    {
+        "id": 1542,
+        "pay_date": "2026-04-23",
+        "vendor": "하나카드",
+        "amount": null,
+        "company": "병원"
+    },
+    {
+        "id": 1543,
+        "pay_date": "2026-04-27",
+        "vendor": "중소벤처",
+        "amount": null,
+        "company": "병원"
+    },
+    {
+        "id": 1544,
+        "pay_date": "2026-04-27",
+        "vendor": "에스원",
+        "amount": null,
+        "company": "병원"
+    },
+    {
+        "id": 1545,
+        "pay_date": "2026-04-27",
+        "vendor": "거래처",
+        "amount": null,
+        "company": "병원"
+    },
+    {
+        "id": 1546,
+        "pay_date": "2026-04-30",
+        "vendor": "피에스",
+        "amount": 138187500,
+        "company": "병원"
+    },
+    {
+        "id": 1547,
+        "pay_date": "2026-04-30",
+        "vendor": "피에스",
+        "amount": 5500000,
+        "company": "병원"
+    },
+    {
+        "id": 1548,
+        "pay_date": "2026-04-30",
+        "vendor": "새마을금고",
+        "amount": null,
+        "company": "병원"
+    },
+    {
+        "id": 1549,
+        "pay_date": "2026-04-03",
+        "vendor": "직원",
+        "amount": 13355542,
+        "company": "피에스"
+    },
+    {
+        "id": 1550,
+        "pay_date": "2026-04-10",
+        "vendor": "건강보험공단",
+        "amount": null,
+        "company": "피에스"
+    },
+    {
+        "id": 1551,
+        "pay_date": "2026-04-22",
+        "vendor": "국민은행",
+        "amount": null,
+        "company": "피에스"
+    },
+    {
+        "id": 1552,
+        "pay_date": "2026-04-22",
+        "vendor": "국민은행",
+        "amount": null,
+        "company": "피에스"
+    },
+    {
+        "id": 1553,
+        "pay_date": "2026-04-27",
+        "vendor": "병원",
+        "amount": null,
+        "company": "피에스"
+    },
+    {
+        "id": 1554,
+        "pay_date": "2026-04-27",
+        "vendor": "광명토탈엔지니어링",
+        "amount": 770000,
+        "company": "피에스"
+    },
+    {
+        "id": 1555,
+        "pay_date": "2026-04-29",
+        "vendor": "하나은행",
+        "amount": 10000000,
+        "company": "피에스"
+    },
+    {
+        "id": 1556,
+        "pay_date": "2026-04-30",
+        "vendor": "서갑병",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 1557,
+        "pay_date": "2026-04-30",
+        "vendor": "박찬수",
+        "amount": 25000000,
+        "company": "피에스"
+    },
+    {
+        "id": 1558,
+        "pay_date": "2026-04-30",
+        "vendor": "국민은행",
+        "amount": null,
+        "company": "피에스"
+    },
+    {
+        "id": 1559,
+        "pay_date": "2026-04-30",
+        "vendor": "파트너스세무회계",
+        "amount": 165000,
+        "company": "피에스"
+    },
+    {
+        "id": 1560,
+        "pay_date": "2026-04-30",
+        "vendor": "현대엘리베이터",
+        "amount": 880000,
+        "company": "피에스"
+    },
+    {
+        "id": 1561,
+        "pay_date": "2026-04-30",
+        "vendor": "현대엘리서비스",
+        "amount": 495000,
+        "company": "피에스"
+    },
+    {
+        "id": 1571,
+        "pay_date": "2026-04-03",
+        "vendor": "당직의",
+        "amount": 3680000,
+        "company": "병원"
+    },
+    {
+        "id": 1572,
+        "pay_date": "2026-05-05",
+        "vendor": "당직의",
+        "amount": 0,
+        "company": "병원"
+    },
+    {
+        "id": 1573,
+        "pay_date": "2026-05-04",
+        "vendor": "마인드비전",
+        "amount": 1100000,
+        "company": "병원"
+    },
+    {
+        "id": 1574,
+        "pay_date": "2026-05-05",
+        "vendor": "직원",
+        "amount": 0,
+        "company": "병원"
+    },
+    {
+        "id": 1575,
+        "pay_date": "2026-05-05",
+        "vendor": "직원",
+        "amount": 0,
+        "company": "병원"
+    },
+    {
+        "id": 1576,
+        "pay_date": "2026-05-05",
+        "vendor": "직원",
+        "amount": 0,
+        "company": "병원"
+    },
+    {
+        "id": 1577,
+        "pay_date": "2026-05-07",
+        "vendor": "하나은행",
+        "amount": 300000,
+        "company": "병원"
+    },
+    {
+        "id": 1578,
+        "pay_date": "2026-05-10",
+        "vendor": "건강보험공단",
+        "amount": 0,
+        "company": "병원"
+    },
+    {
+        "id": 1579,
+        "pay_date": "2026-05-10",
+        "vendor": "국세청",
+        "amount": 0,
+        "company": "병원"
+    },
+    {
+        "id": 1580,
+        "pay_date": "2026-05-10",
+        "vendor": "상록수간병사회",
+        "amount": 0,
+        "company": "병원"
+    },
+    {
+        "id": 1581,
+        "pay_date": "2026-05-10",
+        "vendor": "직원",
+        "amount": 0,
+        "company": "병원"
+    },
+    {
+        "id": 1582,
+        "pay_date": "2026-05-10",
+        "vendor": "한국전력공사",
+        "amount": 0,
+        "company": "병원"
+    },
+    {
+        "id": 1584,
+        "pay_date": "2026-05-10",
+        "vendor": "사상구청",
+        "amount": 0,
+        "company": "병원"
+    },
+    {
+        "id": 1585,
+        "pay_date": "2026-05-10",
+        "vendor": "국세청",
+        "amount": 0,
+        "company": "병원"
+    },
+    {
+        "id": 1586,
+        "pay_date": "2026-04-15",
+        "vendor": "환자",
+        "amount": null,
+        "company": "병원"
+    }
+]
