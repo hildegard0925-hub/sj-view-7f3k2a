@@ -7,6 +7,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
+
+table {
+    font-size: 13px;
+}
+
+th {
+    position: sticky;
+    top: 0;
+}
 body {
     font-family: sans-serif;
     margin: 10px;
@@ -23,7 +32,7 @@ button {
 }
 
 input {
-    width: 100%;
+    width: 400px;
     padding: 10px;
     margin-bottom: 10px;
     font-size: 16px;
@@ -100,40 +109,107 @@ function render(data) {
 
     list.innerHTML = "";
 
+    if (data.length === 0) {
+        list.innerHTML = "데이터 없음";
+        return;
+    }
+
+    const table = document.createElement("table");
+
+    table.style.width = "100%";
+    table.style.borderCollapse = "collapse";
+    table.style.fontSize = "14px";
+
+    // 헤더 생성
+    const header = document.createElement("tr");
+
+    let columns = [];
+
+    if (data[0].title) {
+        columns = ["제목", "일자", "구분", "상태", "내용", "회사"];
+    }
+
+    else if (data[0].vendor) {
+        columns = ["일자", "업체", "내용", "금액", "계좌", "회사"];
+    }
+
+    else if (data[0].name) {
+        columns = ["이름", "부서", "직급", "입사일", "계약구분"];
+    }
+
+    columns.forEach(col => {
+
+        const th = document.createElement("th");
+
+        th.innerText = col;
+
+        th.style.border = "1px solid #ccc";
+        th.style.padding = "6px";
+        th.style.background = "#f0f0f0";
+
+        header.appendChild(th);
+
+    });
+
+    table.appendChild(header);
+
+    // 데이터 행 생성
     data.forEach(item => {
 
-        let text = "";
+        const row = document.createElement("tr");
+
+        let values = [];
 
         if (item.title) {
-            text =
-                item.title + " / " +
-                item.date + " / " +
-                item.status;
+            values = [
+                item.title,
+                item.date,
+                item.category,
+                item.status,
+                item.content,
+                item.company
+            ];
         }
 
         else if (item.vendor) {
-            text =
-                item.vendor + " / " +
-                item.pay_date + " / " +
-                item.amount;
+            values = [
+                item.pay_date,
+                item.vendor,
+                item.description,
+                item.amount,
+                item.account,
+                item.company
+            ];
         }
 
         else if (item.name) {
-            text =
-                item.name + " / " +
-                item.department + " / " +
-                item.position;
+            values = [
+                item.name,
+                item.department,
+                item.position,
+                item.hire_date,
+                item.contract_type
+            ];
         }
 
-        const div = document.createElement("div");
+        values.forEach(val => {
 
-        div.className = "item";
+            const td = document.createElement("td");
 
-        div.innerText = text;
+            td.innerText = val ?? "";
 
-        list.appendChild(div);
+            td.style.border = "1px solid #ddd";
+            td.style.padding = "6px";
+
+            row.appendChild(td);
+
+        });
+
+        table.appendChild(row);
 
     });
+
+    list.appendChild(table);
 
 }
 
