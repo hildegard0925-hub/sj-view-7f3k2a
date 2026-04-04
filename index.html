@@ -220,10 +220,14 @@ function render(data) {
 
             const td = document.createElement("td");
 
-            if (typeof val === "number") {
+            if (
+                val !== null &&
+                val !== "" &&
+                !isNaN(val)
+            ) {
 
                 td.innerText =
-                    val.toLocaleString();
+                    Number(val).toLocaleString();
 
                 td.style.textAlign =
                     "right";
