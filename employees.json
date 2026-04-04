@@ -5563,5 +5563,12 @@
         "department": "영양과",
         "position": "조리원",
         "phone_extension": ""
+    },
+    {
+        "employee_no": "100",
+        "name": "111",
+        "department": "",
+        "position": "",
+        "phone_extension": ""
     }
 ]
