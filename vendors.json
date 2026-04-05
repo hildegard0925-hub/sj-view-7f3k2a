@@ -1,0 +1,282 @@
+[
+    {
+        "number": 1,
+        "name": "고용보험 부산북부지사",
+        "manager": "이직확인서",
+        "phone": "051-330-9860",
+        "fax": "0503-8803-0228",
+        "mobile": "",
+        "email": "",
+        "address": ""
+    },
+    {
+        "number": 2,
+        "name": "근로복지공단",
+        "manager": "입, 퇴사",
+        "phone": "051-320-8120",
+        "fax": "",
+        "mobile": "",
+        "email": "",
+        "address": ""
+    },
+    {
+        "number": 3,
+        "name": "근로복지공단(산재)",
+        "manager": "",
+        "phone": "051-661-0285",
+        "fax": "",
+        "mobile": "",
+        "email": "",
+        "address": ""
+    },
+    {
+        "number": 4,
+        "name": "더미래세무회계",
+        "manager": "이지호 세무사",
+        "phone": "051-253-2727",
+        "fax": "",
+        "mobile": "010-3567-8750",
+        "email": "thefuturetax@naver.com",
+        "address": "부산광역시 중구 광복로97번길 11, 우리은행 5층"
+    },
+    {
+        "number": 5,
+        "name": "더미래세무회계",
+        "manager": "류지영 대리",
+        "phone": "070-5121-0276",
+        "fax": "051-253-2726",
+        "mobile": "010-5957-8843",
+        "email": "2532727@tax051.com",
+        "address": "부산광역시 중구 광복로97번길 11, 우리은행 5층"
+    },
+    {
+        "number": 6,
+        "name": "문동경 법무사",
+        "manager": "",
+        "phone": "051-900-3341",
+        "fax": "051-900-3342",
+        "mobile": "010-2011-3341",
+        "email": "mdg2016@hanmail.net",
+        "address": "부산시 연제구 법원로 34, 3층 309호(거제동,정림빌딩)"
+    },
+    {
+        "number": 7,
+        "name": "베르데 인사노무",
+        "manager": "김태윤 노무사",
+        "phone": "051-466-0178",
+        "fax": "051-466-0179",
+        "mobile": "010-8544-0178",
+        "email": "kawa2000@naver.com",
+        "address": "부산시 동구 고관로 40, B 104호 (상가2층)"
+    },
+    {
+        "number": 8,
+        "name": "상록수간병사회",
+        "manager": "홍순남 원장",
+        "phone": "",
+        "fax": "051-861-3721",
+        "mobile": "010-3590-3720",
+        "email": "",
+        "address": ""
+    },
+    {
+        "number": 9,
+        "name": "은행 국민 연산지점",
+        "manager": "최지영",
+        "phone": "051-209-8414",
+        "fax": "",
+        "mobile": "",
+        "email": "",
+        "address": ""
+    },
+    {
+        "number": 10,
+        "name": "은행 하나 사상지점",
+        "manager": "정승호 대리",
+        "phone": "051-322-8621",
+        "fax": "051-325-6344",
+        "mobile": "010-2045-5223",
+        "email": "jeongseungho@hanafn.com",
+        "address": ""
+    },
+    {
+        "number": 11,
+        "name": "한비자",
+        "manager": "현성환",
+        "phone": "02-508-1714",
+        "fax": "",
+        "mobile": "010-8593-0179",
+        "email": "cs@hanbiza.com",
+        "address": ""
+    },
+    {
+        "number": 12,
+        "name": "건강보험공단 사상",
+        "manager": "",
+        "phone": "051-320-0130",
+        "fax": "051-801-4352",
+        "mobile": "",
+        "email": "",
+        "address": ""
+    },
+    {
+        "number": 13,
+        "name": "사상구청 일자리",
+        "manager": "",
+        "phone": "051-310-5190",
+        "fax": "",
+        "mobile": "",
+        "email": "",
+        "address": ""
+    },
+    {
+        "number": 14,
+        "name": "상수도사업본부",
+        "manager": "감전동",
+        "phone": "051-669-5324",
+        "fax": "",
+        "mobile": "",
+        "email": "",
+        "address": ""
+    },
+    {
+        "number": 15,
+        "name": "서면꽃집",
+        "manager": "오경규",
+        "phone": "051-819-0583",
+        "fax": "",
+        "mobile": "010-2840-0583",
+        "email": "",
+        "address": ""
+    },
+    {
+        "number": 16,
+        "name": "한조명플라워",
+        "manager": "",
+        "phone": "",
+        "fax": "",
+        "mobile": "010-6283-5273",
+        "email": "",
+        "address": ""
+    },
+    {
+        "number": 17,
+        "name": "상록수간병사회",
+        "manager": "이다현 과장",
+        "phone": "",
+        "fax": "",
+        "mobile": "010-2884-2678",
+        "email": "",
+        "address": ""
+    },
+    {
+        "number": 18,
+        "name": "수요양병원",
+        "manager": "오준석 부장",
+        "phone": "",
+        "fax": "",
+        "mobile": "010-4313-4697",
+        "email": "",
+        "address": ""
+    },
+    {
+        "number": 19,
+        "name": "수요양병원",
+        "manager": "행정부장",
+        "phone": "",
+        "fax": "",
+        "mobile": "010-4170-8538",
+        "email": "",
+        "address": ""
+    },
+    {
+        "number": 20,
+        "name": "여성새로일하기",
+        "manager": "서성희",
+        "phone": "051-320-8347",
+        "fax": "051-326-8202",
+        "mobile": "",
+        "email": "mgemart@korea.kr",
+        "address": ""
+    },
+    {
+        "number": 21,
+        "name": "원영종합건설(주)",
+        "manager": "김용수 상무",
+        "phone": "",
+        "fax": "",
+        "mobile": "010-2565-6244",
+        "email": "",
+        "address": "부산시 금정구 금샘로 289, 4층 (구서동, 구서스크린)"
+    },
+    {
+        "number": 22,
+        "name": "원영종합건설㈜",
+        "manager": "신규미 과장",
+        "phone": "051-611-2109",
+        "fax": "051-521-6509",
+        "mobile": "010-2577-9223",
+        "email": "oneyoung01@hanmail.net",
+        "address": "부산시 금정구 금샘로 289, 4층 (구서동, 구서스크린)"
+    },
+    {
+        "number": 23,
+        "name": "원영종합건설(주)",
+        "manager": "김경석 부장",
+        "phone": "051-510-6500",
+        "fax": "",
+        "mobile": "",
+        "email": "",
+        "address": ""
+    },
+    {
+        "number": 24,
+        "name": "원영종합건설(주)",
+        "manager": "김남수 이사",
+        "phone": "",
+        "fax": "",
+        "mobile": "010-8538-2792",
+        "email": "",
+        "address": ""
+    },
+    {
+        "number": 25,
+        "name": "원영종합건설(주)",
+        "manager": "서갑병 대표",
+        "phone": "",
+        "fax": "",
+        "mobile": "010-3562-4504",
+        "email": "",
+        "address": "부산시 해운대구 해운대해변로 163, 104동 1702호 (우동,현대베네시티)"
+    },
+    {
+        "number": 26,
+        "name": "카드 단말기",
+        "manager": "윤선호 차장",
+        "phone": "",
+        "fax": "",
+        "mobile": "010-3340-2028",
+        "email": "",
+        "address": ""
+    },
+    {
+        "number": 27,
+        "name": "퍼스트OA",
+        "manager": "류상만 부장",
+        "phone": "051-758-9932",
+        "fax": "051-758-9935",
+        "mobile": "010-3846-7526",
+        "email": "rsm0806@naver.com",
+        "address": "부산시 동래구 명안로25번길 49-1, 1층(안락동)"
+    },
+    {
+        "number": 28,
+        "name": "케이비손해보험",
+        "manager": "서예진",
+        "phone": "",
+        "fax": "",
+        "mobile": "010-9072-4619",
+        "email": "kkakjh@kbinsure.co.kr",
+        "address": "서울시 강남구 선릉로514, 12층 KB손해보험 질권센터"
+    }
+]
