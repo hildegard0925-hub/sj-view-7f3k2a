@@ -13,6 +13,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -29,6 +30,7 @@
         "salary": 30767000,
         "annual_salary": 369204000,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -45,6 +47,7 @@
         "salary": 29916690,
         "annual_salary": 359000280,
         "retire_date": "2026-03-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -61,6 +64,7 @@
         "salary": 3063333,
         "annual_salary": 36759996,
         "retire_date": "2026-02-16",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -77,6 +81,7 @@
         "salary": 3714028,
         "annual_salary": 44568336,
         "retire_date": "2026-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -93,6 +98,7 @@
         "salary": 29000000,
         "annual_salary": 348000000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -109,6 +115,7 @@
         "salary": 29000000,
         "annual_salary": 348000000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -125,6 +132,7 @@
         "salary": 2790659,
         "annual_salary": 33487908,
         "retire_date": "2025-11-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -141,6 +149,7 @@
         "salary": 2137500,
         "annual_salary": 25650000,
         "retire_date": "2025-11-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -157,6 +166,7 @@
         "salary": 30767000,
         "annual_salary": 369204000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -173,6 +183,7 @@
         "salary": 2933332,
         "annual_salary": 35199984,
         "retire_date": "2025-04-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -189,6 +200,7 @@
         "salary": 2438125,
         "annual_salary": 29257500,
         "retire_date": "2025-06-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -205,6 +217,7 @@
         "salary": 3045008,
         "annual_salary": 36540096,
         "retire_date": "2025-10-18",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -221,6 +234,7 @@
         "salary": 4166667,
         "annual_salary": 50000004,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -237,6 +251,7 @@
         "salary": 3558333,
         "annual_salary": 42699996,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -253,6 +268,7 @@
         "salary": 3275000,
         "annual_salary": 39300000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -269,6 +285,7 @@
         "salary": 3075000,
         "annual_salary": 36900000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -285,6 +302,7 @@
         "salary": 3266666,
         "annual_salary": 39199992,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -301,6 +319,7 @@
         "salary": 3041666,
         "annual_salary": 36499992,
         "retire_date": null,
+        "leave_status": "육아휴직",
         "remark": null
     },
     {
@@ -317,6 +336,7 @@
         "salary": 2874475,
         "annual_salary": 34493700,
         "retire_date": "2025-04-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -333,6 +353,7 @@
         "salary": 2891667,
         "annual_salary": 34700004,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -349,6 +370,7 @@
         "salary": 2810178,
         "annual_salary": 33722136,
         "retire_date": "2025-02-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -365,6 +387,7 @@
         "salary": 2835000,
         "annual_salary": 34020000,
         "retire_date": "2025-05-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -381,6 +404,7 @@
         "salary": 2783333,
         "annual_salary": 33399996,
         "retire_date": "2025-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -397,6 +421,7 @@
         "salary": 3025000,
         "annual_salary": 36300000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -413,6 +438,7 @@
         "salary": 2206270,
         "annual_salary": 26475240,
         "retire_date": "2025-07-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -429,6 +455,7 @@
         "salary": 2891667,
         "annual_salary": 34700004,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -445,6 +472,7 @@
         "salary": 2908333,
         "annual_salary": 34899996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -461,6 +489,7 @@
         "salary": 2997522,
         "annual_salary": 35970264,
         "retire_date": "2025-10-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -477,6 +506,7 @@
         "salary": 2825000,
         "annual_salary": 33900000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -493,6 +523,7 @@
         "salary": 836703,
         "annual_salary": 10040436,
         "retire_date": "2025-10-26",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -509,6 +540,7 @@
         "salary": 2881174,
         "annual_salary": 34574088,
         "retire_date": "2025-09-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -525,6 +557,7 @@
         "salary": 2508333,
         "annual_salary": 30099996,
         "retire_date": "2025-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -541,6 +574,7 @@
         "salary": 2741666,
         "annual_salary": 32899992,
         "retire_date": "2025-12-19",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -557,6 +591,7 @@
         "salary": 3033661,
         "annual_salary": 36403932,
         "retire_date": "2026-02-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -573,6 +608,7 @@
         "salary": 2708333,
         "annual_salary": 32499996,
         "retire_date": "2025-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -589,6 +625,7 @@
         "salary": 2700000,
         "annual_salary": 32400000,
         "retire_date": "2026-02-13",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -605,6 +642,7 @@
         "salary": 2741666,
         "annual_salary": 32899992,
         "retire_date": "2025-05-19",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -621,6 +659,7 @@
         "salary": 2658333,
         "annual_salary": 31899996,
         "retire_date": null,
+        "leave_status": "육아휴직",
         "remark": null
     },
     {
@@ -637,6 +676,7 @@
         "salary": 2858333,
         "annual_salary": 34299996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -653,6 +693,7 @@
         "salary": 3321686,
         "annual_salary": 39860232,
         "retire_date": "2025-03-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -669,6 +710,7 @@
         "salary": 2775000,
         "annual_salary": 33300000,
         "retire_date": "2025-02-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -685,6 +727,7 @@
         "salary": 2775000,
         "annual_salary": 33300000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -701,6 +744,7 @@
         "salary": 2375000,
         "annual_salary": 28500000,
         "retire_date": "2025-08-29",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -717,6 +761,7 @@
         "salary": 2866667,
         "annual_salary": 34400004,
         "retire_date": "2026-02-13",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -733,6 +778,7 @@
         "salary": 2010580,
         "annual_salary": 24126960,
         "retire_date": "2023-11-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -749,6 +795,7 @@
         "salary": 2838772,
         "annual_salary": 34065264,
         "retire_date": "2024-02-18",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -765,6 +812,7 @@
         "salary": 2700000,
         "annual_salary": 32400000,
         "retire_date": "2025-10-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -781,6 +829,7 @@
         "salary": 2808333,
         "annual_salary": 33699996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -797,6 +846,7 @@
         "salary": 2583333,
         "annual_salary": 30999996,
         "retire_date": "2024-06-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -813,6 +863,7 @@
         "salary": 2666667,
         "annual_salary": 32000004,
         "retire_date": "2024-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -829,6 +880,7 @@
         "salary": 2725000,
         "annual_salary": 32700000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -845,6 +897,7 @@
         "salary": 2725000,
         "annual_salary": 32700000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -861,6 +914,7 @@
         "salary": 2725000,
         "annual_salary": 32700000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -877,6 +931,7 @@
         "salary": 2750953,
         "annual_salary": 33011436,
         "retire_date": "2024-12-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -893,6 +948,7 @@
         "salary": 2658333,
         "annual_salary": 31899996,
         "retire_date": "2025-09-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -909,6 +965,7 @@
         "salary": 3055817,
         "annual_salary": 36669804,
         "retire_date": "2024-10-06",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -925,6 +982,7 @@
         "salary": 2511030,
         "annual_salary": 30132360,
         "retire_date": "2025-09-16",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -941,6 +999,7 @@
         "salary": 2675000,
         "annual_salary": 32100000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -957,6 +1016,7 @@
         "salary": 2750000,
         "annual_salary": 33000000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -973,6 +1033,7 @@
         "salary": 2666667,
         "annual_salary": 32000004,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -989,6 +1050,7 @@
         "salary": 2666667,
         "annual_salary": 32000004,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1005,6 +1067,7 @@
         "salary": 2358333,
         "annual_salary": 28299996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1021,6 +1084,7 @@
         "salary": 2433333,
         "annual_salary": 29199996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1037,6 +1101,7 @@
         "salary": 2433333,
         "annual_salary": 29199996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1053,6 +1118,7 @@
         "salary": 2400000,
         "annual_salary": 28800000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1069,6 +1135,7 @@
         "salary": 2778636,
         "annual_salary": 33343632,
         "retire_date": "2025-11-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1085,6 +1152,7 @@
         "salary": 2525000,
         "annual_salary": 30300000,
         "retire_date": "2026-04-10",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1101,6 +1169,7 @@
         "salary": 2275000,
         "annual_salary": 27300000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1117,6 +1186,7 @@
         "salary": 2283333,
         "annual_salary": 27399996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1133,6 +1203,7 @@
         "salary": 2358333,
         "annual_salary": 28299996,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -1149,6 +1220,7 @@
         "salary": 2650000,
         "annual_salary": 31800000,
         "retire_date": "2025-08-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1165,6 +1237,7 @@
         "salary": 2408333,
         "annual_salary": 28899996,
         "retire_date": "2025-03-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1181,6 +1254,7 @@
         "salary": 3225000,
         "annual_salary": 38700000,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -1197,6 +1271,7 @@
         "salary": 3075000,
         "annual_salary": 36900000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1213,6 +1288,7 @@
         "salary": 3075000,
         "annual_salary": 36900000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1229,6 +1305,7 @@
         "salary": 2875000,
         "annual_salary": 34500000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1245,6 +1322,7 @@
         "salary": 2146270,
         "annual_salary": 25755240,
         "retire_date": "2025-06-16",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1261,6 +1339,7 @@
         "salary": 2010580,
         "annual_salary": 24126960,
         "retire_date": "2023-12-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1277,6 +1356,7 @@
         "salary": 28101000,
         "annual_salary": 337212000,
         "retire_date": "2025-02-20",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1293,6 +1373,7 @@
         "salary": 2416666,
         "annual_salary": 28999992,
         "retire_date": "2023-11-17",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1309,6 +1390,7 @@
         "salary": 3388269,
         "annual_salary": 40659228,
         "retire_date": "2025-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1325,6 +1407,7 @@
         "salary": 2385540,
         "annual_salary": 28626480,
         "retire_date": "2026-02-12",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1341,6 +1424,7 @@
         "salary": 2567950,
         "annual_salary": 30815400,
         "retire_date": "2025-11-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1357,6 +1441,7 @@
         "salary": 2608333,
         "annual_salary": 31299996,
         "retire_date": "2025-11-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1373,6 +1458,7 @@
         "salary": 2847950,
         "annual_salary": 34175400,
         "retire_date": "2024-10-20",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1389,6 +1475,7 @@
         "salary": 2616667,
         "annual_salary": 31400004,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1405,6 +1492,7 @@
         "salary": 3028200,
         "annual_salary": 36338400,
         "retire_date": "2026-01-13",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1421,6 +1509,7 @@
         "salary": 2758333,
         "annual_salary": 33099996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1437,6 +1526,7 @@
         "salary": 2608333,
         "annual_salary": 31299996,
         "retire_date": "2025-10-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1453,6 +1543,7 @@
         "salary": 2658018,
         "annual_salary": 31896216,
         "retire_date": "2023-06-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1469,6 +1560,7 @@
         "salary": 2550000,
         "annual_salary": 30600000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1485,6 +1577,7 @@
         "salary": 3000000,
         "annual_salary": 36000000,
         "retire_date": "2024-01-12",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1501,6 +1594,7 @@
         "salary": 2525000,
         "annual_salary": 30300000,
         "retire_date": "2025-09-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1517,6 +1611,7 @@
         "salary": 2500000,
         "annual_salary": 30000000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1533,6 +1628,7 @@
         "salary": 2458333,
         "annual_salary": 29499996,
         "retire_date": "2025-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1549,6 +1645,7 @@
         "salary": 2566667,
         "annual_salary": 30800004,
         "retire_date": "2026-03-06",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1565,6 +1662,7 @@
         "salary": 2708333,
         "annual_salary": 32499996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1581,6 +1679,7 @@
         "salary": 2333334,
         "annual_salary": 28000008,
         "retire_date": "2024-05-08",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1597,6 +1696,7 @@
         "salary": 2416667,
         "annual_salary": 29000004,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1613,6 +1713,7 @@
         "salary": 2270916,
         "annual_salary": 27250992,
         "retire_date": "2023-10-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1629,6 +1730,7 @@
         "salary": 2720000,
         "annual_salary": 32640000,
         "retire_date": "2025-02-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1645,6 +1747,7 @@
         "salary": 2416667,
         "annual_salary": 29000004,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1661,6 +1764,7 @@
         "salary": 2641667,
         "annual_salary": 31700004,
         "retire_date": null,
+        "leave_status": "",
         "remark": "김종희 대체자"
     },
     {
@@ -1677,6 +1781,7 @@
         "salary": 3332050,
         "annual_salary": 39984600,
         "retire_date": "2023-03-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1693,6 +1798,7 @@
         "salary": 2752572,
         "annual_salary": 33030864,
         "retire_date": "2023-05-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1709,6 +1815,7 @@
         "salary": 2275000,
         "annual_salary": 27300000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1725,6 +1832,7 @@
         "salary": 2275000,
         "annual_salary": 27300000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1741,6 +1849,7 @@
         "salary": 2416666,
         "annual_salary": 28999992,
         "retire_date": "2024-02-29",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1757,6 +1866,7 @@
         "salary": 2400000,
         "annual_salary": 28800000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1773,6 +1883,7 @@
         "salary": 2558333,
         "annual_salary": 30699996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1789,6 +1900,7 @@
         "salary": 2475000,
         "annual_salary": 29700000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1805,6 +1917,7 @@
         "salary": 2333333,
         "annual_salary": 27999996,
         "retire_date": "2024-03-29",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1821,6 +1934,7 @@
         "salary": 2358333,
         "annual_salary": 28299996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1837,6 +1951,7 @@
         "salary": 2200000,
         "annual_salary": 26400000,
         "retire_date": "2026-03-17",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1853,6 +1968,7 @@
         "salary": 3358333,
         "annual_salary": 40299996,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -1869,6 +1985,7 @@
         "salary": 3283333,
         "annual_salary": 39399996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1885,6 +2002,7 @@
         "salary": 3225000,
         "annual_salary": 38700000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1901,6 +2019,7 @@
         "salary": 2847126,
         "annual_salary": 34165512,
         "retire_date": "2023-05-17",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1917,6 +2036,7 @@
         "salary": 2891667,
         "annual_salary": 34700004,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1933,6 +2053,7 @@
         "salary": 3333000,
         "annual_salary": 39996000,
         "retire_date": "2022-12-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1949,6 +2070,7 @@
         "salary": 2731212,
         "annual_salary": 32774544,
         "retire_date": "2024-09-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1965,6 +2087,7 @@
         "salary": 18461530,
         "annual_salary": 221538360,
         "retire_date": "2023-05-10",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1981,6 +2104,7 @@
         "salary": 2750000,
         "annual_salary": 33000000,
         "retire_date": "2024-01-12",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -1997,6 +2121,7 @@
         "salary": 2726500,
         "annual_salary": 32718000,
         "retire_date": "2023-06-11",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2013,6 +2138,7 @@
         "salary": 2500000,
         "annual_salary": 30000000,
         "retire_date": "2023-09-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2029,6 +2155,7 @@
         "salary": 2833333,
         "annual_salary": 33999996,
         "retire_date": "2023-03-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2045,6 +2172,7 @@
         "salary": 2916666,
         "annual_salary": 34999992,
         "retire_date": "2023-06-16",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2061,6 +2189,7 @@
         "salary": 3083332,
         "annual_salary": 36999984,
         "retire_date": null,
+        "leave_status": "육아휴직",
         "remark": null
     },
     {
@@ -2077,6 +2206,7 @@
         "salary": 2950000,
         "annual_salary": 35400000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2093,6 +2223,7 @@
         "salary": 2600000,
         "annual_salary": 31200000,
         "retire_date": "2024-09-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2109,6 +2240,7 @@
         "salary": 2416666,
         "annual_salary": 28999992,
         "retire_date": "2023-10-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2125,6 +2257,7 @@
         "salary": 2807574,
         "annual_salary": 33690888,
         "retire_date": "2023-05-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2141,6 +2274,7 @@
         "salary": 2283333,
         "annual_salary": 27399996,
         "retire_date": "2023-12-29",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2157,6 +2291,7 @@
         "salary": 3108333,
         "annual_salary": 37299996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2173,6 +2308,7 @@
         "salary": 2750000,
         "annual_salary": 33000000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2189,6 +2325,7 @@
         "salary": 2958333,
         "annual_salary": 35499996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2205,6 +2342,7 @@
         "salary": 2926916,
         "annual_salary": 35122992,
         "retire_date": "2024-05-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2221,6 +2359,7 @@
         "salary": 2283333,
         "annual_salary": 27399996,
         "retire_date": "2023-07-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2237,6 +2376,7 @@
         "salary": 2450000,
         "annual_salary": 29400000,
         "retire_date": "2023-08-18",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2253,6 +2393,7 @@
         "salary": 2600000,
         "annual_salary": 31200000,
         "retire_date": "2024-09-05",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2269,6 +2410,7 @@
         "salary": 2791666,
         "annual_salary": 33499992,
         "retire_date": "2025-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2285,6 +2427,7 @@
         "salary": 2750000,
         "annual_salary": 33000000,
         "retire_date": "2023-07-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2301,6 +2444,7 @@
         "salary": 2858333,
         "annual_salary": 34299996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2317,6 +2461,7 @@
         "salary": 2450000,
         "annual_salary": 29400000,
         "retire_date": "2024-04-26",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2333,6 +2478,7 @@
         "salary": 2891667,
         "annual_salary": 34700004,
         "retire_date": null,
+        "leave_status": "출산휴가",
         "remark": null
     },
     {
@@ -2349,6 +2495,7 @@
         "salary": 2775000,
         "annual_salary": 33300000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2365,6 +2512,7 @@
         "salary": 2760400,
         "annual_salary": 33124800,
         "retire_date": "2022-12-09",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2381,6 +2529,7 @@
         "salary": 2400000,
         "annual_salary": 28800000,
         "retire_date": "2025-12-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2397,6 +2546,7 @@
         "salary": 2500000,
         "annual_salary": 30000000,
         "retire_date": "2023-05-25",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2413,6 +2563,7 @@
         "salary": 2889150,
         "annual_salary": 34669800,
         "retire_date": "2024-02-29",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2429,6 +2580,7 @@
         "salary": 2700000,
         "annual_salary": 32400000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2445,6 +2597,7 @@
         "salary": 2533333,
         "annual_salary": 30399996,
         "retire_date": "2024-06-21",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2461,6 +2614,7 @@
         "salary": 2366666,
         "annual_salary": 28399992,
         "retire_date": "2024-05-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2477,6 +2631,7 @@
         "salary": 2600000,
         "annual_salary": 31200000,
         "retire_date": "2024-08-08",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2493,6 +2648,7 @@
         "salary": 2366666,
         "annual_salary": 28399992,
         "retire_date": "2023-05-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2509,6 +2665,7 @@
         "salary": 2891667,
         "annual_salary": 34700004,
         "retire_date": null,
+        "leave_status": "출산휴가",
         "remark": null
     },
     {
@@ -2525,6 +2682,7 @@
         "salary": 2808333,
         "annual_salary": 33699996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2541,6 +2699,7 @@
         "salary": 2616666,
         "annual_salary": 31399992,
         "retire_date": "2023-05-19",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2557,6 +2716,7 @@
         "salary": 2533333,
         "annual_salary": 30399996,
         "retire_date": "2023-05-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2573,6 +2733,7 @@
         "salary": 2725000,
         "annual_salary": 32700000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2589,6 +2750,7 @@
         "salary": 2725000,
         "annual_salary": 32700000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2605,6 +2767,7 @@
         "salary": 2366666,
         "annual_salary": 28399992,
         "retire_date": "2023-05-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2621,6 +2784,7 @@
         "salary": 2750000,
         "annual_salary": 33000000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2637,6 +2801,7 @@
         "salary": 2583333,
         "annual_salary": 30999996,
         "retire_date": "2024-11-19",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2653,6 +2818,7 @@
         "salary": 2666667,
         "annual_salary": 32000004,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2669,6 +2835,7 @@
         "salary": 2666667,
         "annual_salary": 32000004,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2685,6 +2852,7 @@
         "salary": 2533333,
         "annual_salary": 30399996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2701,6 +2869,7 @@
         "salary": 2914090,
         "annual_salary": 34969080,
         "retire_date": "2025-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2717,6 +2886,7 @@
         "salary": 2475000,
         "annual_salary": 29700000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2733,6 +2903,7 @@
         "salary": 2700000,
         "annual_salary": 32400000,
         "retire_date": "2026-04-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2749,6 +2920,7 @@
         "salary": 2283333,
         "annual_salary": 27399996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2765,6 +2937,7 @@
         "salary": 2358333,
         "annual_salary": 28299996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2781,6 +2954,7 @@
         "salary": 2358333,
         "annual_salary": 28299996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2797,6 +2971,7 @@
         "salary": 2283333,
         "annual_salary": 27399996,
         "retire_date": "2026-03-04",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2813,6 +2988,7 @@
         "salary": 2358333,
         "annual_salary": 28299996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2829,6 +3005,7 @@
         "salary": 2533333,
         "annual_salary": 30399996,
         "retire_date": "2023-05-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2845,6 +3022,7 @@
         "salary": 2600000,
         "annual_salary": 31200000,
         "retire_date": "2024-11-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2861,6 +3039,7 @@
         "salary": 3275000,
         "annual_salary": 39300000,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -2877,6 +3056,7 @@
         "salary": 3208333,
         "annual_salary": 38499996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2893,6 +3073,7 @@
         "salary": 2416666,
         "annual_salary": 28999992,
         "retire_date": "2022-12-05",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2909,6 +3090,7 @@
         "salary": 2250000,
         "annual_salary": 27000000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2925,6 +3107,7 @@
         "salary": 2760400,
         "annual_salary": 33124800,
         "retire_date": "2022-12-20",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2941,6 +3124,7 @@
         "salary": 2733333,
         "annual_salary": 32799996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2957,6 +3141,7 @@
         "salary": 2100000,
         "annual_salary": 25200000,
         "retire_date": "2023-06-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2973,6 +3158,7 @@
         "salary": 2728850,
         "annual_salary": 32746200,
         "retire_date": "2024-12-14",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -2989,6 +3175,7 @@
         "salary": 2625000,
         "annual_salary": 31500000,
         "retire_date": "2023-04-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3005,6 +3192,7 @@
         "salary": 2800000,
         "annual_salary": 33600000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3021,6 +3209,7 @@
         "salary": 3223900,
         "annual_salary": 38686800,
         "retire_date": "2022-11-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3037,6 +3226,7 @@
         "salary": 2625000,
         "annual_salary": 31500000,
         "retire_date": "2023-06-20",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3053,6 +3243,7 @@
         "salary": 2941667,
         "annual_salary": 35300004,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3069,6 +3260,7 @@
         "salary": 2733333,
         "annual_salary": 32799996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3085,6 +3277,7 @@
         "salary": 3302708,
         "annual_salary": 39632496,
         "retire_date": "2023-09-15",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3101,6 +3294,7 @@
         "salary": 2675000,
         "annual_salary": 32100000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3117,6 +3311,7 @@
         "salary": 2453334,
         "annual_salary": 29440008,
         "retire_date": "2024-08-08",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3133,6 +3328,7 @@
         "salary": 2760400,
         "annual_salary": 33124800,
         "retire_date": "2022-08-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3149,6 +3345,7 @@
         "salary": 3223900,
         "annual_salary": 38686800,
         "retire_date": "2022-08-03",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3165,6 +3362,7 @@
         "salary": 2605900,
         "annual_salary": 31270800,
         "retire_date": "2022-07-26",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3181,6 +3379,7 @@
         "salary": 2333333,
         "annual_salary": 27999996,
         "retire_date": "2023-07-07",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3197,6 +3396,7 @@
         "salary": 1914440,
         "annual_salary": 22973280,
         "retire_date": "2022-06-19",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3213,6 +3413,7 @@
         "salary": 2450000,
         "annual_salary": 29400000,
         "retire_date": "2025-05-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3229,6 +3430,7 @@
         "salary": 2500000,
         "annual_salary": 30000000,
         "retire_date": "2022-10-14",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3245,6 +3447,7 @@
         "salary": 2750000,
         "annual_salary": 33000000,
         "retire_date": "2023-05-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3261,6 +3464,7 @@
         "salary": 2608333,
         "annual_salary": 31299996,
         "retire_date": "2026-03-27",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3277,6 +3481,7 @@
         "salary": 2160740,
         "annual_salary": 25928880,
         "retire_date": "2024-02-29",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3293,6 +3498,7 @@
         "salary": 2525000,
         "annual_salary": 30300000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3309,6 +3515,7 @@
         "salary": 2691667,
         "annual_salary": 32300004,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3325,6 +3532,7 @@
         "salary": 2667950,
         "annual_salary": 32015400,
         "retire_date": "2024-09-22",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3341,6 +3549,7 @@
         "salary": 2775000,
         "annual_salary": 33300000,
         "retire_date": "2023-08-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3357,6 +3566,7 @@
         "salary": 2641800,
         "annual_salary": 31701600,
         "retire_date": "2023-10-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3373,6 +3583,7 @@
         "salary": 2416667,
         "annual_salary": 29000004,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3389,6 +3600,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2024-04-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3405,6 +3617,7 @@
         "salary": 2341667,
         "annual_salary": 28100004,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3421,6 +3634,7 @@
         "salary": 2358333,
         "annual_salary": 28299996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3437,6 +3651,7 @@
         "salary": 2350000,
         "annual_salary": 28200000,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -3453,6 +3668,7 @@
         "salary": 2193750,
         "annual_salary": 26325000,
         "retire_date": "2023-08-11",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3469,6 +3685,7 @@
         "salary": 2525000,
         "annual_salary": 30300000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3485,6 +3702,7 @@
         "salary": 2358333,
         "annual_salary": 28299996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3501,6 +3719,7 @@
         "salary": 2408333,
         "annual_salary": 28899996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3517,6 +3736,7 @@
         "salary": 2200000,
         "annual_salary": 26400000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3533,6 +3753,7 @@
         "salary": 3708333,
         "annual_salary": 44499996,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -3549,6 +3770,7 @@
         "salary": 3408333,
         "annual_salary": 40899996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3565,6 +3787,7 @@
         "salary": 2958333,
         "annual_salary": 35499996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3581,6 +3804,7 @@
         "salary": 2758333,
         "annual_salary": 33099996,
         "retire_date": "2026-03-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3597,6 +3821,7 @@
         "salary": 2625000,
         "annual_salary": 31500000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3613,6 +3838,7 @@
         "salary": 2500000,
         "annual_salary": 30000000,
         "retire_date": "2023-06-23",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3629,6 +3855,7 @@
         "salary": 2833333,
         "annual_salary": 33999996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3645,6 +3872,7 @@
         "salary": 3041666,
         "annual_salary": 36499992,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3661,6 +3889,7 @@
         "salary": 2666666,
         "annual_salary": 31999992,
         "retire_date": null,
+        "leave_status": "육아휴직",
         "remark": null
     },
     {
@@ -3677,6 +3906,7 @@
         "salary": 2808333,
         "annual_salary": 33699996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3693,6 +3923,7 @@
         "salary": 3091667,
         "annual_salary": 37100004,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3709,6 +3940,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2022-05-13",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3725,6 +3957,7 @@
         "salary": 2975000,
         "annual_salary": 35700000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3741,6 +3974,7 @@
         "salary": 2558333,
         "annual_salary": 30699996,
         "retire_date": "2025-11-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3757,6 +3991,7 @@
         "salary": 2767700,
         "annual_salary": 33212400,
         "retire_date": "2022-09-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3773,6 +4008,7 @@
         "salary": 2708333,
         "annual_salary": 32499996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3789,6 +4025,7 @@
         "salary": 2110580,
         "annual_salary": 25326960,
         "retire_date": "2023-02-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3805,6 +4042,7 @@
         "salary": 3100000,
         "annual_salary": 37200000,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -3821,6 +4059,7 @@
         "salary": 2850000,
         "annual_salary": 34200000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3837,6 +4076,7 @@
         "salary": 2745000,
         "annual_salary": 32940000,
         "retire_date": "2023-02-09",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3853,6 +4093,7 @@
         "salary": 2863000,
         "annual_salary": 34356000,
         "retire_date": "2022-12-09",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3869,6 +4110,7 @@
         "salary": 2680600,
         "annual_salary": 32167200,
         "retire_date": "2023-12-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3885,6 +4127,7 @@
         "salary": 2895000,
         "annual_salary": 34740000,
         "retire_date": "2025-09-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3901,6 +4144,7 @@
         "salary": 2767400,
         "annual_salary": 33208800,
         "retire_date": "2023-04-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3917,6 +4161,7 @@
         "salary": 2860400,
         "annual_salary": 34324800,
         "retire_date": "2022-06-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3933,6 +4178,7 @@
         "salary": 3266666,
         "annual_salary": 39199992,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3949,6 +4195,7 @@
         "salary": 2500000,
         "annual_salary": 30000000,
         "retire_date": null,
+        "leave_status": "",
         "remark": "김찬미 대체자"
     },
     {
@@ -3965,6 +4212,7 @@
         "salary": 3475000,
         "annual_salary": 41700000,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -3981,6 +4229,7 @@
         "salary": 2694625,
         "annual_salary": 32335500,
         "retire_date": "2023-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -3997,6 +4246,7 @@
         "salary": 2583333,
         "annual_salary": 30999996,
         "retire_date": "2023-03-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4013,6 +4263,7 @@
         "salary": 2475000,
         "annual_salary": 29700000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4029,6 +4280,7 @@
         "salary": 4806667,
         "annual_salary": 57680004,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -4045,6 +4297,7 @@
         "salary": 4343784,
         "annual_salary": 52125408,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -4061,6 +4314,7 @@
         "salary": 3562096,
         "annual_salary": 42745152,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4077,6 +4331,7 @@
         "salary": 3099263,
         "annual_salary": 37191156,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4093,6 +4348,7 @@
         "salary": 3012120,
         "annual_salary": 36145440,
         "retire_date": "2024-03-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4109,6 +4365,7 @@
         "salary": 3296218,
         "annual_salary": 39554616,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4125,6 +4382,7 @@
         "salary": 2795000,
         "annual_salary": 33540000,
         "retire_date": "2025-10-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4141,6 +4399,7 @@
         "salary": 3059821,
         "annual_salary": 36717852,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4157,6 +4416,7 @@
         "salary": 3027109,
         "annual_salary": 36325308,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4173,6 +4433,7 @@
         "salary": 3780000,
         "annual_salary": 45360000,
         "retire_date": "2022-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4189,6 +4450,7 @@
         "salary": 2771466,
         "annual_salary": 33257592,
         "retire_date": "2022-11-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4205,6 +4467,7 @@
         "salary": 2955302,
         "annual_salary": 35463624,
         "retire_date": null,
+        "leave_status": "육아휴직",
         "remark": null
     },
     {
@@ -4221,6 +4484,7 @@
         "salary": 2316666,
         "annual_salary": 27799992,
         "retire_date": "2024-11-22",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4237,6 +4501,7 @@
         "salary": 2248600,
         "annual_salary": 26983200,
         "retire_date": "2024-09-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4253,6 +4518,7 @@
         "salary": 1755650,
         "annual_salary": 21067800,
         "retire_date": "2023-02-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4269,6 +4535,7 @@
         "salary": 2620000,
         "annual_salary": 31440000,
         "retire_date": "2022-09-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4285,6 +4552,7 @@
         "salary": 2567950,
         "annual_salary": 30815400,
         "retire_date": "2022-12-15",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4301,6 +4569,7 @@
         "salary": 2666666,
         "annual_salary": 31999992,
         "retire_date": "2022-04-27",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4317,6 +4586,7 @@
         "salary": 2650000,
         "annual_salary": 31800000,
         "retire_date": "2021-12-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4333,6 +4603,7 @@
         "salary": 2729500,
         "annual_salary": 32754000,
         "retire_date": "2022-02-08",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4349,6 +4620,7 @@
         "salary": 3543147,
         "annual_salary": 42517764,
         "retire_date": "2022-03-20",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4365,6 +4637,7 @@
         "salary": 3001513,
         "annual_salary": 36018156,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4381,6 +4654,7 @@
         "salary": 2416667,
         "annual_salary": 29000004,
         "retire_date": "2022-03-10",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4397,6 +4671,7 @@
         "salary": 2458333,
         "annual_salary": 29499996,
         "retire_date": "2025-05-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4413,6 +4688,7 @@
         "salary": 2483125,
         "annual_salary": 29797500,
         "retire_date": "2022-07-08",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4429,6 +4705,7 @@
         "salary": 2865116,
         "annual_salary": 34381392,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4445,6 +4722,7 @@
         "salary": 2926916,
         "annual_salary": 35122992,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4461,6 +4739,7 @@
         "salary": 2865116,
         "annual_salary": 34381392,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4477,6 +4756,7 @@
         "salary": 2926916,
         "annual_salary": 35122992,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4493,6 +4773,7 @@
         "salary": 3081416,
         "annual_salary": 36976992,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4509,6 +4790,7 @@
         "salary": 2916660,
         "annual_salary": 34999920,
         "retire_date": "2021-11-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4525,6 +4807,7 @@
         "salary": 2751666,
         "annual_salary": 33019992,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4541,6 +4824,7 @@
         "salary": 2931666,
         "annual_salary": 35179992,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4557,6 +4841,7 @@
         "salary": 2640800,
         "annual_salary": 31689600,
         "retire_date": "2024-10-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4573,6 +4858,7 @@
         "salary": 2416667,
         "annual_salary": 29000004,
         "retire_date": "2024-02-29",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4589,6 +4875,7 @@
         "salary": 4172118,
         "annual_salary": 50065416,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -4605,6 +4892,7 @@
         "salary": 2631212,
         "annual_salary": 31574544,
         "retire_date": "2024-04-18",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4621,6 +4909,7 @@
         "salary": 3286730,
         "annual_salary": 39440760,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4637,6 +4926,7 @@
         "salary": 3060048,
         "annual_salary": 36720576,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4653,6 +4943,7 @@
         "salary": 2233333,
         "annual_salary": 26799996,
         "retire_date": "2024-08-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4669,6 +4960,7 @@
         "salary": 2666666,
         "annual_salary": 31999992,
         "retire_date": "2022-06-24",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4685,6 +4977,7 @@
         "salary": 3437454,
         "annual_salary": 41249448,
         "retire_date": "2025-02-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4701,6 +4994,7 @@
         "salary": 2250000,
         "annual_salary": 27000000,
         "retire_date": "2024-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4717,6 +5011,7 @@
         "salary": 2711200,
         "annual_salary": 32534400,
         "retire_date": "2023-05-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4733,6 +5028,7 @@
         "salary": 2200000,
         "annual_salary": 26400000,
         "retire_date": "2023-02-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4749,6 +5045,7 @@
         "salary": 3413719,
         "annual_salary": 40964628,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4765,6 +5062,7 @@
         "salary": 2483333,
         "annual_salary": 29799996,
         "retire_date": "2023-04-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4781,6 +5079,7 @@
         "salary": 2691666,
         "annual_salary": 32299992,
         "retire_date": "2022-11-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4797,6 +5096,7 @@
         "salary": 26205120,
         "annual_salary": 314461440,
         "retire_date": "2022-08-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4813,6 +5113,7 @@
         "salary": 2765550,
         "annual_salary": 33186600,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4829,6 +5130,7 @@
         "salary": 2333334,
         "annual_salary": 28000008,
         "retire_date": "2024-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4845,6 +5147,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2024-12-16",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4861,6 +5164,7 @@
         "salary": 2650000,
         "annual_salary": 31800000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4877,6 +5181,7 @@
         "salary": 2953100,
         "annual_salary": 35437200,
         "retire_date": "2022-02-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4893,6 +5198,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2025-10-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4909,6 +5215,7 @@
         "salary": 2666666,
         "annual_salary": 31999992,
         "retire_date": "2022-05-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4925,6 +5232,7 @@
         "salary": 2666666,
         "annual_salary": 31999992,
         "retire_date": "2022-08-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4941,6 +5249,7 @@
         "salary": 2863000,
         "annual_salary": 34356000,
         "retire_date": "2022-06-12",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4957,6 +5266,7 @@
         "salary": 2839092,
         "annual_salary": 34069104,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4973,6 +5283,7 @@
         "salary": 2835000,
         "annual_salary": 34020000,
         "retire_date": "2025-12-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -4989,6 +5300,7 @@
         "salary": 2965164,
         "annual_salary": 35581968,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5005,6 +5317,7 @@
         "salary": 2807574,
         "annual_salary": 33690888,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5021,6 +5334,7 @@
         "salary": 2885000,
         "annual_salary": 34620000,
         "retire_date": null,
+        "leave_status": "육아휴직",
         "remark": null
     },
     {
@@ -5037,6 +5351,7 @@
         "salary": 2256880,
         "annual_salary": 27082560,
         "retire_date": "2023-06-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5053,6 +5368,7 @@
         "salary": 2662550,
         "annual_salary": 31950600,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5069,6 +5385,7 @@
         "salary": 3332050,
         "annual_salary": 39984600,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5085,6 +5402,7 @@
         "salary": 3293000,
         "annual_salary": 39516000,
         "retire_date": "2022-03-18",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5101,6 +5419,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-09-30",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -5117,6 +5436,7 @@
         "salary": 2015000,
         "annual_salary": 24180000,
         "retire_date": "2022-11-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5133,6 +5453,7 @@
         "salary": 2662550,
         "annual_salary": 31950600,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5149,6 +5470,7 @@
         "salary": 2666666,
         "annual_salary": 31999992,
         "retire_date": "2022-06-24",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5165,6 +5487,7 @@
         "salary": 2316666,
         "annual_salary": 27799992,
         "retire_date": "2023-07-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5181,6 +5504,7 @@
         "salary": 2645000,
         "annual_salary": 31740000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5197,6 +5521,7 @@
         "salary": 2735000,
         "annual_salary": 32820000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5213,6 +5538,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-09-30",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -5229,6 +5555,7 @@
         "salary": 2500000,
         "annual_salary": 30000000,
         "retire_date": "2022-09-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5245,6 +5572,7 @@
         "salary": 2760400,
         "annual_salary": 33124800,
         "retire_date": "2022-02-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5261,6 +5589,7 @@
         "salary": 4172118,
         "annual_salary": 50065416,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -5277,6 +5606,7 @@
         "salary": 3422894,
         "annual_salary": 41074728,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5293,6 +5623,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-08-31",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -5309,6 +5640,7 @@
         "salary": 2156880,
         "annual_salary": 25882560,
         "retire_date": "2022-08-26",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5325,6 +5657,7 @@
         "salary": 2680000,
         "annual_salary": 32160000,
         "retire_date": "2021-11-19",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5341,6 +5674,7 @@
         "salary": 2666666,
         "annual_salary": 31999992,
         "retire_date": "2023-08-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5357,6 +5691,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-09-30",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -5373,6 +5708,7 @@
         "salary": 3698751,
         "annual_salary": 44385012,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5389,6 +5725,7 @@
         "salary": 2828000,
         "annual_salary": 33936000,
         "retire_date": "2024-08-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5405,6 +5742,7 @@
         "salary": 2166666,
         "annual_salary": 25999992,
         "retire_date": "2022-09-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5421,6 +5759,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-09-18",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -5437,6 +5776,7 @@
         "salary": 3289375,
         "annual_salary": 39472500,
         "retire_date": "2022-09-15",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5453,6 +5793,7 @@
         "salary": 3296660,
         "annual_salary": 39559920,
         "retire_date": "2021-12-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5469,6 +5810,7 @@
         "salary": 2765550,
         "annual_salary": 33186600,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5485,6 +5827,7 @@
         "salary": 2293572,
         "annual_salary": 27522864,
         "retire_date": "2025-11-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5501,6 +5844,7 @@
         "salary": 2416666,
         "annual_salary": 28999992,
         "retire_date": "2025-12-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5517,6 +5861,7 @@
         "salary": 2667950,
         "annual_salary": 32015400,
         "retire_date": "2022-07-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5533,6 +5878,7 @@
         "salary": 2715900,
         "annual_salary": 32590800,
         "retire_date": "2022-09-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5549,6 +5895,7 @@
         "salary": 3546606,
         "annual_salary": 42559272,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5565,6 +5912,7 @@
         "salary": 2248600,
         "annual_salary": 26983200,
         "retire_date": "2024-07-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5581,6 +5929,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-09-30",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -5597,6 +5946,7 @@
         "salary": 2225498,
         "annual_salary": 26705976,
         "retire_date": "2023-04-12",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5613,6 +5963,7 @@
         "salary": 2560000,
         "annual_salary": 30720000,
         "retire_date": "2022-12-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5629,6 +5980,7 @@
         "salary": 2728850,
         "annual_salary": 32746200,
         "retire_date": "2022-06-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5645,6 +5997,7 @@
         "salary": 2807574,
         "annual_salary": 33690888,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5661,6 +6014,7 @@
         "salary": 2807574,
         "annual_salary": 33690888,
         "retire_date": "2026-03-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5677,6 +6031,7 @@
         "salary": 3000000,
         "annual_salary": 36000000,
         "retire_date": "2024-07-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5693,6 +6048,7 @@
         "salary": 2786150,
         "annual_salary": 33433800,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5709,6 +6065,7 @@
         "salary": 2015000,
         "annual_salary": 24180000,
         "retire_date": "2022-10-10",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5725,6 +6082,7 @@
         "salary": 2094300,
         "annual_salary": 25131600,
         "retire_date": "2022-06-10",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5741,6 +6099,7 @@
         "salary": 2628850,
         "annual_salary": 31546200,
         "retire_date": "2022-06-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5757,6 +6116,7 @@
         "salary": 2662550,
         "annual_salary": 31950600,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5773,6 +6133,7 @@
         "salary": 2728850,
         "annual_salary": 32746200,
         "retire_date": "2022-06-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5789,6 +6150,7 @@
         "salary": 2060740,
         "annual_salary": 24728880,
         "retire_date": "2024-05-16",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5805,6 +6167,7 @@
         "salary": 2060740,
         "annual_salary": 24728880,
         "retire_date": "2024-07-02",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5821,6 +6184,7 @@
         "salary": 2060740,
         "annual_salary": 24728880,
         "retire_date": "2024-10-18",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5837,6 +6201,7 @@
         "salary": 6176960,
         "annual_salary": 74123520,
         "retire_date": "2025-08-25",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5853,6 +6218,7 @@
         "salary": 13076920,
         "annual_salary": 156923040,
         "retire_date": "2021-11-15",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5869,6 +6235,7 @@
         "salary": 2615000,
         "annual_salary": 31380000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5885,6 +6252,7 @@
         "salary": 2585000,
         "annual_salary": 31020000,
         "retire_date": "2026-04-15",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -5901,6 +6269,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-09-30",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -5917,6 +6286,7 @@
         "salary": 2675000,
         "annual_salary": 32100000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5933,6 +6303,7 @@
         "salary": 2795000,
         "annual_salary": 33540000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5949,6 +6320,7 @@
         "salary": 2615000,
         "annual_salary": 31380000,
         "retire_date": "2026-03-05",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5965,6 +6337,7 @@
         "salary": 2885000,
         "annual_salary": 34620000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5981,6 +6354,7 @@
         "salary": 2795000,
         "annual_salary": 33540000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -5997,6 +6371,7 @@
         "salary": 2807574,
         "annual_salary": 33690888,
         "retire_date": "2022-09-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6013,6 +6388,7 @@
         "salary": 4172118,
         "annual_salary": 50065416,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -6029,6 +6405,7 @@
         "salary": 3293040,
         "annual_salary": 39516480,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6045,6 +6422,7 @@
         "salary": 1983140,
         "annual_salary": 23797680,
         "retire_date": "2022-01-15",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6061,6 +6439,7 @@
         "salary": 3501375,
         "annual_salary": 42016500,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6077,6 +6456,7 @@
         "salary": 1914440,
         "annual_salary": 22973280,
         "retire_date": "2022-06-20",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6093,6 +6473,7 @@
         "salary": 2927597,
         "annual_salary": 35131164,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6109,6 +6490,7 @@
         "salary": 2927597,
         "annual_salary": 35131164,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6125,6 +6507,7 @@
         "salary": 2392042,
         "annual_salary": 28704504,
         "retire_date": "2022-08-15",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6141,6 +6524,7 @@
         "salary": 2854674,
         "annual_salary": 34256088,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6157,6 +6541,7 @@
         "salary": 2915588,
         "annual_salary": 34987056,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6173,6 +6558,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2022-06-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6189,6 +6575,7 @@
         "salary": 1914440,
         "annual_salary": 22973280,
         "retire_date": "2022-06-06",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6205,6 +6592,7 @@
         "salary": 3087034,
         "annual_salary": 37044408,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6221,6 +6609,7 @@
         "salary": 1914440,
         "annual_salary": 22973280,
         "retire_date": "2022-07-19",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6237,6 +6626,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-07-19",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -6253,6 +6643,7 @@
         "salary": 2010580,
         "annual_salary": 24126960,
         "retire_date": "2023-06-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6269,6 +6660,7 @@
         "salary": 2010580,
         "annual_salary": 24126960,
         "retire_date": "2023-10-18",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6285,6 +6677,7 @@
         "salary": 2797698,
         "annual_salary": 33572376,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6301,6 +6694,7 @@
         "salary": 3087034,
         "annual_salary": 37044408,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6317,6 +6711,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2023-09-05",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6333,6 +6728,7 @@
         "salary": 2926292,
         "annual_salary": 35115504,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6349,6 +6745,7 @@
         "salary": 3546606,
         "annual_salary": 42559272,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6365,6 +6762,7 @@
         "salary": 2756400,
         "annual_salary": 33076800,
         "retire_date": null,
+        "leave_status": "육아휴직",
         "remark": null
     },
     {
@@ -6381,6 +6779,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2022-07-15",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6397,6 +6796,7 @@
         "salary": 2724350,
         "annual_salary": 32692200,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6413,6 +6813,7 @@
         "salary": 3650000,
         "annual_salary": 43800000,
         "retire_date": "2022-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6429,6 +6830,7 @@
         "salary": 2847950,
         "annual_salary": 34175400,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6445,6 +6847,7 @@
         "salary": 2660833,
         "annual_salary": 31929996,
         "retire_date": "2023-06-09",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6461,6 +6864,7 @@
         "salary": 4228150,
         "annual_salary": 50737800,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6477,6 +6881,7 @@
         "salary": 3337200,
         "annual_salary": 40046400,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6493,6 +6898,7 @@
         "salary": 3198161,
         "annual_salary": 38377932,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6509,6 +6915,7 @@
         "salary": 2704800,
         "annual_salary": 32457600,
         "retire_date": "2022-03-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6525,6 +6932,7 @@
         "salary": 3110587,
         "annual_salary": 37327044,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6541,6 +6949,7 @@
         "salary": 2560000,
         "annual_salary": 30720000,
         "retire_date": "2021-10-19",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6557,6 +6966,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-08-06",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -6573,6 +6983,7 @@
         "salary": 2971999,
         "annual_salary": 35663988,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6589,6 +7000,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-05-07",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -6605,6 +7017,7 @@
         "salary": 3711806,
         "annual_salary": 44541672,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6621,6 +7034,7 @@
         "salary": 2938110,
         "annual_salary": 35257320,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6637,6 +7051,7 @@
         "salary": 2470000,
         "annual_salary": 29640000,
         "retire_date": "2021-10-13",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6653,6 +7068,7 @@
         "salary": 2293572,
         "annual_salary": 27522864,
         "retire_date": "2025-05-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6669,6 +7085,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-08-13",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -6685,6 +7102,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-06-30",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -6701,6 +7119,7 @@
         "salary": 2416666,
         "annual_salary": 28999992,
         "retire_date": "2023-12-29",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6717,6 +7136,7 @@
         "salary": 2635000,
         "annual_salary": 31620000,
         "retire_date": "2024-02-22",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6733,6 +7153,7 @@
         "salary": 2724350,
         "annual_salary": 32692200,
         "retire_date": "2026-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6749,6 +7170,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-07-31",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -6765,6 +7187,7 @@
         "salary": 2316666,
         "annual_salary": 27799992,
         "retire_date": "2023-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6781,6 +7204,7 @@
         "salary": 3333000,
         "annual_salary": 39996000,
         "retire_date": "2023-09-15",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6797,6 +7221,7 @@
         "salary": 3150000,
         "annual_salary": 37800000,
         "retire_date": "2021-11-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6813,6 +7238,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-03-31",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -6829,6 +7255,7 @@
         "salary": 2530000,
         "annual_salary": 30360000,
         "retire_date": "2023-09-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6845,6 +7272,7 @@
         "salary": 2150000,
         "annual_salary": 25800000,
         "retire_date": "2024-06-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6861,6 +7289,7 @@
         "salary": 2150000,
         "annual_salary": 25800000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6877,6 +7306,7 @@
         "salary": 2804666,
         "annual_salary": 33655992,
         "retire_date": "2023-07-26",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6893,6 +7323,7 @@
         "salary": 3335000,
         "annual_salary": 40020000,
         "retire_date": "2025-11-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6909,6 +7340,7 @@
         "salary": 3012120,
         "annual_salary": 36145440,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6925,6 +7357,7 @@
         "salary": 2431861,
         "annual_salary": 29182332,
         "retire_date": "2022-06-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6941,6 +7374,7 @@
         "salary": 2889150,
         "annual_salary": 34669800,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6957,6 +7391,7 @@
         "salary": 2741800,
         "annual_salary": 32901600,
         "retire_date": "2023-05-15",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6973,6 +7408,7 @@
         "salary": 2971550,
         "annual_salary": 35658600,
         "retire_date": "2026-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -6989,6 +7425,7 @@
         "salary": 2950950,
         "annual_salary": 35411400,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -7005,6 +7442,7 @@
         "salary": 3250000,
         "annual_salary": 39000000,
         "retire_date": "2024-11-20",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7021,6 +7459,7 @@
         "salary": 2765550,
         "annual_salary": 33186600,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7037,6 +7476,7 @@
         "salary": 3335000,
         "annual_salary": 40020000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7053,6 +7493,7 @@
         "salary": 2271880,
         "annual_salary": 27262560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7069,6 +7510,7 @@
         "salary": 3055817,
         "annual_salary": 36669804,
         "retire_date": "2025-06-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7085,6 +7527,7 @@
         "salary": 2266880,
         "annual_salary": 27202560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7101,6 +7544,7 @@
         "salary": 2266880,
         "annual_salary": 27202560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7117,6 +7561,7 @@
         "salary": 2567950,
         "annual_salary": 30815400,
         "retire_date": "2022-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7133,6 +7578,7 @@
         "salary": 2266880,
         "annual_salary": 27202560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7149,6 +7595,7 @@
         "salary": 2266880,
         "annual_salary": 27202560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7165,6 +7612,7 @@
         "salary": 2256880,
         "annual_salary": 27082560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7181,6 +7629,7 @@
         "salary": 2698677,
         "annual_salary": 32384124,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7197,6 +7646,7 @@
         "salary": 2698677,
         "annual_salary": 32384124,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7213,6 +7663,7 @@
         "salary": 4238450,
         "annual_salary": 50861400,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -7229,6 +7680,7 @@
         "salary": 2416667,
         "annual_salary": 29000004,
         "retire_date": "2022-12-13",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7245,6 +7697,7 @@
         "salary": 3331200,
         "annual_salary": 39974400,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7261,6 +7714,7 @@
         "salary": 2450000,
         "annual_salary": 29400000,
         "retire_date": "2022-07-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7277,6 +7731,7 @@
         "salary": 2150000,
         "annual_salary": 25800000,
         "retire_date": "2023-04-14",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7293,6 +7748,7 @@
         "salary": 5401120,
         "annual_salary": 64813440,
         "retire_date": "2022-11-21",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7309,6 +7765,7 @@
         "salary": 2083333,
         "annual_salary": 24999996,
         "retire_date": "2022-09-08",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7325,6 +7782,7 @@
         "salary": 2248600,
         "annual_salary": 26983200,
         "retire_date": "2024-02-12",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7341,6 +7799,7 @@
         "salary": 2996110,
         "annual_salary": 35953320,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7357,6 +7816,7 @@
         "salary": 2183108,
         "annual_salary": 26197296,
         "retire_date": "2023-07-20",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7373,6 +7833,7 @@
         "salary": 2917776,
         "annual_salary": 35013312,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7389,6 +7850,7 @@
         "salary": 5401120,
         "annual_salary": 64813440,
         "retire_date": "2023-06-07",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7405,6 +7867,7 @@
         "salary": 2450000,
         "annual_salary": 29400000,
         "retire_date": "2023-09-22",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7421,6 +7884,7 @@
         "salary": 1914440,
         "annual_salary": 22973280,
         "retire_date": "2022-06-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7437,6 +7901,7 @@
         "salary": 2100000,
         "annual_salary": 25200000,
         "retire_date": "2023-08-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7453,6 +7918,7 @@
         "salary": 3100000,
         "annual_salary": 37200000,
         "retire_date": "2022-10-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7469,6 +7935,7 @@
         "salary": 2780000,
         "annual_salary": 33360000,
         "retire_date": "2024-09-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7485,6 +7952,7 @@
         "salary": 2225498,
         "annual_salary": 26705976,
         "retire_date": "2023-03-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7501,6 +7969,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-01-12",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -7517,6 +7986,7 @@
         "salary": 2333333,
         "annual_salary": 27999996,
         "retire_date": "2024-11-18",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7533,6 +8003,7 @@
         "salary": 2570000,
         "annual_salary": 30840000,
         "retire_date": "2022-06-18",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7549,6 +8020,7 @@
         "salary": 2932847,
         "annual_salary": 35194164,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7565,6 +8037,7 @@
         "salary": 3486347,
         "annual_salary": 41836164,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7581,6 +8054,7 @@
         "salary": 3012120,
         "annual_salary": 36145440,
         "retire_date": null,
+        "leave_status": "육아휴직",
         "remark": null
     },
     {
@@ -7597,6 +8071,7 @@
         "salary": 2083333,
         "annual_salary": 24999996,
         "retire_date": "2022-06-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7613,6 +8088,7 @@
         "salary": 6176960,
         "annual_salary": 74123520,
         "retire_date": "2025-07-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7629,6 +8105,7 @@
         "salary": 3540578,
         "annual_salary": 42486936,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7645,6 +8122,7 @@
         "salary": 2910574,
         "annual_salary": 34926888,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7661,6 +8139,7 @@
         "salary": 2775000,
         "annual_salary": 33300000,
         "retire_date": null,
+        "leave_status": "육아휴직",
         "remark": null
     },
     {
@@ -7677,6 +8156,7 @@
         "salary": 2796450,
         "annual_salary": 33557400,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7693,6 +8173,7 @@
         "salary": 2950950,
         "annual_salary": 35411400,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7709,6 +8190,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-02-21",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -7725,6 +8207,7 @@
         "salary": 2981850,
         "annual_salary": 35782200,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7741,6 +8224,7 @@
         "salary": 2840000,
         "annual_salary": 34080000,
         "retire_date": "2022-08-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7757,6 +8241,7 @@
         "salary": 2248600,
         "annual_salary": 26983200,
         "retire_date": "2024-06-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7773,6 +8258,7 @@
         "salary": 2625000,
         "annual_salary": 31500000,
         "retire_date": "2022-02-15",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7789,6 +8275,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-08-31",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -7805,6 +8292,7 @@
         "salary": 2889150,
         "annual_salary": 34669800,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7821,6 +8309,7 @@
         "salary": 2827350,
         "annual_salary": 33928200,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7837,6 +8326,7 @@
         "salary": 2271880,
         "annual_salary": 27262560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7853,6 +8343,7 @@
         "salary": 2800000,
         "annual_salary": 33600000,
         "retire_date": "2022-09-19",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7869,6 +8360,7 @@
         "salary": 2271880,
         "annual_salary": 27262560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7885,6 +8377,7 @@
         "salary": 2271880,
         "annual_salary": 27262560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7901,6 +8394,7 @@
         "salary": 2266880,
         "annual_salary": 27202560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7917,6 +8411,7 @@
         "salary": 2256880,
         "annual_salary": 27082560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7933,6 +8428,7 @@
         "salary": 2256880,
         "annual_salary": 27082560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7949,6 +8445,7 @@
         "salary": 2698677,
         "annual_salary": 32384124,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7965,6 +8462,7 @@
         "salary": 2698677,
         "annual_salary": 32384124,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -7981,6 +8479,7 @@
         "salary": 4238450,
         "annual_salary": 50861400,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -7997,6 +8496,7 @@
         "salary": 3421337,
         "annual_salary": 41056044,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8013,6 +8513,7 @@
         "salary": 2443572,
         "annual_salary": 29322864,
         "retire_date": "2025-02-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8029,6 +8530,7 @@
         "salary": 2585000,
         "annual_salary": 31020000,
         "retire_date": "2025-05-04",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8045,6 +8547,7 @@
         "salary": 2925734,
         "annual_salary": 35108808,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8061,6 +8564,7 @@
         "salary": 2350000,
         "annual_salary": 28200000,
         "retire_date": "2021-12-05",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8077,6 +8581,7 @@
         "salary": 2049700,
         "annual_salary": 24596400,
         "retire_date": "2022-04-10",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8093,6 +8598,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-01-09",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -8109,6 +8615,7 @@
         "salary": 3231000,
         "annual_salary": 38772000,
         "retire_date": "2022-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8125,6 +8632,7 @@
         "salary": 2366666,
         "annual_salary": 28399992,
         "retire_date": "2025-09-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8141,6 +8649,7 @@
         "salary": 2000000,
         "annual_salary": 24000000,
         "retire_date": "2022-01-07",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8157,6 +8666,7 @@
         "salary": 2741800,
         "annual_salary": 32901600,
         "retire_date": "2023-03-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8173,6 +8683,7 @@
         "salary": 2666667,
         "annual_salary": 32000004,
         "retire_date": "2022-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8189,6 +8700,7 @@
         "salary": 2316666,
         "annual_salary": 27799992,
         "retire_date": "2025-07-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8205,6 +8717,7 @@
         "salary": 3543147,
         "annual_salary": 42517764,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8221,6 +8734,7 @@
         "salary": 2710000,
         "annual_salary": 32520000,
         "retire_date": "2023-09-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8237,6 +8751,7 @@
         "salary": 2500000,
         "annual_salary": 30000000,
         "retire_date": "2021-10-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8253,6 +8768,7 @@
         "salary": 2100000,
         "annual_salary": 25200000,
         "retire_date": "2024-07-15",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8269,6 +8785,7 @@
         "salary": 3029292,
         "annual_salary": 36351504,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8285,6 +8802,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2021-09-06",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8301,6 +8819,7 @@
         "salary": 3190034,
         "annual_salary": 38280408,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8317,6 +8836,7 @@
         "salary": 2385540,
         "annual_salary": 28626480,
         "retire_date": "2021-03-21",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8333,6 +8853,7 @@
         "salary": 3068164,
         "annual_salary": 36817968,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8349,6 +8870,7 @@
         "salary": 2879056,
         "annual_salary": 34548672,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8365,6 +8887,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-08-06",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -8381,6 +8904,7 @@
         "salary": 2879056,
         "annual_salary": 34548672,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8397,6 +8921,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2022-12-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8413,6 +8938,7 @@
         "salary": 2248600,
         "annual_salary": 26983200,
         "retire_date": "2026-01-08",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8429,6 +8955,7 @@
         "salary": 2756666,
         "annual_salary": 33079992,
         "retire_date": "2022-06-15",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8445,6 +8972,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-05-31",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -8461,6 +8989,7 @@
         "salary": 2250000,
         "annual_salary": 27000000,
         "retire_date": "2022-04-29",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8477,6 +9006,7 @@
         "salary": 2650000,
         "annual_salary": 31800000,
         "retire_date": "2021-12-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8493,6 +9023,7 @@
         "salary": 3200000,
         "annual_salary": 38400000,
         "retire_date": "2026-03-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8509,6 +9040,7 @@
         "salary": 2865000,
         "annual_salary": 34380000,
         "retire_date": null,
+        "leave_status": "육아휴직",
         "remark": null
     },
     {
@@ -8525,6 +9057,7 @@
         "salary": 5510000,
         "annual_salary": 66120000,
         "retire_date": "2021-12-24",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8541,6 +9074,7 @@
         "salary": 3435050,
         "annual_salary": 41220600,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -8557,6 +9091,7 @@
         "salary": 2709425,
         "annual_salary": 32513100,
         "retire_date": "2022-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8573,6 +9108,7 @@
         "salary": 2827350,
         "annual_salary": 33928200,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8589,6 +9125,7 @@
         "salary": 2765550,
         "annual_salary": 33186600,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8605,6 +9142,7 @@
         "salary": 2650000,
         "annual_salary": 31800000,
         "retire_date": "2021-10-06",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8621,6 +9159,7 @@
         "salary": 2266880,
         "annual_salary": 27202560,
         "retire_date": "2022-03-13",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8637,6 +9176,7 @@
         "salary": 2271880,
         "annual_salary": 27262560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8653,6 +9193,7 @@
         "salary": 2271880,
         "annual_salary": 27262560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8669,6 +9210,7 @@
         "salary": 2271880,
         "annual_salary": 27262560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8685,6 +9227,7 @@
         "salary": 2266880,
         "annual_salary": 27202560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8701,6 +9244,7 @@
         "salary": 2266880,
         "annual_salary": 27202560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8717,6 +9261,7 @@
         "salary": 2256880,
         "annual_salary": 27082560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8733,6 +9278,7 @@
         "salary": 2698677,
         "annual_salary": 32384124,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8749,6 +9295,7 @@
         "salary": 2698677,
         "annual_salary": 32384124,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8765,6 +9312,7 @@
         "salary": 2156880,
         "annual_salary": 25882560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8781,6 +9329,7 @@
         "salary": 3622167,
         "annual_salary": 43466004,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -8797,6 +9346,7 @@
         "salary": 2060580,
         "annual_salary": 24726960,
         "retire_date": "2023-01-09",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8813,6 +9363,7 @@
         "salary": 3073050,
         "annual_salary": 36876600,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8829,6 +9380,7 @@
         "salary": 2530000,
         "annual_salary": 30360000,
         "retire_date": "2021-10-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8845,6 +9397,7 @@
         "salary": 2835000,
         "annual_salary": 34020000,
         "retire_date": "2026-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8861,6 +9414,7 @@
         "salary": 3301352,
         "annual_salary": 39616224,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -8877,6 +9431,7 @@
         "salary": 2745000,
         "annual_salary": 32940000,
         "retire_date": "2025-10-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8893,6 +9448,7 @@
         "salary": 2183333,
         "annual_salary": 26199996,
         "retire_date": "2023-12-15",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8909,6 +9465,7 @@
         "salary": 2560000,
         "annual_salary": 30720000,
         "retire_date": "2023-05-17",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8925,6 +9482,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2022-09-23",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8941,6 +9499,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-04-13",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -8957,6 +9516,7 @@
         "salary": 2900000,
         "annual_salary": 34800000,
         "retire_date": "2026-02-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8973,6 +9533,7 @@
         "salary": 3200000,
         "annual_salary": 38400000,
         "retire_date": "2024-05-17",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -8989,6 +9550,7 @@
         "salary": 2000000,
         "annual_salary": 24000000,
         "retire_date": "2022-04-08",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9005,6 +9567,7 @@
         "salary": 6000000,
         "annual_salary": 72000000,
         "retire_date": "2022-06-26",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9021,6 +9584,7 @@
         "salary": 2183108,
         "annual_salary": 26197296,
         "retire_date": "2023-08-17",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9037,6 +9601,7 @@
         "salary": 2708333,
         "annual_salary": 32499996,
         "retire_date": "2025-12-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9053,6 +9618,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-04-28",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -9069,6 +9635,7 @@
         "salary": 2755000,
         "annual_salary": 33060000,
         "retire_date": "2026-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9085,6 +9652,7 @@
         "salary": 2293810,
         "annual_salary": 27525720,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9101,6 +9669,7 @@
         "salary": 9166667,
         "annual_salary": 110000004,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -9117,6 +9686,7 @@
         "salary": 2585000,
         "annual_salary": 31020000,
         "retire_date": "2025-04-24",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9133,6 +9703,7 @@
         "salary": 6666667,
         "annual_salary": 80000004,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9149,6 +9720,7 @@
         "salary": 2620000,
         "annual_salary": 31440000,
         "retire_date": "2022-09-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9165,6 +9737,7 @@
         "salary": 2600000,
         "annual_salary": 31200000,
         "retire_date": "2022-11-16",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9181,6 +9754,7 @@
         "salary": 2746667,
         "annual_salary": 32960004,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -9197,6 +9771,7 @@
         "salary": 2297072,
         "annual_salary": 27564864,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -9213,6 +9788,7 @@
         "salary": 2500000,
         "annual_salary": 30000000,
         "retire_date": "2024-04-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9229,6 +9805,7 @@
         "salary": 2500000,
         "annual_salary": 30000000,
         "retire_date": "2023-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9245,6 +9822,7 @@
         "salary": 2500000,
         "annual_salary": 30000000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9261,6 +9839,7 @@
         "salary": 2500000,
         "annual_salary": 30000000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9277,6 +9856,7 @@
         "salary": 5440000,
         "annual_salary": 65280000,
         "retire_date": "2022-04-04",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9293,6 +9873,7 @@
         "salary": 2600000,
         "annual_salary": 31200000,
         "retire_date": "2022-07-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9309,6 +9890,7 @@
         "salary": 2618750,
         "annual_salary": 31425000,
         "retire_date": "2022-01-23",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9325,6 +9907,7 @@
         "salary": 3250000,
         "annual_salary": 39000000,
         "retire_date": "2022-08-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9341,6 +9924,7 @@
         "salary": 2186239,
         "annual_salary": 26234868,
         "retire_date": "2026-04-03",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9357,6 +9941,7 @@
         "salary": 2156880,
         "annual_salary": 25882560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9373,6 +9958,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2020-10-31",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -9389,6 +9975,7 @@
         "salary": 3166667,
         "annual_salary": 38000004,
         "retire_date": "2022-02-25",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9405,6 +9992,7 @@
         "salary": 3750000,
         "annual_salary": 45000000,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -9421,6 +10009,7 @@
         "salary": 2685000,
         "annual_salary": 32220000,
         "retire_date": "2025-11-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9437,6 +10026,7 @@
         "salary": 3190034,
         "annual_salary": 38280408,
         "retire_date": "2021-03-17",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9453,6 +10043,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-01-15",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -9469,6 +10060,7 @@
         "salary": 2375000,
         "annual_salary": 28500000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9485,6 +10077,7 @@
         "salary": 2575000,
         "annual_salary": 30900000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9501,6 +10094,7 @@
         "salary": 2500000,
         "annual_salary": 30000000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9517,6 +10111,7 @@
         "salary": 3166667,
         "annual_salary": 38000004,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9533,6 +10128,7 @@
         "salary": 2630000,
         "annual_salary": 31560000,
         "retire_date": "2022-10-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9549,6 +10145,7 @@
         "salary": 2500000,
         "annual_salary": 30000000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9565,6 +10162,7 @@
         "salary": 2705000,
         "annual_salary": 32460000,
         "retire_date": "2026-01-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9581,6 +10179,7 @@
         "salary": 2500000,
         "annual_salary": 30000000,
         "retire_date": "2021-12-05",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9597,6 +10196,7 @@
         "salary": 3251621,
         "annual_salary": 39019452,
         "retire_date": "2023-02-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9613,6 +10213,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2021-08-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9629,6 +10230,7 @@
         "salary": 2643500,
         "annual_salary": 31722000,
         "retire_date": "2023-05-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9645,6 +10247,7 @@
         "salary": 2358333,
         "annual_salary": 28299996,
         "retire_date": "2025-11-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9661,6 +10264,7 @@
         "salary": 3200000,
         "annual_salary": 38400000,
         "retire_date": "2022-06-12",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9677,6 +10281,7 @@
         "salary": 6891630,
         "annual_salary": 82699560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9693,6 +10298,7 @@
         "salary": 2297072,
         "annual_salary": 27564864,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9709,6 +10315,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2021-08-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9725,6 +10332,7 @@
         "salary": 2166667,
         "annual_salary": 26000004,
         "retire_date": "2022-03-19",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9741,6 +10349,7 @@
         "salary": 2266666,
         "annual_salary": 27199992,
         "retire_date": "2024-05-25",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9757,6 +10366,7 @@
         "salary": 2227890,
         "annual_salary": 26734680,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9773,6 +10383,7 @@
         "salary": 2283333,
         "annual_salary": 27399996,
         "retire_date": "2024-04-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9789,6 +10400,7 @@
         "salary": 2408333,
         "annual_salary": 28899996,
         "retire_date": "2025-03-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9805,6 +10417,7 @@
         "salary": 2720000,
         "annual_salary": 32640000,
         "retire_date": "2022-04-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9821,6 +10434,7 @@
         "salary": 2829066,
         "annual_salary": 33948792,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9837,6 +10451,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2020-12-31",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -9853,6 +10468,7 @@
         "salary": 2507808,
         "annual_salary": 30093696,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9869,6 +10485,7 @@
         "salary": 2932964,
         "annual_salary": 35195568,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -9885,6 +10502,7 @@
         "salary": 3551363,
         "annual_salary": 42616356,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -9901,6 +10519,7 @@
         "salary": 2119522,
         "annual_salary": 25434264,
         "retire_date": "2022-12-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9917,6 +10536,7 @@
         "salary": 2500000,
         "annual_salary": 30000000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9933,6 +10553,7 @@
         "salary": 3150000,
         "annual_salary": 37800000,
         "retire_date": "2022-03-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9949,6 +10570,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2020-10-15",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -9965,6 +10587,7 @@
         "salary": 2250000,
         "annual_salary": 27000000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9981,6 +10604,7 @@
         "salary": 2010580,
         "annual_salary": 24126960,
         "retire_date": "2023-05-16",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -9997,6 +10621,7 @@
         "salary": 860936,
         "annual_salary": 10331232,
         "retire_date": "2026-01-18",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10013,6 +10638,7 @@
         "salary": 1830000,
         "annual_salary": 21960000,
         "retire_date": "2021-11-14",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10029,6 +10655,7 @@
         "salary": 1830000,
         "annual_salary": 21960000,
         "retire_date": "2021-11-14",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10045,6 +10672,7 @@
         "salary": 6176960,
         "annual_salary": 74123520,
         "retire_date": "2024-11-01",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10061,6 +10689,7 @@
         "salary": 2450000,
         "annual_salary": 29400000,
         "retire_date": "2022-10-21",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10077,6 +10706,7 @@
         "salary": 2805000,
         "annual_salary": 33660000,
         "retire_date": "2025-07-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10093,6 +10723,7 @@
         "salary": 2643500,
         "annual_salary": 31722000,
         "retire_date": "2023-08-06",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10109,6 +10740,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2021-08-26",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10125,6 +10757,7 @@
         "salary": 2248600,
         "annual_salary": 26983200,
         "retire_date": "2025-05-10",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10141,6 +10774,7 @@
         "salary": 2800000,
         "annual_salary": 33600000,
         "retire_date": "2024-03-15",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10157,6 +10791,7 @@
         "salary": 3335000,
         "annual_salary": 40020000,
         "retire_date": "2025-04-10",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10173,6 +10808,7 @@
         "salary": 1914440,
         "annual_salary": 22973280,
         "retire_date": "2022-10-19",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10189,6 +10825,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-06-21",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -10205,6 +10842,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2021-08-13",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10221,6 +10859,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2021-08-07",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10237,6 +10876,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2021-09-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10253,6 +10893,7 @@
         "salary": 2694625,
         "annual_salary": 32335500,
         "retire_date": "2025-12-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10269,6 +10910,7 @@
         "salary": 3350000,
         "annual_salary": 40200000,
         "retire_date": "2022-11-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10285,6 +10927,7 @@
         "salary": 2850000,
         "annual_salary": 34200000,
         "retire_date": "2023-02-06",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10301,6 +10944,7 @@
         "salary": 2470000,
         "annual_salary": 29640000,
         "retire_date": "2026-03-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10317,6 +10961,7 @@
         "salary": 2083330,
         "annual_salary": 24999960,
         "retire_date": "2021-12-24",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10333,6 +10978,7 @@
         "salary": 2800000,
         "annual_salary": 33600000,
         "retire_date": "2021-11-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10349,6 +10995,7 @@
         "salary": 2481490,
         "annual_salary": 29777880,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10365,6 +11012,7 @@
         "salary": 2800000,
         "annual_salary": 33600000,
         "retire_date": "2024-02-29",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10381,6 +11029,7 @@
         "salary": 3250000,
         "annual_salary": 39000000,
         "retire_date": "2024-03-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10397,6 +11046,7 @@
         "salary": 2481490,
         "annual_salary": 29777880,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10413,6 +11063,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-03-31",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -10429,6 +11080,7 @@
         "salary": 2680000,
         "annual_salary": 32160000,
         "retire_date": "2021-12-29",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10445,6 +11097,7 @@
         "salary": 2575000,
         "annual_salary": 30900000,
         "retire_date": "2020-09-15",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10461,6 +11114,7 @@
         "salary": 2450000,
         "annual_salary": 29400000,
         "retire_date": "2022-08-12",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10477,6 +11131,7 @@
         "salary": 2585000,
         "annual_salary": 31020000,
         "retire_date": "2026-01-19",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10493,6 +11148,7 @@
         "salary": 2450000,
         "annual_salary": 29400000,
         "retire_date": "2022-10-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10509,6 +11165,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-05-31",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -10525,6 +11182,7 @@
         "salary": 2248600,
         "annual_salary": 26983200,
         "retire_date": "2024-04-26",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10541,6 +11199,7 @@
         "salary": 2248600,
         "annual_salary": 26983200,
         "retire_date": "2024-08-18",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10557,6 +11216,7 @@
         "salary": 1914440,
         "annual_salary": 22973280,
         "retire_date": "2022-04-21",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10573,6 +11233,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2024-07-16",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10589,6 +11250,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2021-05-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10605,6 +11267,7 @@
         "salary": 2333333,
         "annual_salary": 27999996,
         "retire_date": "2024-01-06",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10621,6 +11284,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-05-18",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -10637,6 +11301,7 @@
         "salary": 2630000,
         "annual_salary": 31560000,
         "retire_date": "2022-03-20",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10653,6 +11318,7 @@
         "salary": 3113333,
         "annual_salary": 37359996,
         "retire_date": "2024-02-29",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10669,6 +11335,7 @@
         "salary": 2533333,
         "annual_salary": 30399996,
         "retire_date": "2024-02-29",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10685,6 +11352,7 @@
         "salary": 2523500,
         "annual_salary": 30282000,
         "retire_date": "2023-07-19",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10701,6 +11369,7 @@
         "salary": 5058230,
         "annual_salary": 60698760,
         "retire_date": "2022-05-08",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10717,6 +11386,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2020-10-31",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -10733,6 +11403,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2021-06-11",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10749,6 +11420,7 @@
         "salary": 2083333,
         "annual_salary": 24999996,
         "retire_date": "2022-10-14",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10765,6 +11437,7 @@
         "salary": 2431861,
         "annual_salary": 29182332,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10781,6 +11454,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2021-12-04",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10797,6 +11471,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2021-09-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10813,6 +11488,7 @@
         "salary": 2431861,
         "annual_salary": 29182332,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10829,6 +11505,7 @@
         "salary": 2385540,
         "annual_salary": 28626480,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10845,6 +11522,7 @@
         "salary": 2450000,
         "annual_salary": 29400000,
         "retire_date": "2022-02-09",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10861,6 +11539,7 @@
         "salary": 2643500,
         "annual_salary": 31722000,
         "retire_date": "2023-03-21",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10877,6 +11556,7 @@
         "salary": 2385540,
         "annual_salary": 28626480,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10893,6 +11573,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2020-10-06",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -10909,6 +11590,7 @@
         "salary": 2183108,
         "annual_salary": 26197296,
         "retire_date": "2023-12-09",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10925,6 +11607,7 @@
         "salary": 6250000,
         "annual_salary": 75000000,
         "retire_date": "2022-04-02",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10941,6 +11624,7 @@
         "salary": 5500000,
         "annual_salary": 66000000,
         "retire_date": "2022-04-06",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10957,6 +11641,7 @@
         "salary": 1800000,
         "annual_salary": 21600000,
         "retire_date": "2022-04-09",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10973,6 +11658,7 @@
         "salary": 2910574,
         "annual_salary": 34926888,
         "retire_date": "2022-04-11",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -10989,6 +11675,7 @@
         "salary": 2385540,
         "annual_salary": 28626480,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11005,6 +11692,7 @@
         "salary": 2385540,
         "annual_salary": 28626480,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11021,6 +11709,7 @@
         "salary": 4250000,
         "annual_salary": 51000000,
         "retire_date": "2022-04-11",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11037,6 +11726,7 @@
         "salary": 4250000,
         "annual_salary": 51000000,
         "retire_date": "2022-04-11",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11053,6 +11743,7 @@
         "salary": 13594960,
         "annual_salary": 163139520,
         "retire_date": "2026-02-26",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11069,6 +11760,7 @@
         "salary": 2362379,
         "annual_salary": 28348548,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11085,6 +11777,7 @@
         "salary": 2083333,
         "annual_salary": 24999996,
         "retire_date": "2022-03-04",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11101,6 +11794,7 @@
         "salary": 2500000,
         "annual_salary": 30000000,
         "retire_date": "2024-11-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11117,6 +11811,7 @@
         "salary": 2398600,
         "annual_salary": 28783200,
         "retire_date": "2025-12-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11133,6 +11828,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-04-30",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -11149,6 +11845,7 @@
         "salary": 2362379,
         "annual_salary": 28348548,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11165,6 +11862,7 @@
         "salary": 2590000,
         "annual_salary": 31080000,
         "retire_date": "2024-11-11",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11181,6 +11879,7 @@
         "salary": 2954410,
         "annual_salary": 35452920,
         "retire_date": "2025-02-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11197,6 +11896,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2020-08-03",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -11213,6 +11913,7 @@
         "salary": 2183108,
         "annual_salary": 26197296,
         "retire_date": "2023-12-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11229,6 +11930,7 @@
         "salary": 2316058,
         "annual_salary": 27792696,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11245,6 +11947,7 @@
         "salary": 2416666,
         "annual_salary": 28999992,
         "retire_date": "2023-02-10",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11261,6 +11964,7 @@
         "salary": 2333334,
         "annual_salary": 28000008,
         "retire_date": "2024-06-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11277,6 +11981,7 @@
         "salary": 2083333,
         "annual_salary": 24999996,
         "retire_date": "2022-03-18",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11293,6 +11998,7 @@
         "salary": 2248600,
         "annual_salary": 26983200,
         "retire_date": "2024-08-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11309,6 +12015,7 @@
         "salary": 2316058,
         "annual_salary": 27792696,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11325,6 +12032,7 @@
         "salary": 2300000,
         "annual_salary": 27600000,
         "retire_date": null,
+        "leave_status": "무급휴직",
         "remark": null
     },
     {
@@ -11341,6 +12049,7 @@
         "salary": 2300000,
         "annual_salary": 27600000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11357,6 +12066,7 @@
         "salary": 2300000,
         "annual_salary": 27600000,
         "retire_date": "2026-03-07",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11373,6 +12083,7 @@
         "salary": 1964440,
         "annual_salary": 23573280,
         "retire_date": "2022-09-05",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11389,6 +12100,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2021-08-26",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11405,6 +12117,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2021-06-04",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11421,6 +12134,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2020-12-24",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -11437,6 +12151,7 @@
         "salary": 3341667,
         "annual_salary": 40100004,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11453,6 +12168,7 @@
         "salary": 2050000,
         "annual_salary": 24600000,
         "retire_date": "2022-10-19",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11469,6 +12185,7 @@
         "salary": 2645000,
         "annual_salary": 31740000,
         "retire_date": "2026-01-20",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11485,6 +12202,7 @@
         "salary": 2600000,
         "annual_salary": 31200000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11501,6 +12219,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2021-05-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11517,6 +12236,7 @@
         "salary": 2685000,
         "annual_salary": 32220000,
         "retire_date": "2025-07-22",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11533,6 +12253,7 @@
         "salary": 3200000,
         "annual_salary": 38400000,
         "retire_date": "2023-10-02",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11549,6 +12270,7 @@
         "salary": 1000000,
         "annual_salary": 12000000,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11565,6 +12287,7 @@
         "salary": 3300000,
         "annual_salary": 39600000,
         "retire_date": "2023-10-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11581,6 +12304,7 @@
         "salary": 2470000,
         "annual_salary": 29640000,
         "retire_date": "2021-10-17",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11597,6 +12321,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2021-05-21",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11613,6 +12338,7 @@
         "salary": 2119522,
         "annual_salary": 25434264,
         "retire_date": "2022-12-19",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11629,6 +12355,7 @@
         "salary": 2183333,
         "annual_salary": 26199996,
         "retire_date": "2023-03-23",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11645,6 +12372,7 @@
         "salary": 2398600,
         "annual_salary": 28783200,
         "retire_date": "2025-12-04",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11661,6 +12389,7 @@
         "salary": 2183108,
         "annual_salary": 26197296,
         "retire_date": "2024-01-10",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11677,6 +12406,7 @@
         "salary": 3750000,
         "annual_salary": 45000000,
         "retire_date": "2022-03-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11693,6 +12423,7 @@
         "salary": 2206880,
         "annual_salary": 26482560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11709,6 +12440,7 @@
         "salary": 2530000,
         "annual_salary": 30360000,
         "retire_date": "2023-11-07",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11725,6 +12457,7 @@
         "salary": 2885000,
         "annual_salary": 34620000,
         "retire_date": "2025-04-27",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11741,6 +12474,7 @@
         "salary": 2500000,
         "annual_salary": 30000000,
         "retire_date": "2022-03-06",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11757,6 +12491,7 @@
         "salary": 2450000,
         "annual_salary": 29400000,
         "retire_date": "2022-06-13",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11773,6 +12508,7 @@
         "salary": 2450000,
         "annual_salary": 29400000,
         "retire_date": "2022-12-17",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11789,6 +12525,7 @@
         "salary": 2208333,
         "annual_salary": 26499996,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11805,6 +12542,7 @@
         "salary": 860936,
         "annual_salary": 10331232,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11821,6 +12559,7 @@
         "salary": 2583894,
         "annual_salary": 31006728,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11837,6 +12576,7 @@
         "salary": 2000000,
         "annual_salary": 24000000,
         "retire_date": "2022-08-05",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11853,6 +12593,7 @@
         "salary": 2750000,
         "annual_salary": 33000000,
         "retire_date": "2023-11-17",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11869,6 +12610,7 @@
         "salary": 2233333,
         "annual_salary": 26799996,
         "retire_date": "2025-02-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11885,6 +12627,7 @@
         "salary": 2206880,
         "annual_salary": 26482560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11901,6 +12644,7 @@
         "salary": 2156880,
         "annual_salary": 25882560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11917,6 +12661,7 @@
         "salary": 2156880,
         "annual_salary": 25882560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11933,6 +12678,7 @@
         "salary": 2470000,
         "annual_salary": 29640000,
         "retire_date": "2021-10-24",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11949,6 +12695,7 @@
         "salary": 2570000,
         "annual_salary": 30840000,
         "retire_date": "2022-09-16",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11965,6 +12712,7 @@
         "salary": 2256880,
         "annual_salary": 27082560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11981,6 +12729,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2024-12-13",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -11997,6 +12746,7 @@
         "salary": 2450000,
         "annual_salary": 29400000,
         "retire_date": "2022-07-30",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12013,6 +12763,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2021-05-18",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12029,6 +12780,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2021-06-22",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12045,6 +12797,7 @@
         "salary": 3250000,
         "annual_salary": 39000000,
         "retire_date": "2022-05-09",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12061,6 +12814,7 @@
         "salary": 2600000,
         "annual_salary": 31200000,
         "retire_date": "2022-10-25",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12077,6 +12831,7 @@
         "salary": 2248600,
         "annual_salary": 26983200,
         "retire_date": "2025-11-03",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12093,6 +12848,7 @@
         "salary": 3200000,
         "annual_salary": 38400000,
         "retire_date": "2022-07-31",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12109,6 +12865,7 @@
         "salary": 4540850,
         "annual_salary": 54490200,
         "retire_date": "2022-11-27",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12125,6 +12882,7 @@
         "salary": 2166666,
         "annual_salary": 25999992,
         "retire_date": "2022-12-19",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12141,6 +12899,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2020-07-27",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -12157,6 +12916,7 @@
         "salary": 2745000,
         "annual_salary": 32940000,
         "retire_date": "2025-08-12",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12173,6 +12933,7 @@
         "salary": 2156880,
         "annual_salary": 25882560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12189,6 +12950,7 @@
         "salary": 2156880,
         "annual_salary": 25882560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12205,6 +12967,7 @@
         "salary": 2156880,
         "annual_salary": 25882560,
         "retire_date": null,
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12221,6 +12984,7 @@
         "salary": 2600000,
         "annual_salary": 31200000,
         "retire_date": "2022-04-06",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12237,6 +13001,7 @@
         "salary": 2166666,
         "annual_salary": 25999992,
         "retire_date": "2022-07-29",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12253,6 +13018,7 @@
         "salary": 2250000,
         "annual_salary": 27000000,
         "retire_date": "2022-08-05",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12269,6 +13035,7 @@
         "salary": 2560000,
         "annual_salary": 30720000,
         "retire_date": "2024-09-27",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12285,6 +13052,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2021-06-25",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12301,6 +13069,7 @@
         "salary": 2248600,
         "annual_salary": 26983200,
         "retire_date": "2025-08-05",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12317,6 +13086,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2024-05-03",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12333,6 +13103,7 @@
         "salary": 1914440,
         "annual_salary": 22973280,
         "retire_date": "2022-01-21",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12349,6 +13120,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2021-04-04",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -12365,6 +13137,7 @@
         "salary": 2841666,
         "annual_salary": 34099992,
         "retire_date": "2026-02-04",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12381,6 +13154,7 @@
         "salary": 2825000,
         "annual_salary": 33900000,
         "retire_date": "2026-02-04",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12397,6 +13171,7 @@
         "salary": 3100000,
         "annual_salary": 37200000,
         "retire_date": "2022-06-10",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12413,6 +13188,7 @@
         "salary": 2666666,
         "annual_salary": 31999992,
         "retire_date": "2022-08-05",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12429,6 +13205,7 @@
         "salary": 2227890,
         "annual_salary": 26734680,
         "retire_date": "2021-04-21",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12445,6 +13222,7 @@
         "salary": 2248600,
         "annual_salary": 26983200,
         "retire_date": "2024-04-25",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12461,6 +13239,7 @@
         "salary": 2083330,
         "annual_salary": 24999960,
         "retire_date": "2021-10-15",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12477,6 +13256,7 @@
         "salary": 2666666,
         "annual_salary": 31999992,
         "retire_date": "2021-01-12",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12493,6 +13273,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2020-11-17",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -12509,6 +13290,7 @@
         "salary": 2560000,
         "annual_salary": 30720000,
         "retire_date": "2024-08-27",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12525,6 +13307,7 @@
         "salary": 2705000,
         "annual_salary": 32460000,
         "retire_date": "2025-05-02",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12541,6 +13324,7 @@
         "salary": 2660000,
         "annual_salary": 31920000,
         "retire_date": "2024-12-24",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12557,6 +13341,7 @@
         "salary": 2900000,
         "annual_salary": 34800000,
         "retire_date": "2023-06-02",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12573,6 +13358,7 @@
         "salary": 3300000,
         "annual_salary": 39600000,
         "retire_date": "2024-03-28",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12589,6 +13375,7 @@
         "salary": 2870000,
         "annual_salary": 34440000,
         "retire_date": "2022-09-14",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12605,6 +13392,7 @@
         "salary": 2248600,
         "annual_salary": 26983200,
         "retire_date": "2025-07-26",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12621,6 +13409,7 @@
         "salary": 0,
         "annual_salary": 0,
         "retire_date": "2020-08-27",
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -12637,6 +13426,7 @@
         "salary": 1,
         "annual_salary": 12,
         "retire_date": "2021-06-04",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12653,6 +13443,7 @@
         "salary": 2690000,
         "annual_salary": 32280000,
         "retire_date": "2022-04-12",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12669,6 +13460,7 @@
         "salary": 3421337,
         "annual_salary": 41056044,
         "retire_date": "2021-10-25",
+        "leave_status": "",
         "remark": null
     },
     {
@@ -12685,6 +13477,7 @@
         "salary": 2715000,
         "annual_salary": 32580000,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -12701,6 +13494,7 @@
         "salary": 2460000,
         "annual_salary": 29520000,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     },
     {
@@ -12717,6 +13511,7 @@
         "salary": 2400000,
         "annual_salary": 28800000,
         "retire_date": null,
+        "leave_status": "",
         "remark": ""
     }
 ]
