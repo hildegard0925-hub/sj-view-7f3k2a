@@ -8736,7 +8736,7 @@
         "category": "서류",
         "status": "완료",
         "content": "육아휴직확인서, 카카오워크",
-        "company": ""
+        "company": "병원"
     },
     {
         "id": 1125,
@@ -8896,15 +8896,6 @@
         "title": "육아휴직 종료 황현화",
         "date": "2027-01-08",
         "category": "인사",
-        "status": "예정",
-        "content": "",
-        "company": "병원"
-    },
-    {
-        "id": 1145,
-        "title": "1111",
-        "date": "2026-04-05",
-        "category": "",
         "status": "예정",
         "content": "",
         "company": "병원"
