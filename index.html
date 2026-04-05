@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
- 
+
 table {
     white-space: nowrap;
     overflow-x: auto;
@@ -74,9 +74,82 @@ input {
 
 <input type="text" id="search" placeholder="검색" onkeyup="filterItems()">
 
+<br>
+
+<label>시작일</label>
+<input type="date" id="startDate">
+
+<label>종료일</label>
+<input type="date" id="endDate">
+
+<button onclick="applyDateFilter()">조회</button>
+<button onclick="resetDateFilter()">전체</button>
+
 <div id="list"></div>
 
 <script>
+
+function setDefaultMonth() {
+
+    const today = new Date();
+
+    const firstDay =
+        new Date(
+            today.getFullYear(),
+            today.getMonth(),
+            1
+        );
+
+    const lastDay =
+        new Date(
+            today.getFullYear(),
+            today.getMonth() + 1,
+            0
+        );
+
+    document.getElementById("startDate").value =
+        firstDay.toISOString().slice(0, 10);
+
+    document.getElementById("endDate").value =
+        lastDay.toISOString().slice(0, 10);
+
+}
+
+function applyDateFilter() {
+
+    const start =
+        document.getElementById("startDate").value;
+
+    const end =
+        document.getElementById("endDate").value;
+
+    if (!start || !end) return;
+
+    const filtered =
+        currentData.filter(item => {
+
+            const date =
+                item.date ||
+                item.pay_date;
+
+            if (!date) return true;
+
+            return (
+                date >= start &&
+                date <= end
+            );
+
+        });
+
+    render(filtered);
+
+}
+
+function resetDateFilter() {
+
+    render(currentData);
+
+}
 
 let currentData = [];
 
@@ -108,8 +181,17 @@ function loadEmployees() {
     })
         .then(res => res.json())
         .then(data => {
+
+            data.sort(
+                (a, b) =>
+                    Number(a.employee_no) -
+                    Number(b.employee_no)
+            );
+
             currentData = data;
+
             render(data);
+
         });
 }
 
@@ -292,6 +374,8 @@ function filterItems() {
 }
 // 페이지 열리면 자동으로 업무 로드
 window.onload = function() {
+
+    setDefaultMonth();
 
     loadTasks();
 
