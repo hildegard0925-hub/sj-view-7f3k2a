@@ -19,7 +19,11 @@ th {
     background: #f0f0f0;
     z-index: 5;
 }
-
+td.content-cell {
+    width: 260px;
+    white-space: normal;
+    word-break: break-word;
+}
 body {
     font-family: sans-serif;
     margin: 10px;
@@ -59,6 +63,9 @@ input {
     background: #333;
     color: white;
     border: none;
+}
+input[type="date"] {
+    width: 140px;
 }
 </style>
 
@@ -335,9 +342,17 @@ function render(data) {
 
         }
 
-        values.forEach(val => {
+        values.forEach((val, index) => {
 
             const td = document.createElement("td");
+
+            // 업무 "내용" 컬럼에만 줄바꿈 적용
+            if (
+                data[0].title &&
+                index === 4
+            ) {
+                td.className = "content-cell";
+            }
 
             if (
                 val !== null &&
