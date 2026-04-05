@@ -218,8 +218,8 @@ function loadEmployees() {
 
             data.sort(function(a, b) {
 
-                const aStr = a.employee_no || "";
-                const bStr = b.employee_no || "";
+                const aStr = (a.employee_no || "").trim();
+                const bStr = (b.employee_no || "").trim();
 
                 const aIsNumber = /^\d+$/.test(aStr);
                 const bIsNumber = /^\d+$/.test(bStr);
@@ -230,7 +230,7 @@ function loadEmployees() {
 
                 // 둘 다 숫자면 숫자 정렬
                 if (aIsNumber && bIsNumber) {
-                    return parseInt(aStr) - parseInt(bStr);
+                    return Number(aStr) - Number(bStr);
                 }
 
                 // 둘 다 문자 포함이면 문자열 정렬
