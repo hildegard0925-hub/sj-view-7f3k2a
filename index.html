@@ -21,8 +21,10 @@ th {
     z-index: 5;
 }
 td.content-cell {
-    min-width: 500px;
-    white-space: nowrap;
+    min-width: 280px;     /* 너무 좁아지지 않게 */
+    max-width: 420px;     /* 너무 길어지지 않게 */
+    white-space: normal;  /* 줄바꿈 허용 */
+    word-break: keep-all; /* 한글 단어 단위 유지 */
 }
 th, td {
     white-space: nowrap;
