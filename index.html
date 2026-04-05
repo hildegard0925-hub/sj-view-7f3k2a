@@ -218,13 +218,23 @@ function loadEmployees() {
 
             data.sort(function(a, b) {
 
-                const aNo =
-                    parseInt(a.employee_no) || 0;
+                const aStr = a.employee_no || "";
+                const bStr = b.employee_no || "";
 
-                const bNo =
-                    parseInt(b.employee_no) || 0;
+                const aIsNumber = /^\d+$/.test(aStr);
+                const bIsNumber = /^\d+$/.test(bStr);
 
-                return aNo - bNo;
+                // 숫자만 있는 사번을 먼저
+                if (aIsNumber && !bIsNumber) return -1;
+                if (!aIsNumber && bIsNumber) return 1;
+
+                // 둘 다 숫자면 숫자 정렬
+                if (aIsNumber && bIsNumber) {
+                    return parseInt(aStr) - parseInt(bStr);
+                }
+
+                // 둘 다 문자 포함이면 문자열 정렬
+                return aStr.localeCompare(bStr);
 
             });
 
