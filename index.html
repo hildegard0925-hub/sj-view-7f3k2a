@@ -73,7 +73,46 @@ input[type="date"] {
     color: white;
     border: none;
 }
+/* 전체 간격 */
+.control-area {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
 
+/* 버튼 줄 */
+.button-row {
+    display: flex;
+    gap: 6px;
+}
+
+/* 날짜 줄 */
+.date-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+/* 날짜-버튼 묶음 */
+.date-buttons {
+    display: flex;
+    gap: 6px;
+}
+@media (max-width: 600px) {
+
+    .date-row {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 6px;
+    }
+
+    .date-buttons {
+        display: flex;
+        gap: 6px;
+    }
+
+}
 </style>
 
 </head>
@@ -82,22 +121,36 @@ input[type="date"] {
 
 <h2>SweetJelly 조회</h2>
 
-<button onclick="loadTasks()">업무</button>
-<button onclick="loadFunds()">지출</button>
-<button onclick="loadEmployees()">직원</button>
+<div class="control-area">
 
-<input type="text" id="search" placeholder="검색" onkeyup="filterItems()">
+    <div class="button-row">
+        <button onclick="loadTasks()">업무</button>
+        <button onclick="loadFunds()">지출</button>
+        <button onclick="loadEmployees()">직원</button>
+    </div>
 
-<br>
+    <input type="text" id="search" placeholder="검색" onkeyup="filterItems()">
 
-<label>시작일</label>
-<input type="date" id="startDate">
+    <div class="date-row">
 
-<label>종료일</label>
-<input type="date" id="endDate">
+        <div class="date-start">
+            <label>시작일</label>
+            <input type="date" id="startDate">
+        </div>
 
-<button onclick="applyDateFilter()">조회</button>
-<button onclick="resetDateFilter()">전체</button>
+        <div class="date-end">
+            <label>종료일</label>
+            <input type="date" id="endDate">
+        </div>
+
+        <div class="date-buttons">
+            <button onclick="applyDateFilter()">조회</button>
+            <button onclick="resetDateFilter()">전체</button>
+        </div>
+
+    </div>
+
+</div>
 
 <div id="list"></div>
 
