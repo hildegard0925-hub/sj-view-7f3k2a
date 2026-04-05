@@ -216,11 +216,17 @@ function loadEmployees() {
         .then(res => res.json())
         .then(data => {
 
-            data.sort(
-                (a, b) =>
-                    Number(a.employee_no) -
-                    Number(b.employee_no)
-            );
+            data.sort(function(a, b) {
+
+                const aNo =
+                    parseInt(a.employee_no) || 0;
+
+                const bNo =
+                    parseInt(b.employee_no) || 0;
+
+                return aNo - bNo;
+
+            });
 
             currentData = data;
 
