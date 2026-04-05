@@ -6730,14 +6730,5 @@
         "amount": null,
         "account": null,
         "company": "병원"
-    },
-    {
-        "id": 1589,
-        "pay_date": "2026-04-05",
-        "vendor": "111",
-        "description": "",
-        "amount": "",
-        "account": "",
-        "company": "병원"
     }
 ]
