@@ -1,0 +1,542 @@
+[
+    {
+        "company_type": "hospital",
+        "number": 1,
+        "category": "사업자번호",
+        "user_id": "273-97-01209"
+    },
+    {
+        "company_type": "hospital",
+        "number": 2,
+        "category": "주민번호",
+        "user_id": "830119-1559313"
+    },
+    {
+        "company_type": "hospital",
+        "number": 3,
+        "category": "업종",
+        "user_id": "의료서비스 / 재활의학과 외"
+    },
+    {
+        "company_type": "hospital",
+        "number": 4,
+        "category": "주소",
+        "user_id": "사상구 학감대로 269"
+    },
+    {
+        "company_type": "hospital",
+        "number": 5,
+        "category": "별관주소",
+        "user_id": "사상구 학감대로 273"
+    },
+    {
+        "company_type": "hospital",
+        "number": 6,
+        "category": "이메일",
+        "user_id": "smartrmh119 한메일"
+    },
+    {
+        "company_type": "hospital",
+        "number": 7,
+        "category": "지메일",
+        "user_id": "smartrmhga 지메일"
+    },
+    {
+        "company_type": "hospital",
+        "number": 8,
+        "category": "하나은행",
+        "user_id": "sasangsmarth"
+    },
+    {
+        "company_type": "hospital",
+        "number": 9,
+        "category": "공인인증서",
+        "user_id": ""
+    },
+    {
+        "company_type": "hospital",
+        "number": 10,
+        "category": "계좌번호",
+        "user_id": "하나은행"
+    },
+    {
+        "company_type": "hospital",
+        "number": 11,
+        "category": "퇴직연금",
+        "user_id": "하나은행"
+    },
+    {
+        "company_type": "hospital",
+        "number": 12,
+        "category": "개인계좌",
+        "user_id": "하나은행"
+    },
+    {
+        "company_type": "hospital",
+        "number": 13,
+        "category": "한국투자증권",
+        "user_id": "jehwane"
+    },
+    {
+        "company_type": "hospital",
+        "number": 14,
+        "category": "미래에셋증권",
+        "user_id": "jehwane"
+    },
+    {
+        "company_type": "hospital",
+        "number": 15,
+        "category": "하나카드",
+        "user_id": "sasangsmart"
+    },
+    {
+        "company_type": "hospital",
+        "number": 16,
+        "category": "롯데카드",
+        "user_id": "jehwane8"
+    },
+    {
+        "company_type": "hospital",
+        "number": 17,
+        "category": "현대카드",
+        "user_id": "jehwane8"
+    },
+    {
+        "company_type": "hospital",
+        "number": 18,
+        "category": "비즈메카",
+        "user_id": "smart006"
+    },
+    {
+        "company_type": "hospital",
+        "number": 19,
+        "category": "카카오워크",
+        "user_id": "kaipian@naver.com"
+    },
+    {
+        "company_type": "hospital",
+        "number": 20,
+        "category": "비트컴퓨터",
+        "user_id": "FA01"
+    },
+    {
+        "company_type": "hospital",
+        "number": 21,
+        "category": "한비자",
+        "user_id": "한아영"
+    },
+    {
+        "company_type": "hospital",
+        "number": 22,
+        "category": "팀뷰어",
+        "user_id": "kaipian@naver.com"
+    },
+    {
+        "company_type": "hospital",
+        "number": 23,
+        "category": "4대보험연계",
+        "user_id": "smartrmh119"
+    },
+    {
+        "company_type": "hospital",
+        "number": 24,
+        "category": "가비아",
+        "user_id": "sasangsmarth"
+    },
+    {
+        "company_type": "hospital",
+        "number": 25,
+        "category": "건강보험EDI",
+        "user_id": "smartrmh"
+    },
+    {
+        "company_type": "hospital",
+        "number": 26,
+        "category": "고용노동부",
+        "user_id": "smartrmh119"
+    },
+    {
+        "company_type": "hospital",
+        "number": 27,
+        "category": "컴퓨터",
+        "user_id": "부원장님"
+    },
+    {
+        "company_type": "hospital",
+        "number": 28,
+        "category": "컴퓨터",
+        "user_id": "이경진"
+    },
+    {
+        "company_type": "hospital",
+        "number": 29,
+        "category": "교육",
+        "user_id": ""
+    },
+    {
+        "company_type": "hospital",
+        "number": 30,
+        "category": "구글드라이브",
+        "user_id": "smartrmh0708"
+    },
+    {
+        "company_type": "hospital",
+        "number": 31,
+        "category": "대한의사협회",
+        "user_id": "smartrmh"
+    },
+    {
+        "company_type": "hospital",
+        "number": 32,
+        "category": "드럭인포",
+        "user_id": "21204497"
+    },
+    {
+        "company_type": "hospital",
+        "number": 33,
+        "category": "마이크로오피스",
+        "user_id": "smart006 비즈메카메일"
+    },
+    {
+        "company_type": "hospital",
+        "number": 34,
+        "category": "메리츠화재",
+        "user_id": "21204497"
+    },
+    {
+        "company_type": "hospital",
+        "number": 35,
+        "category": "문자모아",
+        "user_id": "smart119"
+    },
+    {
+        "company_type": "hospital",
+        "number": 36,
+        "category": "범죄조회",
+        "user_id": "검증번호"
+    },
+    {
+        "company_type": "hospital",
+        "number": 37,
+        "category": "범죄조회",
+        "user_id": "시설ID"
+    },
+    {
+        "company_type": "hospital",
+        "number": 38,
+        "category": "범죄조회",
+        "user_id": "개인주민번호"
+    },
+    {
+        "company_type": "hospital",
+        "number": 39,
+        "category": "범죄조회-담당",
+        "user_id": "시설ID"
+    },
+    {
+        "company_type": "hospital",
+        "number": 40,
+        "category": "사람인",
+        "user_id": "smart20200701"
+    },
+    {
+        "company_type": "hospital",
+        "number": 41,
+        "category": "심사평가원",
+        "user_id": "smart119"
+    },
+    {
+        "company_type": "hospital",
+        "number": 42,
+        "category": "아워홈",
+        "user_id": "#9182"
+    },
+    {
+        "company_type": "hospital",
+        "number": 43,
+        "category": "아이폰",
+        "user_id": "smartrmh119 한메일"
+    },
+    {
+        "company_type": "hospital",
+        "number": 44,
+        "category": "알바몬",
+        "user_id": "smartrmh119"
+    },
+    {
+        "company_type": "hospital",
+        "number": 45,
+        "category": "알바천국",
+        "user_id": "smartrmh"
+    },
+    {
+        "company_type": "hospital",
+        "number": 46,
+        "category": "여신금융협회",
+        "user_id": "smartrmh"
+    },
+    {
+        "company_type": "hospital",
+        "number": 47,
+        "category": "요양기관",
+        "user_id": "smart269"
+    },
+    {
+        "company_type": "hospital",
+        "number": 48,
+        "category": "워크넷",
+        "user_id": "smartrmh119"
+    },
+    {
+        "company_type": "hospital",
+        "number": 49,
+        "category": "중소기업확인서",
+        "user_id": "smartrmh119"
+    },
+    {
+        "company_type": "hospital",
+        "number": 50,
+        "category": "지문인증",
+        "user_id": "admin"
+    },
+    {
+        "company_type": "hospital",
+        "number": 51,
+        "category": "카페24",
+        "user_id": "jehwane"
+    },
+    {
+        "company_type": "hospital",
+        "number": 52,
+        "category": "쿠팡",
+        "user_id": "smartrmh119 한메일"
+    },
+    {
+        "company_type": "hospital",
+        "number": 53,
+        "category": "학자금상환",
+        "user_id": "smart119"
+    },
+    {
+        "company_type": "hospital",
+        "number": 54,
+        "category": "홈택스",
+        "user_id": "smartrmh119"
+    },
+    {
+        "company_type": "hospital",
+        "number": 55,
+        "category": "회계기준 신고",
+        "user_id": "21204497"
+    },
+    {
+        "company_type": "ps",
+        "number": 1,
+        "category": "사업자번호",
+        "user_id": "614-87-00964"
+    },
+    {
+        "company_type": "ps",
+        "number": 2,
+        "category": "주민번호",
+        "user_id": "580818-1628229"
+    },
+    {
+        "company_type": "ps",
+        "number": 3,
+        "category": "법인번호",
+        "user_id": "180111-1158418"
+    },
+    {
+        "company_type": "ps",
+        "number": 4,
+        "category": "업태",
+        "user_id": "부동산업, 서비스"
+    },
+    {
+        "company_type": "ps",
+        "number": 5,
+        "category": "종목",
+        "user_id": "비주거용 건물임대업"
+    },
+    {
+        "company_type": "ps",
+        "number": 6,
+        "category": "전화번호",
+        "user_id": "051-314-3200"
+    },
+    {
+        "company_type": "ps",
+        "number": 7,
+        "category": "주소",
+        "user_id": "사상구 학감대로 269"
+    },
+    {
+        "company_type": "ps",
+        "number": 8,
+        "category": "계좌번호",
+        "user_id": "하나은행"
+    },
+    {
+        "company_type": "ps",
+        "number": 9,
+        "category": "계좌번호",
+        "user_id": "국민은행"
+    },
+    {
+        "company_type": "ps",
+        "number": 10,
+        "category": "이메일",
+        "user_id": "psmedico 네이버"
+    },
+    {
+        "company_type": "ps",
+        "number": 11,
+        "category": "하나은행",
+        "user_id": "SOO8531024"
+    },
+    {
+        "company_type": "ps",
+        "number": 12,
+        "category": "국민은행",
+        "user_id": "PSMEDICO964"
+    },
+    {
+        "company_type": "ps",
+        "number": 13,
+        "category": "하나카드",
+        "user_id": "psmedi"
+    },
+    {
+        "company_type": "ps",
+        "number": 14,
+        "category": "새마을금고",
+        "user_id": "PSMEDI20"
+    },
+    {
+        "company_type": "ps",
+        "number": 15,
+        "category": "공인인증서",
+        "user_id": ""
+    },
+    {
+        "company_type": "ps",
+        "number": 16,
+        "category": "더존 스마트A",
+        "user_id": "200715DNSM1000567224"
+    },
+    {
+        "company_type": "ps",
+        "number": 17,
+        "category": "더존 스마트A",
+        "user_id": "200715DNSM1000567225"
+    },
+    {
+        "company_type": "ps",
+        "number": 18,
+        "category": "더존 스마트A",
+        "user_id": "200715DNSM1000567226"
+    },
+    {
+        "company_type": "ps",
+        "number": 19,
+        "category": "상수도",
+        "user_id": "315146-100"
+    },
+    {
+        "company_type": "ps",
+        "number": 20,
+        "category": "한전 고객번호",
+        "user_id": "04-2204-1793"
+    },
+    {
+        "company_type": "ps",
+        "number": 21,
+        "category": "KT",
+        "user_id": "psmedi"
+    },
+    {
+        "company_type": "ps",
+        "number": 22,
+        "category": "건강보험 EDI",
+        "user_id": "psmedi"
+    },
+    {
+        "company_type": "ps",
+        "number": 23,
+        "category": "민원24",
+        "user_id": "ps291800"
+    },
+    {
+        "company_type": "ps",
+        "number": 24,
+        "category": "사람인",
+        "user_id": "psmedico"
+    },
+    {
+        "company_type": "ps",
+        "number": 25,
+        "category": "스마트A",
+        "user_id": "admin"
+    },
+    {
+        "company_type": "ps",
+        "number": 26,
+        "category": "시설물시스템",
+        "user_id": "psmedi"
+    },
+    {
+        "company_type": "ps",
+        "number": 27,
+        "category": "시설물시스템",
+        "user_id": "psm12"
+    },
+    {
+        "company_type": "ps",
+        "number": 28,
+        "category": "신용보증기금",
+        "user_id": ""
+    },
+    {
+        "company_type": "ps",
+        "number": 29,
+        "category": "여신금융협회",
+        "user_id": "psmedi"
+    },
+    {
+        "company_type": "ps",
+        "number": 30,
+        "category": "워크넷",
+        "user_id": "psmedi119"
+    },
+    {
+        "company_type": "ps",
+        "number": 31,
+        "category": "웹하드",
+        "user_id": "wy2918"
+    },
+    {
+        "company_type": "ps",
+        "number": 32,
+        "category": "위하고",
+        "user_id": "psmedi"
+    },
+    {
+        "company_type": "ps",
+        "number": 33,
+        "category": "인터넷등기소",
+        "user_id": "psmedico"
+    },
+    {
+        "company_type": "ps",
+        "number": 34,
+        "category": "인터넷지로",
+        "user_id": "psmedi"
+    },
+    {
+        "company_type": "ps",
+        "number": 35,
+        "category": "중소기업확인서",
+        "user_id": "psmedico"
+    }
+]
