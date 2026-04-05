@@ -460,10 +460,12 @@ function render(data) {
                 td.className = "content-cell";
             }
 
+            // 회사 데이터는 쉼표 적용 안 함
             if (
                 val !== null &&
                 val !== "" &&
-                !isNaN(val)
+                !isNaN(val) &&
+                !data[0].company_type
             ) {
 
                 td.innerText =
@@ -554,7 +556,17 @@ function loadCompanies() {
         .then(data => {
 
             data.sort(function(a, b) {
+
+                // 병원 먼저
+                if (a.company_type === "hospital" && b.company_type === "ps")
+                    return -1;
+
+                if (a.company_type === "ps" && b.company_type === "hospital")
+                    return 1;
+
+                // 같은 구분이면 번호순
                 return Number(a.number) - Number(b.number);
+
             });
 
             currentData = data;
