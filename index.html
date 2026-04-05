@@ -9,9 +9,10 @@
 <style>
 
 table {
-    white-space: nowrap;
-    overflow-x: auto;
+    width: 100%;
+    border-collapse: collapse;
     display: block;
+    overflow-x: auto;
 }
 th {
     position: sticky;
@@ -20,9 +21,11 @@ th {
     z-index: 5;
 }
 td.content-cell {
-    width: 260px;
-    white-space: normal;
-    word-break: break-word;
+    min-width: 500px;
+    white-space: nowrap;
+}
+th, td {
+    white-space: nowrap;
 }
 body {
     font-family: sans-serif;
