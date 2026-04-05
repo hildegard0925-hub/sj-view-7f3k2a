@@ -9400,7 +9400,7 @@
         "department": "총무경리과",
         "position": "차장",
         "phone_mobile": "010-2570-3300",
-        "contract_type": "정규직",
+        "contract_type": "계약직",
         "contract_end_date": null,
         "salary": 3750000,
         "annual_salary": 45000000,
@@ -12716,22 +12716,6 @@
         "contract_end_date": null,
         "salary": 2400000,
         "annual_salary": 28800000,
-        "retire_date": null,
-        "remark": ""
-    },
-    {
-        "employee_no": "100",
-        "name": "222",
-        "resident_no": "860923-2322212",
-        "hire_date": "2026-04-04",
-        "department_main": "행정부",
-        "department": "",
-        "position": "",
-        "phone_mobile": "",
-        "contract_type": "",
-        "contract_end_date": null,
-        "salary": 0,
-        "annual_salary": 0,
         "retire_date": null,
         "remark": ""
     }
