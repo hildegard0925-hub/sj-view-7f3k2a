@@ -128,6 +128,7 @@ input[type="date"] {
         <button onclick="loadFunds()">지출</button>
         <button onclick="loadEmployees()">직원</button>
         <button onclick="loadCompanies()">회사</button>
+        <button onclick="loadVendors()">거래처</button>
     </div>
 
     <input type="text" id="search" placeholder="검색" onkeyup="filterItems()">
@@ -372,6 +373,20 @@ function render(data) {
             ];
 
         }
+        else if (data[0].name && data[0].phone) {
+
+            columns = [
+                "번호",
+                "거래처명",
+                "담당자",
+                "전화",
+                "팩스",
+                "핸드폰",
+                "메일",
+                "주소"
+            ];
+
+        }
 
     columns.forEach(col => {
 
@@ -444,6 +459,20 @@ function render(data) {
                 item.number,
                 item.category,
                 item.user_id
+            ];
+
+        }
+        else if (item.name && item.phone) {
+
+            values = [
+                item.number,
+                item.name,
+                item.manager,
+                item.phone,
+                item.fax,
+                item.mobile,
+                item.email,
+                item.address
             ];
 
         }
@@ -567,6 +596,25 @@ function loadCompanies() {
                 // 같은 구분이면 번호순
                 return Number(a.number) - Number(b.number);
 
+            });
+
+            currentData = data;
+
+            render(data);
+
+        });
+
+}
+function loadVendors() {
+
+    fetch("vendors.json?t=" + new Date().getTime(), {
+        cache: "no-store"
+    })
+        .then(res => res.json())
+        .then(data => {
+
+            data.sort(function(a, b) {
+                return Number(a.number) - Number(b.number);
             });
 
             currentData = data;
