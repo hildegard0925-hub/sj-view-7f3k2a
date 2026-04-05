@@ -344,25 +344,6 @@ function render(data) {
         else if (data[0].vendor) {
             columns = ["일자", "업체", "내용", "금액", "계좌", "회사"];
         }
-
-        else if (data[0].name) {
-            columns = [
-                "사번",
-                "이름",
-                "주민번호",
-                "입사일",
-                "부서",
-                "직급",
-                "핸드폰",
-                "계약구분",
-                "계약종료일",
-                "급여",
-                "연봉",
-                "퇴사일",
-                "휴직상태"
-            ];
-        }
-
         else if (data[0].company_type) {
 
             columns = [
@@ -386,6 +367,23 @@ function render(data) {
                 "주소"
             ];
 
+        }
+        else if (data[0].name) {
+            columns = [
+                "사번",
+                "이름",
+                "주민번호",
+                "입사일",
+                "부서",
+                "직급",
+                "핸드폰",
+                "계약구분",
+                "계약종료일",
+                "급여",
+                "연봉",
+                "퇴사일",
+                "휴직상태"
+            ];
         }
 
     columns.forEach(col => {
@@ -432,26 +430,6 @@ function render(data) {
                 item.company
             ];
         }
-
-        else if (item.name) {
-
-            values = [
-                item.employee_no,
-                item.name,
-                item.resident_no,
-                item.hire_date,
-                item.department,
-                item.position,
-                item.phone_mobile,
-                item.contract_type,
-                item.contract_end_date,
-                item.salary,
-                item.annual_salary,
-                item.retire_date,
-                item.leave_status
-            ];
-
-        }
         else if (item.company_type) {
 
             values = [
@@ -476,6 +454,26 @@ function render(data) {
             ];
 
         }
+        else if (item.name) {
+
+            values = [
+                item.employee_no,
+                item.name,
+                item.resident_no,
+                item.hire_date,
+                item.department,
+                item.position,
+                item.phone_mobile,
+                item.contract_type,
+                item.contract_end_date,
+                item.salary,
+                item.annual_salary,
+                item.retire_date,
+                item.leave_status
+            ];
+
+        }
+        
 
         values.forEach((val, index) => {
 
