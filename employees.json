@@ -1746,9 +1746,9 @@
         "contract_end_date": null,
         "salary": 2416667,
         "annual_salary": 29000004,
-        "retire_date": null,
+        "retire_date": "2026-04-17",
         "leave_status": "",
-        "remark": null
+        "remark": ""
     },
     {
         "employee_no": "766",
@@ -1933,9 +1933,9 @@
         "contract_end_date": "2026-06-02",
         "salary": 2358333,
         "annual_salary": 28299996,
-        "retire_date": null,
+        "retire_date": "2026-04-30",
         "leave_status": "",
-        "remark": null
+        "remark": ""
     },
     {
         "employee_no": "873",
@@ -9666,8 +9666,8 @@
         "phone_mobile": "010-8509-3416",
         "contract_type": "정규직",
         "contract_end_date": null,
-        "salary": 9166667,
-        "annual_salary": 110000004,
+        "salary": 0,
+        "annual_salary": 0,
         "retire_date": null,
         "leave_status": "",
         "remark": ""
