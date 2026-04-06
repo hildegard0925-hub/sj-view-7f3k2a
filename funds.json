@@ -6735,8 +6735,53 @@
         "id": 1590,
         "pay_date": "2026-04-06",
         "vendor": "김경한",
-        "description": "영양과 3/3~4",
+        "description": "일용직 영양과 3/3~4",
         "amount": 153420,
+        "account": "",
+        "company": "병원"
+    },
+    {
+        "id": 1591,
+        "pay_date": "2026-04-01",
+        "vendor": "전나경",
+        "description": "일용직 영양과",
+        "amount": 110000,
+        "account": "",
+        "company": "병원"
+    },
+    {
+        "id": 1592,
+        "pay_date": "2026-04-02",
+        "vendor": "전나경",
+        "description": "일용직 영양과",
+        "amount": 110000,
+        "account": "",
+        "company": "병원"
+    },
+    {
+        "id": 1593,
+        "pay_date": "2026-04-03",
+        "vendor": "전나경",
+        "description": "일용직 영양과",
+        "amount": 110000,
+        "account": "",
+        "company": "병원"
+    },
+    {
+        "id": 1594,
+        "pay_date": "2026-04-03",
+        "vendor": "주유소",
+        "description": "구급차 유류대",
+        "amount": 70000,
+        "account": "",
+        "company": "병원"
+    },
+    {
+        "id": 1595,
+        "pay_date": "2026-04-06",
+        "vendor": "이순조",
+        "description": "일용직 영양과",
+        "amount": 110000,
         "account": "",
         "company": "병원"
     }
