@@ -119,6 +119,31 @@ input[type="date"] {
 
 <body>
 
+<div id="loginBox" style="
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+">
+    <div style="
+        border: 1px solid #ccc;
+        padding: 20px;
+        border-radius: 10px;
+        text-align: center;
+    ">
+        <h3>접속 비밀번호</h3>
+        <input type="password" id="passwordInput" placeholder="비밀번호 입력">
+        <br><br>
+        <button onclick="checkPassword()">확인</button>
+    </div>
+</div>
+
 <h2>SweetJelly 조회</h2>
 
 <div class="control-area">
@@ -620,6 +645,32 @@ function loadVendors() {
             render(data);
 
         });
+
+}
+function checkPassword() {
+
+    const password =
+        document
+        .getElementById("passwordInput")
+        .value;
+
+    const correctPassword =
+        "3848";   // ← 여기만 원하는 비밀번호로 변경
+
+    if (password === correctPassword) {
+
+        document
+            .getElementById("loginBox")
+            .style
+            .display = "none";
+
+    }
+
+    else {
+
+        alert("비밀번호가 올바르지 않습니다.");
+
+    }
 
 }
 </script>
