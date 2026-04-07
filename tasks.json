@@ -8220,7 +8220,7 @@
         "id": 916,
         "title": "서미림,국민정 과장",
         "date": "2026-04-09",
-        "category": "확인",
+        "category": "인사",
         "status": "예정",
         "content": "급여설정 변경",
         "company": "병원"
@@ -8916,6 +8916,24 @@
         "category": "확인",
         "status": "예정",
         "content": "원래 23일에 확인하나 휴가로 당겨서 확인",
+        "company": "병원"
+    },
+    {
+        "id": 1165,
+        "title": "7병동 회식",
+        "date": "2026-04-09",
+        "category": "확인",
+        "status": "예정",
+        "content": "14명 420,000원",
+        "company": "병원"
+    },
+    {
+        "id": 1167,
+        "title": "최승영과장 연락",
+        "date": "2026-04-08",
+        "category": "안내",
+        "status": "예정",
+        "content": "진료부 인센티브 잔액 확인 후 연락",
         "company": "병원"
     }
 ]
