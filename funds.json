@@ -6304,7 +6304,7 @@
         "pay_date": "2026-04-10",
         "vendor": "건강보험공단",
         "description": "4대보험 및 세금",
-        "amount": 199901241,
+        "amount": 199889740,
         "account": "",
         "company": "병원"
     },
@@ -6313,7 +6313,7 @@
         "pay_date": "2026-04-10",
         "vendor": "상록수간병사회",
         "description": "간병사비",
-        "amount": 174943643,
+        "amount": 176089396,
         "account": "국민은행 131501-04-464145",
         "company": "병원"
     },
@@ -6331,8 +6331,8 @@
         "pay_date": "2026-04-13",
         "vendor": "현대카드",
         "description": "현대카드대금",
-        "amount": null,
-        "account": null,
+        "amount": 9518810,
+        "account": "",
         "company": "병원"
     },
     {
@@ -6340,8 +6340,8 @@
         "pay_date": "2026-04-13",
         "vendor": "하나카드",
         "description": "하나카드대금",
-        "amount": null,
-        "account": null,
+        "amount": 70855753,
+        "account": "",
         "company": "병원"
     },
     {
@@ -6358,8 +6358,8 @@
         "pay_date": "2026-04-14",
         "vendor": "롯데카드",
         "description": "롯데카드대금",
-        "amount": null,
-        "account": null,
+        "amount": 27436620,
+        "account": "",
         "company": "병원"
     },
     {
@@ -6421,8 +6421,8 @@
         "pay_date": "2026-04-23",
         "vendor": "하나카드",
         "description": "하나카드대금(병원)",
-        "amount": null,
-        "account": null,
+        "amount": 16980127,
+        "account": "",
         "company": "병원"
     },
     {
