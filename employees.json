@@ -9414,7 +9414,7 @@
         "salary": 3301352,
         "annual_salary": 39616224,
         "retire_date": null,
-        "leave_status": "",
+        "leave_status": "임신기단축근무",
         "remark": ""
     },
     {
@@ -12032,7 +12032,7 @@
         "salary": 2300000,
         "annual_salary": 27600000,
         "retire_date": "2026-04-07",
-        "leave_status": "무급휴직",
+        "leave_status": "",
         "remark": ""
     },
     {
