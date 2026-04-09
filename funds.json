@@ -6793,5 +6793,14 @@
         "amount": 110000,
         "account": "부산은행 142-12-016782-0",
         "company": "병원"
+    },
+    {
+        "id": 1597,
+        "pay_date": "2026-04-09",
+        "vendor": "강성년",
+        "description": "일용직 영양과",
+        "amount": 110000,
+        "account": "",
+        "company": "병원"
     }
 ]
