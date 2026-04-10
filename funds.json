@@ -6493,8 +6493,8 @@
         "pay_date": "2026-04-10",
         "vendor": "건강보험공단",
         "description": "4대보험 및 세금",
-        "amount": null,
-        "account": null,
+        "amount": 3373650,
+        "account": "",
         "company": "피에스"
     },
     {
@@ -6800,6 +6800,15 @@
         "vendor": "강성년",
         "description": "일용직 영양과",
         "amount": 110000,
+        "account": "",
+        "company": "병원"
+    },
+    {
+        "id": 1598,
+        "pay_date": "2026-04-10",
+        "vendor": "한국전력공사",
+        "description": "전력비",
+        "amount": 14899660,
         "account": "",
         "company": "병원"
     }
