@@ -8228,10 +8228,10 @@
     {
         "id": 919,
         "title": "근로내역확인신고",
-        "date": "2026-04-10",
+        "date": "2026-05-08",
         "category": "제출",
-        "status": "예정",
-        "content": "김경한, 전나경 일용직 신고 (세금 포함",
+        "status": "진행",
+        "content": "영양과 일용직 신고 (소득세 포함)",
         "company": "병원"
     },
     {
@@ -8518,8 +8518,8 @@
         "title": "급여대장 전송",
         "date": "2026-04-10",
         "category": "제출",
-        "status": "예정",
-        "content": "병원, 피에스 포함",
+        "status": "완료",
+        "content": "병원(일용직명세서), 피에스 포함",
         "company": "병원"
     },
     {
@@ -8536,7 +8536,7 @@
         "title": "4대보험 신고",
         "date": "2026-04-10",
         "category": "제출",
-        "status": "예정",
+        "status": "진행",
         "content": "입, 퇴사 및 유예신고",
         "company": "병원"
     },
@@ -8887,7 +8887,7 @@
         "title": "병원장님 휴가",
         "date": "2026-04-10",
         "category": "공지",
-        "status": "예정",
+        "status": "완료",
         "content": "4/17",
         "company": "병원"
     },
@@ -8986,7 +8986,7 @@
         "title": "제증명 발급",
         "date": "2026-04-10",
         "category": "서류",
-        "status": "예정",
+        "status": "진행",
         "content": "최지훈 - 원천징수영수증, 오전 방문\n김수연 - 원천징수영수증, 최지훈 오전 방문",
         "company": "병원"
     },
@@ -9013,7 +9013,7 @@
         "title": "제증명 발급",
         "date": "2026-04-09",
         "category": "서류",
-        "status": "진행",
+        "status": "완료",
         "content": "이상윤 - 중소기업확인서",
         "company": "병원"
     },
@@ -9058,8 +9058,26 @@
         "title": "6병동 회식",
         "date": "2026-04-10",
         "category": "확인",
-        "status": "예정",
+        "status": "진행",
         "content": "14명 420,000원",
+        "company": "병원"
+    },
+    {
+        "id": 1186,
+        "title": "직원 경조사",
+        "date": "2026-04-22",
+        "category": "공지",
+        "status": "예정",
+        "content": "8병동 서이숙 간호조무사 아들 결혼식 https://salondeletter.com/w/0k4clz30pu",
+        "company": "병원"
+    },
+    {
+        "id": 1187,
+        "title": "근로내역확인신고",
+        "date": "2026-04-10",
+        "category": "제출",
+        "status": "진행",
+        "content": "김경한 일용직 신고 (소득세 포함)",
         "company": "병원"
     }
 ]
