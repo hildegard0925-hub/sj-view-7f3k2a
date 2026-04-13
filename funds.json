@@ -5936,7 +5936,7 @@
         "vendor": "건강보험공단외",
         "description": "4대보험 및 세금",
         "amount": 199627730,
-        "account": null,
+        "account": "",
         "company": "병원"
     },
     {
@@ -6350,7 +6350,7 @@
         "vendor": "노란우산",
         "description": "노란우산공제",
         "amount": 250000,
-        "account": null,
+        "account": "",
         "company": "병원"
     },
     {
@@ -6377,7 +6377,7 @@
         "vendor": "새마을금고",
         "description": "별관 임차료",
         "amount": 2200000,
-        "account": "새마을금고 1737090000011",
+        "account": "새마을금고 1737-09-000001-1",
         "company": "병원"
     },
     {
@@ -6475,8 +6475,8 @@
         "pay_date": "2026-04-30",
         "vendor": "새마을금고",
         "description": "별관 관리비",
-        "amount": null,
-        "account": "새마을금고 1737090000011",
+        "amount": "",
+        "account": "새마을금고 1737-09-000001-1",
         "company": "병원"
     },
     {
