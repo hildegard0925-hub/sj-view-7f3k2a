@@ -13513,39 +13513,5 @@
         "retire_date": null,
         "leave_status": "",
         "remark": ""
-    },
-    {
-        "employee_no": "882",
-        "name": "황선재",
-        "resident_no": "010514-3******",
-        "hire_date": "2026-04-13",
-        "department_main": "재활치료부",
-        "department": "2층 작업치료팀",
-        "position": "작업치료사",
-        "phone_mobile": "010-5108-0392",
-        "contract_type": "계약직",
-        "contract_end_date": "2026-07-12",
-        "salary": 2358333,
-        "annual_salary": 28299996,
-        "retire_date": null,
-        "leave_status": "",
-        "remark": ""
-    },
-    {
-        "employee_no": "883",
-        "name": "홍송아",
-        "resident_no": "960302-2******",
-        "hire_date": "2026-04-13",
-        "department_main": "간호부",
-        "department": "외래",
-        "position": "상담간호사",
-        "phone_mobile": "010-5123-2612",
-        "contract_type": "계약직",
-        "contract_end_date": "2027-07-21",
-        "salary": 2885000,
-        "annual_salary": 34620000,
-        "retire_date": null,
-        "leave_status": "",
-        "remark": ""
     }
 ]
