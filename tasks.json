@@ -8219,7 +8219,7 @@
     {
         "id": 918,
         "title": "취업규칙 수정",
-        "date": "2026-04-15",
+        "date": "2026-04-20",
         "category": "제출",
         "status": "예정",
         "content": "부서장 1년 기한. 연차휴가 선사용시 퇴사할 때 급여 공제. 연차휴가 신청시 최소 3일전 신청, 어길시 무단결근 처리, 본인결혼휴가 6일→5일, 자녀결혼 유급휴가 1일 추가. 모성보호법 확인",
@@ -8237,10 +8237,10 @@
     {
         "id": 921,
         "title": "별관 계약",
-        "date": "2026-04-15",
+        "date": "2028-05-01",
         "category": "확인",
         "status": "예정",
-        "content": "2026.05.15 까지 만료",
+        "content": "2026.05.15 만료. 06.30 계약 종료 예정",
         "company": "병원"
     },
     {
@@ -8415,15 +8415,6 @@
         "company": "병원"
     },
     {
-        "id": 1076,
-        "title": "계약직 확인",
-        "date": "2026-04-14",
-        "category": "확인",
-        "status": "진행",
-        "content": null,
-        "company": "병원"
-    },
-    {
         "id": 1077,
         "title": "급여,퇴직연금 보고",
         "date": "2026-04-01",
@@ -8572,8 +8563,8 @@
         "title": "전표 입력",
         "date": "2026-04-14",
         "category": "확인",
-        "status": "진행",
-        "content": "부가세 신고 준비",
+        "status": "완료",
+        "content": "부가세 신고 준비. 4/14 메일 발송",
         "company": "피에스"
     },
     {
@@ -9068,7 +9059,7 @@
         "date": "2026-04-22",
         "category": "공지",
         "status": "예정",
-        "content": "8병동 서이숙 간호조무사 아들 결혼식 https://salondeletter.com/w/0k4clz30pu",
+        "content": "8병동 서이숙 간호조무사 아들 결혼식 https://salondeletter.com/w/0k4clz30pu\n10병동 이다은 결혼식 https://vividvows.co.kr/card/sweetcarrot",
         "company": "병원"
     },
     {
@@ -9130,7 +9121,7 @@
         "title": "피부양자 등록",
         "date": "2026-04-14",
         "category": "제출",
-        "status": "진행",
+        "status": "완료",
         "content": "이화평 모친 4/1",
         "company": "병원"
     },
@@ -9153,21 +9144,30 @@
         "company": "병원"
     },
     {
-        "id": 1197,
-        "title": "이다은 경조사",
-        "date": "2026-04-22",
-        "category": "공지",
-        "status": "예정",
-        "content": "4/25 결혼식 https://vividvows.co.kr/card/sweetcarrot",
-        "company": "병원"
-    },
-    {
         "id": 1198,
         "title": "제증명 발급",
         "date": "2026-04-14",
         "category": "서류",
         "status": "완료",
         "content": "박경일 - 원천징수영수증",
+        "company": "병원"
+    },
+    {
+        "id": 1199,
+        "title": "최승영과장 카드",
+        "date": "2026-04-27",
+        "category": "확인",
+        "status": "예정",
+        "content": "병원장님께 얘기해서 최승영 과장 카드 해지, 신규카드 2개 정도 발급",
+        "company": "병원"
+    },
+    {
+        "id": 1200,
+        "title": "국민정과장 휴가",
+        "date": "2026-04-27",
+        "category": "공지",
+        "status": "예정",
+        "content": "5/4, 5/6",
         "company": "병원"
     }
 ]
