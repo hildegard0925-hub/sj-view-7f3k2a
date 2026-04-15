@@ -8626,7 +8626,7 @@
         "title": "이동검진",
         "date": "2026-04-15",
         "category": "일정",
-        "status": "예정",
+        "status": "완료",
         "content": "",
         "company": "병원"
     },
@@ -9139,7 +9139,7 @@
         "title": "10:30 간부회의",
         "date": "2026-04-14",
         "category": "회의",
-        "status": "진행",
+        "status": "완료",
         "content": "회의록 작성",
         "company": "병원"
     },
@@ -9177,6 +9177,15 @@
         "category": "일정",
         "status": "예정",
         "content": "",
+        "company": "병원"
+    },
+    {
+        "id": 1202,
+        "title": "야간근무 모니터링",
+        "date": "2026-04-15",
+        "category": "확인",
+        "status": "진행",
+        "content": "김기현. 간호인력 야간근무 모니터링 자료. 급여명세서 및 야간간호특별수당 지급 총 금액",
         "company": "병원"
     }
 ]
