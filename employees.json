@@ -4196,7 +4196,7 @@
         "annual_salary": 30000000,
         "retire_date": null,
         "leave_status": "",
-        "remark": "김찬미 대체자"
+        "remark": ""
     },
     {
         "employee_no": "204",
@@ -13544,6 +13544,23 @@
         "contract_end_date": "2027-07-21",
         "salary": 2885000,
         "annual_salary": 34620000,
+        "retire_date": null,
+        "leave_status": "",
+        "remark": ""
+    },
+    {
+        "employee_no": "ps101",
+        "name": "박찬수",
+        "resident_no": "580818-1******",
+        "hire_date": "2018-06-01",
+        "department_main": "행정부",
+        "department": "대표이사",
+        "position": "대표이사",
+        "phone_mobile": "010-3554-8883",
+        "contract_type": "정규직",
+        "contract_end_date": null,
+        "salary": 3231710,
+        "annual_salary": 38780520,
         "retire_date": null,
         "leave_status": "",
         "remark": ""
