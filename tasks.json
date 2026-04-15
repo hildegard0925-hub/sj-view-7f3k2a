@@ -8617,7 +8617,7 @@
         "title": "9병동 회식",
         "date": "2026-04-13",
         "category": "확인",
-        "status": "진행",
+        "status": "완료",
         "content": "4/14 19명 570,000원",
         "company": "병원"
     },
@@ -9186,6 +9186,24 @@
         "category": "확인",
         "status": "진행",
         "content": "김기현. 간호인력 야간근무 모니터링 자료. 급여명세서 및 야간간호특별수당 지급 총 금액",
+        "company": "병원"
+    },
+    {
+        "id": 1203,
+        "title": "워크샵",
+        "date": "2026-04-18",
+        "category": "일정",
+        "status": "완료",
+        "content": "",
+        "company": "병원"
+    },
+    {
+        "id": 1204,
+        "title": "워크샵",
+        "date": "2026-04-19",
+        "category": "일정",
+        "status": "예정",
+        "content": "",
         "company": "병원"
     }
 ]
