@@ -6368,7 +6368,7 @@
         "vendor": "엘지",
         "description": "구급차단말기 통신비",
         "amount": 5500,
-        "account": null,
+        "account": "",
         "company": "병원"
     },
     {
@@ -6404,7 +6404,7 @@
         "vendor": "비트컴퓨터",
         "description": "OCS 사용료",
         "amount": 935000,
-        "account": null,
+        "account": "",
         "company": "병원"
     },
     {
@@ -6727,8 +6727,8 @@
         "pay_date": "2026-04-15",
         "vendor": "환자",
         "description": "외진환급금",
-        "amount": null,
-        "account": null,
+        "amount": 31662130,
+        "account": "",
         "company": "병원"
     },
     {
