@@ -6829,5 +6829,14 @@
         "amount": 105600,
         "account": "",
         "company": "병원"
+    },
+    {
+        "id": 1603,
+        "pay_date": "2026-04-16",
+        "vendor": "대한소아감염학회",
+        "description": "학회등록비",
+        "amount": 20000,
+        "account": "",
+        "company": "병원"
     }
 ]
