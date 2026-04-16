@@ -1695,9 +1695,9 @@
         "contract_end_date": null,
         "salary": 2416667,
         "annual_salary": 29000004,
-        "retire_date": null,
+        "retire_date": "2026-04-30",
         "leave_status": "",
-        "remark": null
+        "remark": ""
     },
     {
         "employee_no": "275",
