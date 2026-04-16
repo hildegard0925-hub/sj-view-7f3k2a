@@ -8244,15 +8244,6 @@
         "company": "병원"
     },
     {
-        "id": 922,
-        "title": "건강보험 분할신청",
-        "date": "2026-04-20",
-        "category": "제출",
-        "status": "진행",
-        "content": "건강보험 연말정산분 12회 분할납부 신청",
-        "company": "병원"
-    },
-    {
         "id": 924,
         "title": "대출 만기",
         "date": "2027-03-15",
@@ -8572,7 +8563,7 @@
         "title": "드라이브 백업",
         "date": "2026-04-16",
         "category": "확인",
-        "status": "진행",
+        "status": "완료",
         "content": null,
         "company": "병원"
     },
@@ -9220,7 +9211,7 @@
         "title": "신규입사",
         "date": "2026-04-16",
         "category": "근로계약",
-        "status": "진행",
+        "status": "완료",
         "content": "6병동 김진주 오후2시",
         "company": "병원"
     },
@@ -9231,6 +9222,24 @@
         "category": "인사",
         "status": "예정",
         "content": "",
+        "company": "병원"
+    },
+    {
+        "id": 1217,
+        "title": "육아휴직 종료 성치송",
+        "date": "2026-12-27",
+        "category": "인사",
+        "status": "예정",
+        "content": "",
+        "company": "병원"
+    },
+    {
+        "id": 1218,
+        "title": "신용카드",
+        "date": "2026-04-17",
+        "category": "확인",
+        "status": "예정",
+        "content": "홍보실장",
         "company": "병원"
     }
 ]
