@@ -8248,7 +8248,7 @@
         "title": "건강보험 분할신청",
         "date": "2026-04-16",
         "category": "제출",
-        "status": "예정",
+        "status": "진행",
         "content": "건강보험 연말정산분 12회 분할납부 신청",
         "company": "병원"
     },
@@ -8536,7 +8536,7 @@
         "title": "퇴직연금 가입",
         "date": "2026-04-16",
         "category": "안내",
-        "status": "예정",
+        "status": "진행",
         "content": "",
         "company": "병원"
     },
@@ -8572,7 +8572,7 @@
         "title": "드라이브 백업",
         "date": "2026-04-16",
         "category": "확인",
-        "status": "예정",
+        "status": "진행",
         "content": null,
         "company": "병원"
     },
@@ -9249,6 +9249,15 @@
         "category": "확인",
         "status": "예정",
         "content": "내일채움공제 5년형 민기직원 지급받은 일자 확인하여 기업부담금을 소득세 정산.",
+        "company": "병원"
+    },
+    {
+        "id": 1211,
+        "title": "신규입사",
+        "date": "2026-04-16",
+        "category": "근로계약",
+        "status": "진행",
+        "content": "6병동 김진주 오후2시",
         "company": "병원"
     }
 ]
