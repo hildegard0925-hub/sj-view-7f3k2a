@@ -6847,5 +6847,23 @@
         "amount": 390000,
         "account": "",
         "company": "병원"
+    },
+    {
+        "id": 1605,
+        "pay_date": "2026-04-17",
+        "vendor": "김정숙",
+        "description": "일용직 영양과",
+        "amount": 100000,
+        "account": "",
+        "company": "병원"
+    },
+    {
+        "id": 1606,
+        "pay_date": "2026-04-17",
+        "vendor": "최효민",
+        "description": "외조모상 부의금",
+        "amount": 100000,
+        "account": "",
+        "company": "병원"
     }
 ]
