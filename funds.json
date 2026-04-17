@@ -6838,5 +6838,14 @@
         "amount": 20000,
         "account": "",
         "company": "병원"
+    },
+    {
+        "id": 1604,
+        "pay_date": "2026-04-17",
+        "vendor": "카이브",
+        "description": "워크샵 숙소 추가결제",
+        "amount": 390000,
+        "account": "",
+        "company": "병원"
     }
 ]
