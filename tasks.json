@@ -8951,7 +8951,7 @@
         "date": "2026-05-06",
         "category": "서류",
         "status": "예정",
-        "content": "한가람 - 원천징수영수증, 경력증명서, garam97@naver.com",
+        "content": "한가람 - 원천징수영수증, 경력증명서, garam97@naver.com\n안유진 - 경력증명서, 원천징수영수증, uugin74@naver.com",
         "company": "병원"
     },
     {
@@ -9240,6 +9240,15 @@
         "category": "확인",
         "status": "예정",
         "content": "홍보실장",
+        "company": "병원"
+    },
+    {
+        "id": 1219,
+        "title": "제증명 발급",
+        "date": "2026-04-17",
+        "category": "서류",
+        "status": "예정",
+        "content": "정효진 - 경력증명서, 양식 제출",
         "company": "병원"
     }
 ]
