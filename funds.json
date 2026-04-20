@@ -6386,7 +6386,7 @@
         "vendor": "테크하임",
         "description": "PACS 사용료",
         "amount": 220000,
-        "account": null,
+        "account": "",
         "company": "병원"
     },
     {
@@ -6395,7 +6395,7 @@
         "vendor": "한비자",
         "description": "한비자 유지보수료",
         "amount": 660000,
-        "account": null,
+        "account": "",
         "company": "병원"
     },
     {
@@ -6403,7 +6403,7 @@
         "pay_date": "2026-04-20",
         "vendor": "비트컴퓨터",
         "description": "OCS 사용료",
-        "amount": 935000,
+        "amount": 1023000,
         "account": "",
         "company": "병원"
     },
@@ -6845,6 +6845,42 @@
         "vendor": "카이브",
         "description": "워크샵 숙소 추가결제",
         "amount": 390000,
+        "account": "",
+        "company": "병원"
+    },
+    {
+        "id": 1605,
+        "pay_date": "2026-04-17",
+        "vendor": "김정숙",
+        "description": "일용직 영양과",
+        "amount": 100000,
+        "account": "",
+        "company": "병원"
+    },
+    {
+        "id": 1606,
+        "pay_date": "2026-04-17",
+        "vendor": "최효민",
+        "description": "외조모상 부의금",
+        "amount": 100000,
+        "account": "",
+        "company": "병원"
+    },
+    {
+        "id": 1607,
+        "pay_date": "2026-04-30",
+        "vendor": "사상구청",
+        "description": "계속도로점용료(4/30)",
+        "amount": 1943480,
+        "account": "",
+        "company": "피에스"
+    },
+    {
+        "id": 1608,
+        "pay_date": "2026-04-20",
+        "vendor": "다인주방",
+        "description": "냉동실 수리비",
+        "amount": 385000,
         "account": "",
         "company": "병원"
     }
