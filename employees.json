@@ -1741,7 +1741,7 @@
         "department_main": "재활치료부",
         "department": "2층 작업치료팀",
         "position": "작업치료사",
-        "phone_mobile": "010-5048-4526",
+        "phone_mobile": "010-6482-4267",
         "contract_type": "정규직",
         "contract_end_date": null,
         "salary": 2416667,
@@ -4768,13 +4768,13 @@
         "department": "4병동",
         "position": "간호사",
         "phone_mobile": "010-5671-1190",
-        "contract_type": "계약직",
+        "contract_type": "계약만료",
         "contract_end_date": "2026-05-19",
         "salary": 3081416,
         "annual_salary": 36976992,
-        "retire_date": null,
+        "retire_date": "2026-05-19",
         "leave_status": "",
-        "remark": null
+        "remark": ""
     },
     {
         "employee_no": "111",
@@ -6336,9 +6336,9 @@
         "contract_end_date": null,
         "salary": 2885000,
         "annual_salary": 34620000,
-        "retire_date": null,
+        "retire_date": "2026-04-30",
         "leave_status": "",
-        "remark": null
+        "remark": ""
     },
     {
         "employee_no": "877",
@@ -9414,7 +9414,7 @@
         "salary": 3301352,
         "annual_salary": 39616224,
         "retire_date": null,
-        "leave_status": "임신기단축근무",
+        "leave_status": "",
         "remark": ""
     },
     {
