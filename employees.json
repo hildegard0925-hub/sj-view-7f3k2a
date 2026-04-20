@@ -6115,9 +6115,9 @@
         "contract_end_date": null,
         "salary": 2662550,
         "annual_salary": 31950600,
-        "retire_date": null,
+        "retire_date": "2026-04-19",
         "leave_status": "",
-        "remark": null
+        "remark": ""
     },
     {
         "employee_no": "335",
@@ -13561,6 +13561,40 @@
         "contract_end_date": null,
         "salary": 3231710,
         "annual_salary": 38780520,
+        "retire_date": null,
+        "leave_status": "",
+        "remark": ""
+    },
+    {
+        "employee_no": "885",
+        "name": "정은혜",
+        "resident_no": "950529-2******",
+        "hire_date": "2026-04-20",
+        "department_main": "간호부",
+        "department": "6병동",
+        "position": "간호사",
+        "phone_mobile": "010-8215-2643",
+        "contract_type": "정규직",
+        "contract_end_date": null,
+        "salary": 2825000,
+        "annual_salary": 33900000,
+        "retire_date": null,
+        "leave_status": "",
+        "remark": ""
+    },
+    {
+        "employee_no": "884",
+        "name": "김진주",
+        "resident_no": "930120-2******",
+        "hire_date": "2026-04-20",
+        "department_main": "간호부",
+        "department": "6병동",
+        "position": "간호사",
+        "phone_mobile": "010-6708-0987",
+        "contract_type": "정규직",
+        "contract_end_date": null,
+        "salary": 2825000,
+        "annual_salary": 33900000,
         "retire_date": null,
         "leave_status": "",
         "remark": ""
