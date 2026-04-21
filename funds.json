@@ -6413,7 +6413,7 @@
         "vendor": "케이티",
         "description": "휴대폰요금",
         "amount": 14590,
-        "account": null,
+        "account": "",
         "company": "병원"
     },
     {
@@ -6892,5 +6892,14 @@
         "amount": 13407060,
         "account": "신한은행 562-153-4801458-5",
         "company": "피에스"
+    },
+    {
+        "id": 1610,
+        "pay_date": "2026-04-21",
+        "vendor": "문자모아",
+        "description": "문자",
+        "amount": 110000,
+        "account": "",
+        "company": "병원"
     }
 ]
