@@ -13510,7 +13510,7 @@
         "contract_end_date": null,
         "salary": 2400000,
         "annual_salary": 28800000,
-        "retire_date": null,
+        "retire_date": "2026-04-30",
         "leave_status": "",
         "remark": ""
     },
