@@ -6439,8 +6439,8 @@
         "pay_date": "2026-04-27",
         "vendor": "에스원",
         "description": "별관경비 수수료",
-        "amount": null,
-        "account": null,
+        "amount": 83930,
+        "account": "",
         "company": "병원"
     },
     {
@@ -6448,8 +6448,8 @@
         "pay_date": "2026-04-27",
         "vendor": "거래처",
         "description": "미지급금",
-        "amount": null,
-        "account": null,
+        "amount": 141382418,
+        "account": "",
         "company": "병원"
     },
     {
@@ -6457,7 +6457,7 @@
         "pay_date": "2026-04-30",
         "vendor": "피에스",
         "description": "병원 임차료",
-        "amount": 138187500,
+        "amount": 153187500,
         "account": "하나은행 161-910012-22204",
         "company": "병원"
     },
@@ -6502,7 +6502,7 @@
         "pay_date": "2026-04-22",
         "vendor": "국민은행",
         "description": "대출금 상환 및 이자 1",
-        "amount": null,
+        "amount": 9378698,
         "account": "국민은행 131501-04-447210",
         "company": "피에스"
     },
@@ -6511,7 +6511,7 @@
         "pay_date": "2026-04-22",
         "vendor": "국민은행",
         "description": "대출금 상환 및 이자 2",
-        "amount": null,
+        "amount": 9477785,
         "account": "국민은행 131501-04-447210",
         "company": "피에스"
     },
@@ -6898,6 +6898,15 @@
         "pay_date": "2026-04-21",
         "vendor": "문자모아",
         "description": "문자",
+        "amount": 110000,
+        "account": "",
+        "company": "병원"
+    },
+    {
+        "id": 1611,
+        "pay_date": "2026-04-21",
+        "vendor": "윤효성",
+        "description": "일용직 영양과",
         "amount": 110000,
         "account": "",
         "company": "병원"
