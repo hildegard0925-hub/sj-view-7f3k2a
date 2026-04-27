@@ -6430,8 +6430,8 @@
         "pay_date": "2026-04-27",
         "vendor": "중소벤처",
         "description": "내일채움공제",
-        "amount": null,
-        "account": null,
+        "amount": 7000000,
+        "account": "",
         "company": "병원"
     },
     {
@@ -6520,7 +6520,7 @@
         "pay_date": "2026-04-27",
         "vendor": "병원",
         "description": "대여금 이자",
-        "amount": null,
+        "amount": 1133000,
         "account": "하나은행 161-910470-19707",
         "company": "피에스"
     },
@@ -6908,6 +6908,15 @@
         "vendor": "윤효성",
         "description": "일용직 영양과",
         "amount": 110000,
+        "account": "",
+        "company": "병원"
+    },
+    {
+        "id": 1613,
+        "pay_date": "2026-04-27",
+        "vendor": "이다은",
+        "description": "축의금",
+        "amount": 300000,
         "account": "",
         "company": "병원"
     }
