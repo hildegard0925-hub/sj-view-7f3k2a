@@ -8618,7 +8618,7 @@
         "date": "2026-05-29",
         "category": "인사",
         "status": "예정",
-        "content": "",
+        "content": "5/30부터 6병동 통합수당 제외",
         "company": "병원"
     },
     {
@@ -9202,7 +9202,7 @@
         "title": "부가세 신고납부",
         "date": "2026-04-27",
         "category": "제출",
-        "status": "장기",
+        "status": "완료",
         "content": "1기 예정",
         "company": "피에스"
     },
@@ -9346,7 +9346,7 @@
         "title": "주간업무보고",
         "date": "2026-04-27",
         "category": "제출",
-        "status": "진행",
+        "status": "완료",
         "content": "",
         "company": "병원"
     },
@@ -9364,8 +9364,8 @@
         "title": "신규입사",
         "date": "2026-04-27",
         "category": "근로계약",
-        "status": "예정",
-        "content": "8병동 정재웅 오후 2시",
+        "status": "진행",
+        "content": "6병동 이승희, 8병동 정재웅 오후 4시\n지하치료실 김민선, 김예지 오후 3시",
         "company": "병원"
     }
 ]
