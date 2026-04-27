@@ -6928,5 +6928,32 @@
         "amount": 41490300,
         "account": "",
         "company": "피에스"
+    },
+    {
+        "id": 1616,
+        "pay_date": "2026-05-29",
+        "vendor": "현대엘리서비스",
+        "description": "승강시 수리비",
+        "amount": 3078900,
+        "account": "신한은행 5621-4399-1110-12",
+        "company": "피에스"
+    },
+    {
+        "id": 1617,
+        "pay_date": "2026-04-30",
+        "vendor": "사상구청",
+        "description": "법인지방소득세(1/2)",
+        "amount": 5278300,
+        "account": "",
+        "company": "피에스"
+    },
+    {
+        "id": 1618,
+        "pay_date": "2026-05-31",
+        "vendor": "사상구청",
+        "description": "법인지방소득세(2/2)",
+        "amount": 5278290,
+        "account": "",
+        "company": "피에스"
     }
 ]
