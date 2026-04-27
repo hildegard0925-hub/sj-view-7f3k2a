@@ -6919,5 +6919,14 @@
         "amount": 300000,
         "account": "",
         "company": "병원"
+    },
+    {
+        "id": 1615,
+        "pay_date": "2026-04-27",
+        "vendor": "국세청",
+        "description": "부가세 1기 확정",
+        "amount": 41490300,
+        "account": "",
+        "company": "피에스"
     }
 ]
