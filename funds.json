@@ -6607,7 +6607,7 @@
     },
     {
         "id": 1572,
-        "pay_date": "2026-05-05",
+        "pay_date": "2026-05-04",
         "vendor": "당직의",
         "description": "의사당직비",
         "amount": 9960000,
@@ -6625,7 +6625,7 @@
     },
     {
         "id": 1574,
-        "pay_date": "2026-05-05",
+        "pay_date": "2026-05-04",
         "vendor": "직원",
         "description": "급여",
         "amount": 862638420,
@@ -6634,7 +6634,7 @@
     },
     {
         "id": 1575,
-        "pay_date": "2026-05-05",
+        "pay_date": "2026-05-04",
         "vendor": "직원",
         "description": "선납 퇴직연금",
         "amount": 10255667,
@@ -6643,7 +6643,7 @@
     },
     {
         "id": 1576,
-        "pay_date": "2026-05-05",
+        "pay_date": "2026-05-04",
         "vendor": "직원",
         "description": "정기분 퇴직연금",
         "amount": 70513123,
@@ -6963,6 +6963,15 @@
         "description": "조의금 시모상",
         "amount": 200000,
         "account": "하나은행 161-910496-87107",
+        "company": "병원"
+    },
+    {
+        "id": 1620,
+        "pay_date": "2026-04-29",
+        "vendor": "이경진",
+        "description": "조의금 조모상",
+        "amount": 100000,
+        "account": "",
         "company": "병원"
     }
 ]
