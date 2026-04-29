@@ -6610,7 +6610,7 @@
         "pay_date": "2026-05-05",
         "vendor": "당직의",
         "description": "의사당직비",
-        "amount": 0,
+        "amount": 9960000,
         "account": "기업은행 010-7533-6283",
         "company": "병원"
     },
@@ -6661,64 +6661,64 @@
     },
     {
         "id": 1578,
-        "pay_date": "2026-05-10",
+        "pay_date": "2026-05-11",
         "vendor": "건강보험공단",
         "description": "4대보험",
-        "amount": 0,
+        "amount": 220919790,
         "account": "",
         "company": "병원"
     },
     {
         "id": 1579,
-        "pay_date": "2026-05-10",
+        "pay_date": "2026-05-11",
         "vendor": "국세청",
         "description": "소득세, 지방소득세",
-        "amount": 0,
+        "amount": 16323700,
         "account": "",
         "company": "병원"
     },
     {
         "id": 1580,
-        "pay_date": "2026-05-10",
+        "pay_date": "2026-05-11",
         "vendor": "상록수간병사회",
         "description": "간병사비",
-        "amount": 0,
+        "amount": 176089396,
         "account": "국민은행 131501-04-464145",
         "company": "병원"
     },
     {
         "id": 1581,
-        "pay_date": "2026-05-10",
+        "pay_date": "2026-05-11",
         "vendor": "직원",
         "description": "동호회 지원금",
-        "amount": 0,
+        "amount": 500000,
         "account": "",
         "company": "병원"
     },
     {
         "id": 1582,
-        "pay_date": "2026-05-10",
+        "pay_date": "2026-05-11",
         "vendor": "한국전력공사",
         "description": "전력비",
-        "amount": 0,
+        "amount": 12317380,
         "account": "",
         "company": "병원"
     },
     {
         "id": 1584,
-        "pay_date": "2026-05-10",
+        "pay_date": "2026-05-11",
         "vendor": "사상구청",
         "description": "주민세(종업원분)",
-        "amount": 0,
+        "amount": 5348480,
         "account": "",
         "company": "병원"
     },
     {
         "id": 1585,
-        "pay_date": "2026-05-10",
+        "pay_date": "2026-05-11",
         "vendor": "국세청",
         "description": "취업 후 학자금 상환",
-        "amount": 0,
+        "amount": 589650,
         "account": "",
         "company": "병원"
     },
@@ -6949,7 +6949,7 @@
     },
     {
         "id": 1618,
-        "pay_date": "2026-05-31",
+        "pay_date": "2026-05-29",
         "vendor": "사상구청",
         "description": "법인지방소득세(2/2)",
         "amount": 5278290,
