@@ -6475,7 +6475,7 @@
         "pay_date": "2026-04-30",
         "vendor": "새마을금고",
         "description": "별관 관리비",
-        "amount": "",
+        "amount": 292680,
         "account": "새마을금고 1737-09-000001-1",
         "company": "병원"
     },
@@ -6538,8 +6538,8 @@
         "pay_date": "2026-04-29",
         "vendor": "하나은행",
         "description": "대출금 상환 및 이자",
-        "amount": 10000000,
-        "account": null,
+        "amount": 12194336,
+        "account": "",
         "company": "피에스"
     },
     {
@@ -6628,7 +6628,7 @@
         "pay_date": "2026-05-05",
         "vendor": "직원",
         "description": "급여",
-        "amount": 0,
+        "amount": 862638420,
         "account": "",
         "company": "병원"
     },
@@ -6637,7 +6637,7 @@
         "pay_date": "2026-05-05",
         "vendor": "직원",
         "description": "선납 퇴직연금",
-        "amount": 0,
+        "amount": 10255667,
         "account": "",
         "company": "병원"
     },
@@ -6646,7 +6646,7 @@
         "pay_date": "2026-05-05",
         "vendor": "직원",
         "description": "정기분 퇴직연금",
-        "amount": 0,
+        "amount": 70513123,
         "account": "",
         "company": "병원"
     },
@@ -6955,5 +6955,14 @@
         "amount": 5278290,
         "account": "",
         "company": "피에스"
+    },
+    {
+        "id": 1619,
+        "pay_date": "2026-04-29",
+        "vendor": "이국희",
+        "description": "조의금 시모상",
+        "amount": 200000,
+        "account": "하나은행 161-910496-87107",
+        "company": "병원"
     }
 ]
