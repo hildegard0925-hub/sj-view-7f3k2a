@@ -6565,7 +6565,7 @@
         "pay_date": "2026-04-30",
         "vendor": "국민은행",
         "description": "대출금 이자",
-        "amount": null,
+        "amount": 35492720,
         "account": "국민은행 131501-04-447210",
         "company": "피에스"
     },
@@ -6972,6 +6972,15 @@
         "description": "조의금 조모상",
         "amount": 100000,
         "account": "",
+        "company": "병원"
+    },
+    {
+        "id": 1622,
+        "pay_date": "2026-04-30",
+        "vendor": "신용보증기금",
+        "description": "보증료외",
+        "amount": 1237290,
+        "account": "기업은행 04765382497182",
         "company": "병원"
     }
 ]
