@@ -6547,7 +6547,7 @@
         "pay_date": "2026-04-30",
         "vendor": "서갑병",
         "description": "가수금 상환",
-        "amount": 25000000,
+        "amount": 30000000,
         "account": "SC제일은행 507-203548-19",
         "company": "피에스"
     },
@@ -6556,7 +6556,7 @@
         "pay_date": "2026-04-30",
         "vendor": "박찬수",
         "description": "가수금 상환",
-        "amount": 25000000,
+        "amount": 30000000,
         "account": "국민은행 115302-04-117796",
         "company": "피에스"
     },
@@ -6981,6 +6981,15 @@
         "description": "보증료외",
         "amount": 1237290,
         "account": "기업은행 04765382497182",
+        "company": "병원"
+    },
+    {
+        "id": 1623,
+        "pay_date": "2026-05-31",
+        "vendor": "국세청",
+        "description": "해외주식 양도소득세",
+        "amount": 1056880,
+        "account": "",
         "company": "병원"
     }
 ]
