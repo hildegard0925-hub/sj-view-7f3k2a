@@ -6991,5 +6991,284 @@
         "amount": 1056880,
         "account": "",
         "company": "병원"
+    },
+    {
+        "id": 1624,
+        "pay_date": "2026-05-12",
+        "vendor": "현대카드",
+        "description": "현대카드대금",
+        "amount": null,
+        "account": null,
+        "company": "병원"
+    },
+    {
+        "id": 1625,
+        "pay_date": "2026-05-13",
+        "vendor": "하나카드",
+        "description": "하나카드대금",
+        "amount": null,
+        "account": null,
+        "company": "병원"
+    },
+    {
+        "id": 1626,
+        "pay_date": "2026-05-13",
+        "vendor": "노란우산",
+        "description": "노란우산공제",
+        "amount": 250000,
+        "account": null,
+        "company": "병원"
+    },
+    {
+        "id": 1627,
+        "pay_date": "2026-05-14",
+        "vendor": "롯데카드",
+        "description": "롯데카드대금",
+        "amount": null,
+        "account": null,
+        "company": "병원"
+    },
+    {
+        "id": 1628,
+        "pay_date": "2026-05-15",
+        "vendor": "환자",
+        "description": "외진환급금",
+        "amount": null,
+        "account": null,
+        "company": "병원"
+    },
+    {
+        "id": 1629,
+        "pay_date": "2026-05-15",
+        "vendor": "엘지",
+        "description": "구급차단말기 통신비",
+        "amount": 5500,
+        "account": null,
+        "company": "병원"
+    },
+    {
+        "id": 1630,
+        "pay_date": "2026-05-15",
+        "vendor": "새마을금고",
+        "description": "별관 임차료",
+        "amount": 2200000,
+        "account": "새마을금고 1737-09-000001-1",
+        "company": "병원"
+    },
+    {
+        "id": 1631,
+        "pay_date": "2026-05-20",
+        "vendor": "테크하임",
+        "description": "PACS 사용료",
+        "amount": 220000,
+        "account": null,
+        "company": "병원"
+    },
+    {
+        "id": 1632,
+        "pay_date": "2026-05-20",
+        "vendor": "한비자",
+        "description": "한비자 유지보수료",
+        "amount": 660000,
+        "account": null,
+        "company": "병원"
+    },
+    {
+        "id": 1633,
+        "pay_date": "2026-05-20",
+        "vendor": "비트컴퓨터",
+        "description": "OCS 사용료",
+        "amount": 1023000,
+        "account": "",
+        "company": "병원"
+    },
+    {
+        "id": 1634,
+        "pay_date": "2026-05-21",
+        "vendor": "케이티",
+        "description": "휴대폰요금",
+        "amount": 14590,
+        "account": null,
+        "company": "병원"
+    },
+    {
+        "id": 1635,
+        "pay_date": "2026-05-23",
+        "vendor": "하나카드",
+        "description": "하나카드대금(병원)",
+        "amount": null,
+        "account": null,
+        "company": "병원"
+    },
+    {
+        "id": 1636,
+        "pay_date": "2026-05-25",
+        "vendor": "중소벤처",
+        "description": "내일채움공제",
+        "amount": null,
+        "account": null,
+        "company": "병원"
+    },
+    {
+        "id": 1637,
+        "pay_date": "2026-05-25",
+        "vendor": "에스원",
+        "description": "별관경비 수수료",
+        "amount": 83930,
+        "account": "",
+        "company": "병원"
+    },
+    {
+        "id": 1638,
+        "pay_date": "2026-05-25",
+        "vendor": "거래처",
+        "description": "미지급금",
+        "amount": null,
+        "account": null,
+        "company": "병원"
+    },
+    {
+        "id": 1639,
+        "pay_date": "2026-05-31",
+        "vendor": "피에스",
+        "description": "병원 임차료",
+        "amount": 153187500,
+        "account": "하나은행 161-910012-22204",
+        "company": "병원"
+    },
+    {
+        "id": 1640,
+        "pay_date": "2026-05-31",
+        "vendor": "피에스",
+        "description": "주차장 사용료",
+        "amount": 5500000,
+        "account": "하나은행 161-910012-22204",
+        "company": "병원"
+    },
+    {
+        "id": 1641,
+        "pay_date": "2026-05-31",
+        "vendor": "새마을금고",
+        "description": "별관 관리비",
+        "amount": 0,
+        "account": "새마을금고 1737-09-000001-1",
+        "company": "병원"
+    },
+    {
+        "id": 1642,
+        "pay_date": "2026-05-05",
+        "vendor": "직원",
+        "description": "급여",
+        "amount": null,
+        "account": null,
+        "company": "피에스"
+    },
+    {
+        "id": 1643,
+        "pay_date": "2026-05-10",
+        "vendor": "건강보험공단",
+        "description": "4대보험 및 세금",
+        "amount": null,
+        "account": null,
+        "company": "피에스"
+    },
+    {
+        "id": 1644,
+        "pay_date": "2026-05-22",
+        "vendor": "국민은행",
+        "description": "대출금 상환 및 이자 1",
+        "amount": null,
+        "account": "국민은행 131501-04-447210",
+        "company": "피에스"
+    },
+    {
+        "id": 1645,
+        "pay_date": "2026-05-22",
+        "vendor": "국민은행",
+        "description": "대출금 상환 및 이자 2",
+        "amount": null,
+        "account": "국민은행 131501-04-447210",
+        "company": "피에스"
+    },
+    {
+        "id": 1646,
+        "pay_date": "2026-05-25",
+        "vendor": "병원",
+        "description": "대여금 이자",
+        "amount": null,
+        "account": "하나은행 161-910470-19707",
+        "company": "피에스"
+    },
+    {
+        "id": 1647,
+        "pay_date": "2026-05-25",
+        "vendor": "광명토탈엔지니어링",
+        "description": "전기안전관리료",
+        "amount": 770000,
+        "account": "농협 301-0358-2600-41",
+        "company": "피에스"
+    },
+    {
+        "id": 1648,
+        "pay_date": "2026-05-29",
+        "vendor": "하나은행",
+        "description": "대출금 상환 및 이자",
+        "amount": 10000000,
+        "account": null,
+        "company": "피에스"
+    },
+    {
+        "id": 1649,
+        "pay_date": "2026-05-31",
+        "vendor": "서갑병",
+        "description": "가수금 상환",
+        "amount": 30000000,
+        "account": "SC제일은행 507-203548-19",
+        "company": "피에스"
+    },
+    {
+        "id": 1650,
+        "pay_date": "2026-05-31",
+        "vendor": "박찬수",
+        "description": "가수금 상환",
+        "amount": 30000000,
+        "account": "국민은행 115302-04-117796",
+        "company": "피에스"
+    },
+    {
+        "id": 1651,
+        "pay_date": "2026-05-31",
+        "vendor": "국민은행",
+        "description": "대출금 이자",
+        "amount": null,
+        "account": "국민은행 131501-04-447210",
+        "company": "피에스"
+    },
+    {
+        "id": 1652,
+        "pay_date": "2026-05-31",
+        "vendor": "파트너스세무회계",
+        "description": "기장 수수료",
+        "amount": 165000,
+        "account": "국민은행 891201-00-031368",
+        "company": "피에스"
+    },
+    {
+        "id": 1653,
+        "pay_date": "2026-05-31",
+        "vendor": "현대엘리베이터",
+        "description": "승강기 유지보수료",
+        "amount": 880000,
+        "account": "신한은행 5621-5699-4402-15",
+        "company": "피에스"
+    },
+    {
+        "id": 1654,
+        "pay_date": "2026-05-31",
+        "vendor": "현대엘리서비스",
+        "description": "엘베 유지보수료",
+        "amount": 495000,
+        "account": "신한은행 5621-4399-1110-12",
+        "company": "피에스"
     }
 ]
