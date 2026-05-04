@@ -6985,7 +6985,7 @@
     },
     {
         "id": 1623,
-        "pay_date": "2026-05-31",
+        "pay_date": "2026-05-29",
         "vendor": "국세청",
         "description": "해외주식 양도소득세",
         "amount": 1056880,
@@ -7093,7 +7093,7 @@
     },
     {
         "id": 1635,
-        "pay_date": "2026-05-23",
+        "pay_date": "2026-05-25",
         "vendor": "하나카드",
         "description": "하나카드대금(병원)",
         "amount": null,
@@ -7129,7 +7129,7 @@
     },
     {
         "id": 1639,
-        "pay_date": "2026-05-31",
+        "pay_date": "2026-05-29",
         "vendor": "피에스",
         "description": "병원 임차료",
         "amount": 153187500,
@@ -7138,7 +7138,7 @@
     },
     {
         "id": 1640,
-        "pay_date": "2026-05-31",
+        "pay_date": "2026-05-29",
         "vendor": "피에스",
         "description": "주차장 사용료",
         "amount": 5500000,
@@ -7147,7 +7147,7 @@
     },
     {
         "id": 1641,
-        "pay_date": "2026-05-31",
+        "pay_date": "2026-05-29",
         "vendor": "새마을금고",
         "description": "별관 관리비",
         "amount": 0,
@@ -7156,7 +7156,7 @@
     },
     {
         "id": 1642,
-        "pay_date": "2026-05-05",
+        "pay_date": "2026-05-04",
         "vendor": "직원",
         "description": "급여",
         "amount": null,
@@ -7165,7 +7165,7 @@
     },
     {
         "id": 1643,
-        "pay_date": "2026-05-10",
+        "pay_date": "2026-05-11",
         "vendor": "건강보험공단",
         "description": "4대보험 및 세금",
         "amount": null,
@@ -7219,7 +7219,7 @@
     },
     {
         "id": 1649,
-        "pay_date": "2026-05-31",
+        "pay_date": "2026-05-29",
         "vendor": "서갑병",
         "description": "가수금 상환",
         "amount": 30000000,
@@ -7228,7 +7228,7 @@
     },
     {
         "id": 1650,
-        "pay_date": "2026-05-31",
+        "pay_date": "2026-05-29",
         "vendor": "박찬수",
         "description": "가수금 상환",
         "amount": 30000000,
@@ -7237,7 +7237,7 @@
     },
     {
         "id": 1651,
-        "pay_date": "2026-05-31",
+        "pay_date": "2026-05-29",
         "vendor": "국민은행",
         "description": "대출금 이자",
         "amount": null,
@@ -7246,7 +7246,7 @@
     },
     {
         "id": 1652,
-        "pay_date": "2026-05-31",
+        "pay_date": "2026-05-29",
         "vendor": "파트너스세무회계",
         "description": "기장 수수료",
         "amount": 165000,
@@ -7255,7 +7255,7 @@
     },
     {
         "id": 1653,
-        "pay_date": "2026-05-31",
+        "pay_date": "2026-05-29",
         "vendor": "현대엘리베이터",
         "description": "승강기 유지보수료",
         "amount": 880000,
@@ -7264,11 +7264,29 @@
     },
     {
         "id": 1654,
-        "pay_date": "2026-05-31",
+        "pay_date": "2026-05-29",
         "vendor": "현대엘리서비스",
         "description": "엘베 유지보수료",
         "amount": 495000,
         "account": "신한은행 5621-4399-1110-12",
         "company": "피에스"
+    },
+    {
+        "id": 1655,
+        "pay_date": "2026-05-04",
+        "vendor": "",
+        "description": "일용직 영양과",
+        "amount": 110000,
+        "account": "",
+        "company": "병원"
+    },
+    {
+        "id": 1656,
+        "pay_date": "2026-05-04",
+        "vendor": "이선중",
+        "description": "조의금 조모상",
+        "amount": 100000,
+        "account": "",
+        "company": "병원"
     }
 ]
